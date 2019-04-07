@@ -1,0 +1,170 @@
+[
+  {
+    "uid": "best",
+    "name": "精品内容网址",
+    "parent": "",
+    "index": 0
+  },
+  {
+    "uid": "blog",
+    "name": "博客/自媒体",
+    "parent": "best",
+    "index": 6
+  },
+  {
+    "uid": "communicate",
+    "name": "即时通讯",
+    "parent": "best",
+    "index": 7
+  },
+  {
+    "uid": "news-agency",
+    "name": "通讯社",
+    "parent": "best",
+    "index": 4
+  },
+  {
+    "uid": "forum",
+    "name": "社区论坛",
+    "parent": "best",
+    "index": 5
+  },
+  {
+    "uid": "video",
+    "name": "视频/流媒体",
+    "parent": "best",
+    "index": 9
+  },
+  {
+    "uid": "location",
+    "name": "地理信息",
+    "parent": "best",
+    "index": 10
+  },
+  {
+    "uid": "cloud",
+    "name": "云服务",
+    "parent": "best",
+    "index": 11
+  },
+  {
+    "uid": "fileshare",
+    "name": "文件托管",
+    "parent": "best",
+    "index": 12
+  },
+  {
+    "uid": "file-share",
+    "name": "文件分享",
+    "parent": "best",
+    "index": 13
+  },
+  {
+    "uid": "pictures",
+    "name": "图片/影像",
+    "parent": "best",
+    "index": 14
+  },
+  {
+    "uid": "entertainment",
+    "name": "娱乐",
+    "parent": "best",
+    "index": 15
+  },
+  {
+    "uid": "aggregate",
+    "name": "信息聚合",
+    "parent": "best",
+    "index": 16
+  },
+  {
+    "uid": "group",
+    "name": "政治倾向",
+    "parent": "best",
+    "index": 17
+  },
+  {
+    "uid": "social-network",
+    "name": "社交",
+    "parent": "best",
+    "index": 8
+  },
+  {
+    "uid": "internet-service",
+    "name": "网络服务",
+    "parent": "best",
+    "index": 19
+  },
+  {
+    "uid": "Technology",
+    "name": "科技",
+    "parent": "best",
+    "index": 20
+  },
+  {
+    "uid": "regions",
+    "name": "区域类网址",
+    "parent": "",
+    "index": 21
+  },
+  {
+    "uid": "taiwan",
+    "name": "台湾",
+    "parent": "regions",
+    "index": 22
+  },
+  {
+    "uid": "hongkong",
+    "name": "香港",
+    "parent": "regions",
+    "index": 23
+  },
+  {
+    "uid": "eu",
+    "name": "欧洲",
+    "parent": "regions",
+    "index": 24
+  },
+  {
+    "uid": "america",
+    "name": "北美",
+    "parent": "regions",
+    "index": 25
+  },
+  {
+    "uid": "australia",
+    "name": "澳大利亚",
+    "parent": "regions",
+    "index": 26
+  },
+  {
+    "uid": "japan",
+    "name": "日韩",
+    "parent": "regions",
+    "index": 27
+  },
+  {
+    "uid": "southeast-asia",
+    "name": "东南亚",
+    "parent": "regions",
+    "index": 28
+  },
+  {
+    "uid": "ngo",
+    "name": "NGO",
+    "parent": "best",
+    "index": 18
+  },
+  {
+    "uid": "news",
+    "name": "国际媒体",
+    "parent": "best",
+    "index": 2
+  },
+  {
+    "uid": "reading",
+    "name": "新闻聚合",
+    "parent": "best",
+    "index": 3
+  }
+]

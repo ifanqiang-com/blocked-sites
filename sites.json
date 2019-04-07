@@ -1,0 +1,1843 @@
+[
+  {
+    "uid": "PBS",
+    "name": "PBS",
+    "description": null,
+    "url": "http://video.pbs.org",
+    "category": "video"
+  },
+  {
+    "uid": "cn.wsj.com",
+    "name": "华尔街日报",
+    "description": "",
+    "url": "http://cn.wsj.com",
+    "category": "news"
+  },
+  {
+    "uid": "sfchronicle",
+    "name": "旧金山晚报",
+    "description": "",
+    "url": "https://www.sfchronicle.com/",
+    "category": "america"
+  },
+  {
+    "uid": "cnn",
+    "name": "CNN",
+    "description": "cnn",
+    "url": "https://www.cnn.com/",
+    "category": "news"
+  },
+  {
+    "uid": "新头壳",
+    "name": "新头壳",
+    "description": "",
+    "url": "http://newtalk.tw",
+    "category": "taiwan"
+  },
+  {
+    "uid": "赫芬顿邮报",
+    "name": "赫芬顿邮报",
+    "description": "",
+    "url": "http://www.huffingtonpost.com",
+    "category": "news"
+  },
+  {
+    "uid": "泡泡",
+    "name": "泡泡",
+    "description": "",
+    "url": "http://pao-pao.net",
+    "category": "blog"
+  },
+  {
+    "uid": "南华早报",
+    "name": "南华早报",
+    "description": "",
+    "url": "http://www.scmp.com/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "bastillepost",
+    "name": "巴士的报",
+    "description": "bastillepost",
+    "url": "http://www.bastillepost.com/hongkong/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "chinainperspective.com",
+    "name": "纵览中国",
+    "description": "",
+    "url": "http://chinainperspective.com",
+    "category": "group"
+  },
+  {
+    "uid": "Go编程语言",
+    "name": "Go编程语言",
+    "description": null,
+    "url": "http://golang.org",
+    "category": "Technology"
+  },
+  {
+    "uid": "美国之音",
+    "name": "美国之音",
+    "description": "",
+    "url": "http://www.voachinese.com",
+    "category": "group"
+  },
+  {
+    "uid": "Giga Circle",
+    "name": "Giga Circle",
+    "description": "",
+    "url": "http://tw.gigacircle.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "netflix",
+    "name": "Netflix",
+    "description": "",
+    "url": "http://netflix.com",
+    "category": "video"
+  },
+  {
+    "uid": "Android",
+    "name": "Android",
+    "description": null,
+    "url": "http://www.android.com",
+    "category": "Technology"
+  },
+  {
+    "uid": "udacity.com",
+    "name": "udacity",
+    "description": null,
+    "url": "http://udacity.com",
+    "category": "Technology"
+  },
+  {
+    "uid": "Coursera",
+    "name": "Coursera",
+    "description": "",
+    "url": "http://www.coursera.org",
+    "category": "Technology"
+  },
+  {
+    "uid": "Box",
+    "name": "Box",
+    "description": "",
+    "url": "http://www.box.com",
+    "category": "cloud"
+  },
+  {
+    "uid": "香港讨论区",
+    "name": "香港讨论区",
+    "description": "",
+    "url": "http://www.discuss.com.hk",
+    "category": "hongkong"
+  },
+  {
+    "uid": "pinterest",
+    "name": "Pinterest",
+    "description": "pinterest",
+    "url": "https://www.pinterest.com",
+    "category": "social-network"
+  },
+  {
+    "uid": "htkou.net",
+    "name": "胡同口",
+    "description": "",
+    "url": "http://www.htkou.net",
+    "category": "america"
+  },
+  {
+    "uid": "NBA",
+    "name": "NBA",
+    "description": "",
+    "url": "http://www.nba.com",
+    "category": "entertainment"
+  },
+  {
+    "uid": "852邮报",
+    "name": "852邮报",
+    "description": "",
+    "url": "http://www.post852.com",
+    "category": "hongkong"
+  },
+  {
+    "uid": "约克论坛",
+    "name": "约克论坛",
+    "description": "",
+    "url": "http://forum.yorkbbs.ca",
+    "category": "america"
+  },
+  {
+    "uid": "Bloomberg",
+    "name": "Bloomberg",
+    "description": "",
+    "url": "http://www.bloomberg.com",
+    "category": "news"
+  },
+  {
+    "uid": "craigslist",
+    "name": "craigslist",
+    "description": null,
+    "url": "http://www.cl.com",
+    "category": "aggregate"
+  },
+  {
+    "uid": "lemonde",
+    "name": "Le Monde 世界报",
+    "description": "lemonde",
+    "url": "http://www.lemonde.fr/",
+    "category": "eu"
+  },
+  {
+    "uid": "谷歌学术",
+    "name": "谷歌学术",
+    "description": null,
+    "url": "http://scholar.google.com",
+    "category": "Technology"
+  },
+  {
+    "uid": "朝鲜日报",
+    "name": "朝鲜日报",
+    "description": "",
+    "url": "http://cnnews.chosun.com",
+    "category": "news"
+  },
+  {
+    "uid": "telegram",
+    "name": "Telegram",
+    "description": "Telegram",
+    "url": "https://telegram.org/",
+    "category": "communicate"
+  },
+  {
+    "uid": "economist",
+    "name": "经济学人",
+    "description": "economist",
+    "url": "https://www.economist.com/",
+    "category": "news"
+  },
+  {
+    "uid": "The Guardian",
+    "name": "The Guardian",
+    "description": "",
+    "url": "http://www.guardian.co.uk",
+    "category": "eu"
+  },
+  {
+    "uid": "twitchtv.com",
+    "name": "Twitch",
+    "description": "",
+    "url": "http://www.twitch.tv",
+    "category": "entertainment"
+  },
+  {
+    "uid": "www.rd.com",
+    "name": "读者文摘",
+    "description": null,
+    "url": "http://rd.com",
+    "category": "reading"
+  },
+  {
+    "uid": "soompi.com",
+    "name": "soompi",
+    "description": "",
+    "url": "http://soompi.com",
+    "category": "japan"
+  },
+  {
+    "uid": "qiwen.lu",
+    "name": "奇闻录",
+    "description": "",
+    "url": "http://qiwen.lu",
+    "category": "blog"
+  },
+  {
+    "uid": "redchinacn.org",
+    "name": "红色中国",
+    "description": null,
+    "url": "http://redchinacn.org",
+    "category": "group"
+  },
+  {
+    "uid": "instagram.com",
+    "name": "instagram",
+    "description": "",
+    "url": "http://instagram.com",
+    "category": "social-network"
+  },
+  {
+    "uid": "khanacademy.org",
+    "name": "khanacademy",
+    "description": "",
+    "url": "http://khanacademy.org",
+    "category": "Technology"
+  },
+  {
+    "uid": "daolan.net",
+    "name": "道兰字幕组",
+    "description": "",
+    "url": "http://daolan.net",
+    "category": "japan"
+  },
+  {
+    "uid": "881903",
+    "name": "香港商业电台",
+    "description": "香港商业电台",
+    "url": "http://www.881903.com/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "etwnextdigital",
+    "name": "饮食男女",
+    "description": "饮食男女",
+    "url": "https://etw.nextdigital.com.hk/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "tianxia",
+    "name": "天下杂志",
+    "description": "tianxia",
+    "url": "https://www.cw.com.tw/",
+    "category": "taiwan"
+  },
+  {
+    "uid": "monkeysee.com",
+    "name": "Monkey See",
+    "description": null,
+    "url": "http://monkeysee.com",
+    "category": "video"
+  },
+  {
+    "uid": "aws.amazon.com/cn/",
+    "name": "Amazon AWS",
+    "description": "",
+    "url": "http://aws.amazon.com/cn/",
+    "category": "cloud"
+  },
+  {
+    "uid": "oushinet",
+    "name": "欧洲时报",
+    "description": "oushinet",
+    "url": "http://www.oushinet.com/",
+    "category": "eu"
+  },
+  {
+    "uid": "www.nasa.gov",
+    "name": "NASA",
+    "description": "",
+    "url": "http://www.nasa.gov",
+    "category": "Technology"
+  },
+  {
+    "uid": "yomiuri",
+    "name": "读卖新闻",
+    "description": "yomiuri",
+    "url": "http://www.yomiuri.co.jp/",
+    "category": "japan"
+  },
+  {
+    "uid": "nikkei",
+    "name": "日本经济新闻",
+    "description": "nikkei",
+    "url": "http://www.nikkei.co.jp/",
+    "category": "japan"
+  },
+  {
+    "uid": "gamer.com.tw",
+    "name": "巴哈姆特",
+    "description": "",
+    "url": "http://gamer.com.tw",
+    "category": "taiwan"
+  },
+  {
+    "uid": "newyorker.com",
+    "name": "The New Yorker",
+    "description": "",
+    "url": "http://newyorker.com",
+    "category": "america"
+  },
+  {
+    "uid": "wenweipo.com",
+    "name": "香港文汇报",
+    "description": "",
+    "url": "http://wenweipo.com",
+    "category": "hongkong"
+  },
+  {
+    "uid": "tvbs",
+    "name": "TVBS",
+    "description": "tvbs",
+    "url": "http://www.tvbs.com/",
+    "category": "taiwan"
+  },
+  {
+    "uid": "ettoday.net",
+    "name": "东森新闻",
+    "description": "",
+    "url": "http://ettoday.net",
+    "category": "taiwan"
+  },
+  {
+    "uid": "botanwang.com",
+    "name": "博谈网",
+    "description": "",
+    "url": "http://botanwang.com",
+    "category": "group"
+  },
+  {
+    "uid": "centralnation.com",
+    "name": "中国失土收复同盟",
+    "description": null,
+    "url": "http://centralnation.com",
+    "category": "group"
+  },
+  {
+    "uid": "metrodaily",
+    "name": "Metro",
+    "description": "metrodaily",
+    "url": "http://www.metrodaily.hk/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "thetimes.co.uk",
+    "name": "泰晤士报",
+    "description": "",
+    "url": "http://thetimes.co.uk",
+    "category": "eu"
+  },
+  {
+    "uid": "bannedbook.org",
+    "name": "禁书网",
+    "description": "",
+    "url": "http://bannedbook.org",
+    "category": "group"
+  },
+  {
+    "uid": "aomiwang.com",
+    "name": "奥秘网",
+    "description": null,
+    "url": "http://aomiwang.com",
+    "category": "blog"
+  },
+  {
+    "uid": "Gamespot",
+    "name": "Gamespot",
+    "description": null,
+    "url": "http://gamespot.com",
+    "category": "entertainment"
+  },
+  {
+    "uid": "wrchina.org",
+    "name": "中国妇权",
+    "description": null,
+    "url": "http://wrchina.org",
+    "category": "group"
+  },
+  {
+    "uid": "cnyes",
+    "name": "钜亨网",
+    "description": "cnyes",
+    "url": "https://www.cnyes.com/",
+    "category": "taiwan"
+  },
+  {
+    "uid": "v2ex",
+    "name": "V2EX",
+    "description": "V2ex",
+    "url": "https://www.v2ex.com/",
+    "category": "forum"
+  },
+  {
+    "uid": "FC2",
+    "name": "FC2",
+    "description": null,
+    "url": "http://fc2.com",
+    "category": "internet-service"
+  },
+  {
+    "uid": "youthwant",
+    "name": "优仕网",
+    "description": "youthwant",
+    "url": "http://www.youthwant.com.tw/",
+    "category": "taiwan"
+  },
+  {
+    "uid": "i-cable",
+    "name": "香港有线电视",
+    "description": "http://www.i-cable.com/",
+    "url": "http://www.i-cable.com/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "壹周刊",
+    "name": "壹周刊",
+    "description": "nextplus",
+    "url": "http://nextplus.nextmedia.com/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "在西安",
+    "name": "在西安",
+    "description": "",
+    "url": "http://www.inxian.com",
+    "category": "blog"
+  },
+  {
+    "uid": "墙外楼",
+    "name": "墙外楼",
+    "description": "",
+    "url": "http://letscorp.net",
+    "category": "blog"
+  },
+  {
+    "uid": "自由微博",
+    "name": "自由微博",
+    "description": "",
+    "url": "http://freeweibo.com",
+    "category": "blog"
+  },
+  {
+    "uid": "tumblr",
+    "name": "tumblr",
+    "description": "",
+    "url": "http://www.tumblr.com",
+    "category": "social-network"
+  },
+  {
+    "uid": "slideshare",
+    "name": "slideshare",
+    "description": "",
+    "url": "http://slideshare.net",
+    "category": "file-share"
+  },
+  {
+    "uid": "theinitium",
+    "name": "端传媒",
+    "description": "theinitium",
+    "url": "https://theinitium.com/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "KakaoTalk",
+    "name": "KakaoTalk",
+    "description": "KakaoTalk",
+    "url": "https://www.kakaocorp.com/",
+    "category": "communicate"
+  },
+  {
+    "uid": "Snapchat",
+    "name": "Snapchat",
+    "description": "Snapchat",
+    "url": "https://www.snapchat.com/",
+    "category": "communicate"
+  },
+  {
+    "uid": "壹傳媒",
+    "name": "壹傳媒",
+    "description": "",
+    "url": "http://nextmedia.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "功夫网与翻墙",
+    "name": "功夫网与翻墙",
+    "description": "",
+    "url": "http://www.chinagfw.org",
+    "category": "internet-service"
+  },
+  {
+    "uid": "中国茉莉花",
+    "name": "中国茉莉花",
+    "description": null,
+    "url": "http://www.molihua.org",
+    "category": "group"
+  },
+  {
+    "uid": "stormmg",
+    "name": "风传媒",
+    "description": "stormmg",
+    "url": "http://www.storm.mg/",
+    "category": "taiwan"
+  },
+  {
+    "uid": "SugarSync",
+    "name": "SugarSync",
+    "description": "SugarSync",
+    "url": "https://www.sugarsync.com/",
+    "category": "fileshare"
+  },
+  {
+    "uid": "IGFW",
+    "name": "IGFW",
+    "description": "",
+    "url": "http://igfw.net",
+    "category": "internet-service"
+  },
+  {
+    "uid": "GitHub",
+    "name": "github.com",
+    "description": "",
+    "url": "http://github.com",
+    "category": "Technology"
+  },
+  {
+    "uid": "番薯藤",
+    "name": "番薯藤",
+    "description": "",
+    "url": "http://www.yam.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "chinapress",
+    "name": "中国报",
+    "description": "chinapress",
+    "url": "http://www.chinapress.com.my/",
+    "category": "southeast-asia"
+  },
+  {
+    "uid": "chubun",
+    "name": "中文导报",
+    "description": "chubun",
+    "url": "http://www.chubun.com/",
+    "category": "japan"
+  },
+  {
+    "uid": "海纳百川",
+    "name": "海纳百川",
+    "description": "",
+    "url": "http://hjclub.info",
+    "category": "group"
+  },
+  {
+    "uid": "朝日新闻中文网",
+    "name": "朝日新闻中文网",
+    "description": "",
+    "url": "http://asahichinese-j.com/",
+    "category": "news"
+  },
+  {
+    "uid": "elpais",
+    "name": "EL PAIS 国家报",
+    "description": "elpais",
+    "url": "国家报",
+    "category": "eu"
+  },
+  {
+    "uid": "nanyangpost",
+    "name": "南洋视界",
+    "description": "nanyangpost",
+    "url": "http://news.nanyangpost.com/",
+    "category": "southeast-asia"
+  },
+  {
+    "uid": "time",
+    "name": "TIME",
+    "description": "time",
+    "url": "http://www.time.com/",
+    "category": "news"
+  },
+  {
+    "uid": "力报",
+    "name": "力报",
+    "description": "",
+    "url": "http://exmoo.com",
+    "category": "hongkong"
+  },
+  {
+    "uid": "百度日本",
+    "name": "百度日本",
+    "description": "",
+    "url": "http://www.baidu.jp",
+    "category": "japan"
+  },
+  {
+    "uid": "苹果日报",
+    "name": "苹果日报",
+    "description": "",
+    "url": "http://hk.apple.nextmedia.com",
+    "category": "hongkong"
+  },
+  {
+    "uid": "未名空间",
+    "name": "未名空间",
+    "description": "",
+    "url": "http://www.mitbbs.com",
+    "category": "america"
+  },
+  {
+    "uid": "公牛挤奶",
+    "name": "公牛挤奶",
+    "description": null,
+    "url": "http://www.rapbull.net",
+    "category": "blog"
+  },
+  {
+    "uid": "开放杂志",
+    "name": "开放杂志",
+    "description": "",
+    "url": "http://open.com.hk",
+    "category": "group"
+  },
+  {
+    "uid": "FT中文网",
+    "name": "FT中文网",
+    "description": "",
+    "url": "http://www.ftchinese.com",
+    "category": "news"
+  },
+  {
+    "uid": "engadget",
+    "name": "engadget",
+    "description": "engadget",
+    "url": "https://chinese.engadget.com/",
+    "category": "blog"
+  },
+  {
+    "uid": "resilio",
+    "name": "Resilio",
+    "description": "resilio",
+    "url": "https://www.resilio.com/",
+    "category": "fileshare"
+  },
+  {
+    "uid": "niconico.jp",
+    "name": "NICONICO动画",
+    "description": "",
+    "url": "http://niconico.jp",
+    "category": "japan"
+  },
+  {
+    "uid": "metroradio",
+    "name": "新城电台",
+    "description": "metroradio",
+    "url": "http://www.metroradio.com.hk/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "hkej",
+    "name": "信报",
+    "description": "hkej",
+    "url": "http://www.hkej.com/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "tw.yahoo.com",
+    "name": "Yahoo奇摩",
+    "description": "",
+    "url": "http://tw.yahoo.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "yzzk.com",
+    "name": "亚洲周刊",
+    "description": "",
+    "url": "http://yzzk.com",
+    "category": "hongkong"
+  },
+  {
+    "uid": "明镜网",
+    "name": "明镜网",
+    "description": "",
+    "url": "http://www.mirrorbooks.com",
+    "category": "news"
+  },
+  {
+    "uid": "chinesepen.org",
+    "name": "独立中文笔会",
+    "description": null,
+    "url": "http://chinesepen.org",
+    "category": "group"
+  },
+  {
+    "uid": "cn.reuters.com",
+    "name": "路透社",
+    "description": "",
+    "url": "http://cn.reuters.com",
+    "category": "news-agency"
+  },
+  {
+    "uid": "hulu.com",
+    "name": "Hulu",
+    "description": "",
+    "url": "http://hulu.com",
+    "category": "video"
+  },
+  {
+    "uid": "dw-world.com",
+    "name": "德国之声",
+    "description": "",
+    "url": "http://www.dw.com/zh",
+    "category": "news"
+  },
+  {
+    "uid": "kenengba.com",
+    "name": "可能吧",
+    "description": null,
+    "url": "http://kenengba.com",
+    "category": "blog"
+  },
+  {
+    "uid": "zaobao.com",
+    "name": "联合早报",
+    "description": "",
+    "url": "http://zaobao.com",
+    "category": "news"
+  },
+  {
+    "uid": "yuanjian",
+    "name": "远见杂志",
+    "description": "yuanjian",
+    "url": "https://www.gvm.com.tw/",
+    "category": "taiwan"
+  },
+  {
+    "uid": "googlephoto",
+    "name": "Google Foto",
+    "description": "",
+    "url": "https://photos.google.com",
+    "category": "pictures"
+  },
+  {
+    "uid": "wikipedia.org",
+    "name": "维基百科",
+    "description": "",
+    "url": "http://wikipedia.org",
+    "category": "Technology"
+  },
+  {
+    "uid": "xanga.com",
+    "name": "Xanga",
+    "description": null,
+    "url": "http://xanga.com",
+    "category": "blog"
+  },
+  {
+    "uid": "dropbox.com",
+    "name": "Dropbox",
+    "description": "",
+    "url": "http://dropbox.com",
+    "category": "cloud"
+  },
+  {
+    "uid": "chinadigitaltimes.net/chinese/",
+    "name": "中国数字时代",
+    "description": "",
+    "url": "http://chinadigitaltimes.net/chinese/",
+    "category": "reading"
+  },
+  {
+    "uid": "Googleplus",
+    "name": "Google+",
+    "description": "",
+    "url": "http://plus.google.com",
+    "category": "social-network"
+  },
+  {
+    "uid": "crossing",
+    "name": "换日线",
+    "description": "crossing",
+    "url": "https://crossing.cw.com.tw/",
+    "category": "taiwan"
+  },
+  {
+    "uid": "myspace",
+    "name": "MySpace",
+    "description": null,
+    "url": "http://myspace.com",
+    "category": "blog"
+  },
+  {
+    "uid": "wikisource.org",
+    "name": "维基文库",
+    "description": "",
+    "url": "http://wikisource.org",
+    "category": "Technology"
+  },
+  {
+    "uid": "bbc.co.uk/chinese/",
+    "name": "BBC中文网",
+    "description": "",
+    "url": "http://bbc.co.uk/chinese/",
+    "category": "news"
+  },
+  {
+    "uid": "archive.org",
+    "name": "互联网档案馆",
+    "description": "",
+    "url": "http://archive.org",
+    "category": "internet-service"
+  },
+  {
+    "uid": "cnd.org",
+    "name": "华夏文摘",
+    "description": null,
+    "url": "http://cnd.org",
+    "category": "group"
+  },
+  {
+    "uid": "foreignpolicy.com",
+    "name": "外交政策",
+    "description": "",
+    "url": "http://foreignpolicy.com",
+    "category": "america"
+  },
+  {
+    "uid": "udn.com",
+    "name": "联合新闻网",
+    "description": "",
+    "url": "http://udn.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "new york times",
+    "name": "纽约时报",
+    "description": "",
+    "url": "http://cn.nytimes.com",
+    "category": "news"
+  },
+  {
+    "uid": "chinese.rfi.fr",
+    "name": "法国广播电台",
+    "description": "",
+    "url": "http://chinese.rfi.fr",
+    "category": "news"
+  },
+  {
+    "uid": "cryptome",
+    "name": "CRYPTOME",
+    "description": null,
+    "url": "http://cryptome.org",
+    "category": "group"
+  },
+  {
+    "uid": "ap",
+    "name": "美联社",
+    "description": "ap",
+    "url": "https://www.ap.org/",
+    "category": "news-agency"
+  },
+  {
+    "uid": "stheadline",
+    "name": "头条日报",
+    "description": "stheadline",
+    "url": "http://hd.stheadline.com/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "WhatsApp",
+    "name": "WhatsApp",
+    "description": "WhatsApp",
+    "url": "https://www.whatsapp.com/",
+    "category": "communicate"
+  },
+  {
+    "uid": "line",
+    "name": "LINE",
+    "description": "line",
+    "url": "https://line.me/",
+    "category": "communicate"
+  },
+  {
+    "uid": "orientaldaily",
+    "name": "东方日报",
+    "description": "orientaldaily",
+    "url": "http://orientaldaily.on.cc/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "boxun.com",
+    "name": "博讯新闻网",
+    "description": "",
+    "url": "http://boxun.com",
+    "category": "reading"
+  },
+  {
+    "uid": "oncc",
+    "name": "东网",
+    "description": "oncc",
+    "url": "http://hk.on.cc/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "c-spanvideo.org",
+    "name": "C-SPAN",
+    "description": "",
+    "url": "http://c-spanvideo.org",
+    "category": "video"
+  },
+  {
+    "uid": "nexttv.com.tw",
+    "name": "壹电视",
+    "description": "",
+    "url": "http://nexttv.com.tw",
+    "category": "taiwan"
+  },
+  {
+    "uid": "am730",
+    "name": "am730",
+    "description": "am730",
+    "url": "https://www.am730.com.hk/",
+    "category": "hongkong"
+  },
+  {
+    "uid": "rsf.org",
+    "name": "无国界记者",
+    "description": "",
+    "url": "http://rsf.org",
+    "category": "group"
+  },
+  {
+    "uid": "fooooo.com",
+    "name": "Fooooo",
+    "description": "",
+    "url": "http://fooooo.com",
+    "category": "japan"
+  },
+  {
+    "uid": "kwongwah",
+    "name": "光华日报",
+    "description": "kwongwah",
+    "url": "http://www.kwongwah.com.my/",
+    "category": "southeast-asia"
+  },
+  {
+    "uid": "www.chinatimes.com",
+    "name": "中时电子报",
+    "description": "",
+    "url": "http://www.chinatimes.com/",
+    "category": "taiwan"
+  },
+  {
+    "uid": "dongfangwang",
+    "name": "东方网",
+    "description": "dongfangwang",
+    "url": "http://www.orientaldaily.com.my/",
+    "category": "southeast-asia"
+  },
+  {
+    "uid": "nrk",
+    "name": "NRK 挪威广播",
+    "description": "nrk",
+    "url": "https://www.nrk.no/",
+    "category": "eu"
+  },
+  {
+    "uid": "sydneytoday",
+    "name": "今日悉尼",
+    "description": "sydneytoday",
+    "url": "http://www.sydneytoday.com/",
+    "category": "australia"
+  },
+  {
+    "uid": "cambridgeesol.org",
+    "name": "Cambridge ESOL",
+    "description": null,
+    "url": "http://cambridgeesol.org",
+    "category": "Technology"
+  },
+  {
+    "uid": "westca",
+    "name": "加西网",
+    "description": "westca",
+    "url": "http://www.westca.com/",
+    "category": "america"
+  },
+  {
+    "uid": "unicode.org",
+    "name": "Unicode",
+    "description": null,
+    "url": "http://unicode.org",
+    "category": "Technology"
+  },
+  {
+    "uid": "pcdvd.com.tw",
+    "name": "PCDVD",
+    "description": "",
+    "url": "http://pcdvd.com.tw",
+    "category": "taiwan"
+  },
+  {
+    "uid": "aboluowang.com",
+    "name": "阿波罗网",
+    "description": "",
+    "url": "http://aboluowang.com",
+    "category": "group"
+  },
+  {
+    "uid": "mediafire",
+    "name": "MediaFire",
+    "description": "mediafire",
+    "url": "https://www.mediafire.com/",
+    "category": "file-share"
+  },
+  {
+    "uid": "opendemocracy.net",
+    "name": "OpenDemocracy",
+    "description": null,
+    "url": "http://opendemocracy.net",
+    "category": "group"
+  },
+  {
+    "uid": "coolaler.com",
+    "name": "沧者极限",
+    "description": "",
+    "url": "http://coolaler.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "rferl.org",
+    "name": "自由欧洲",
+    "description": null,
+    "url": "http://rferl.org",
+    "category": "group"
+  },
+  {
+    "uid": "rthk.hk",
+    "name": "香港电台",
+    "description": "",
+    "url": "http://rthk.hk",
+    "category": "hongkong"
+  },
+  {
+    "uid": "have8.com",
+    "name": "有吧",
+    "description": "",
+    "url": "http://have8.com",
+    "category": "reading"
+  },
+  {
+    "uid": "disp.cc",
+    "name": "disp BBS",
+    "description": "",
+    "url": "http://disp.cc",
+    "category": "taiwan"
+  },
+  {
+    "uid": "singtao.com",
+    "name": "星岛日报",
+    "description": "",
+    "url": "http://singtao.com",
+    "category": "hongkong"
+  },
+  {
+    "uid": "amnesty.org",
+    "name": "大赦国际",
+    "description": null,
+    "url": "http://amnesty.org",
+    "category": "group"
+  },
+  {
+    "uid": "jbtalks.cc",
+    "name": "Jbtalks",
+    "description": "",
+    "url": "http://jbtalks.cc",
+    "category": "southeast-asia"
+  },
+  {
+    "uid": "popyard.org",
+    "name": "八阙",
+    "description": "",
+    "url": "http://popyard.org",
+    "category": "reading"
+  },
+  {
+    "uid": "gopetition.com",
+    "name": "Gopetition",
+    "description": null,
+    "url": "http://gopetition.com",
+    "category": "group"
+  },
+  {
+    "uid": "hrw.org",
+    "name": "人权观察",
+    "description": null,
+    "url": "http://www.hrw.org/zh-hans",
+    "category": "group"
+  },
+  {
+    "uid": "stupidvideos.com",
+    "name": "Stupidvideos",
+    "description": null,
+    "url": "http://stupidvideos.com",
+    "category": "video"
+  },
+  {
+    "uid": "aolnews.com",
+    "name": "AOL news",
+    "description": "",
+    "url": "http://aolnews.com",
+    "category": "america"
+  },
+  {
+    "uid": "nobelprize.org",
+    "name": "诺贝尔奖",
+    "description": null,
+    "url": "http://nobelprize.org",
+    "category": "group"
+  },
+  {
+    "uid": "viber",
+    "name": "Viber",
+    "description": "Viber",
+    "url": "https://www.viber.com/",
+    "category": "communicate"
+  },
+  {
+    "uid": "provideocoalition.com",
+    "name": "provideocoalition",
+    "description": "",
+    "url": "http://provideocoalition.com",
+    "category": "entertainment"
+  },
+  {
+    "uid": "ohloh.net",
+    "name": "Ohloh",
+    "description": null,
+    "url": "http://ohloh.net",
+    "category": "internet-service"
+  },
+  {
+    "uid": "imgur",
+    "name": "Imgur",
+    "description": "imgur",
+    "url": "https://imgur.com/",
+    "category": "forum"
+  },
+  {
+    "uid": "twicsy.com",
+    "name": "Twicsy",
+    "description": "",
+    "url": "http://twicsy.com",
+    "category": "social-network"
+  },
+  {
+    "uid": "globalvoicesonline.org",
+    "name": "全球之声",
+    "description": null,
+    "url": "http://globalvoicesonline.org",
+    "category": "group"
+  },
+  {
+    "uid": "westca.com",
+    "name": "加西网",
+    "description": "",
+    "url": "http://westca.com",
+    "category": "america"
+  },
+  {
+    "uid": "mtv.co.uk",
+    "name": "MTV UK",
+    "description": null,
+    "url": "http://mtv.co.uk",
+    "category": "video"
+  },
+  {
+    "uid": "uncyclopedia.info",
+    "name": "伪基百科",
+    "description": "",
+    "url": "http://uncyclopedia.tw",
+    "category": "taiwan"
+  },
+  {
+    "uid": "la-forum.org",
+    "name": "LA讨论区",
+    "description": "",
+    "url": "http://la-forum.org",
+    "category": "taiwan"
+  },
+  {
+    "uid": "powerapple.com",
+    "name": "苹果论坛",
+    "description": "",
+    "url": "http://powerapple.com",
+    "category": "eu"
+  },
+  {
+    "uid": "cna.com.tw",
+    "name": "中央社",
+    "description": "",
+    "url": "http://cna.com.tw",
+    "category": "taiwan"
+  },
+  {
+    "uid": "mysinablog.com",
+    "name": "新浪海外",
+    "description": "",
+    "url": "http://mysinablog.com",
+    "category": "blog"
+  },
+  {
+    "uid": "yasni.co.uk",
+    "name": "Yasni",
+    "description": null,
+    "url": "http://yasni.co.uk",
+    "category": "aggregate"
+  },
+  {
+    "uid": "rfa.org",
+    "name": "自由亚洲",
+    "description": "",
+    "url": "http://rfa.org/mandarin/",
+    "category": "group"
+  },
+  {
+    "uid": "abc",
+    "name": "ABC",
+    "description": "abc",
+    "url": "http://abc.go.com/",
+    "category": "video"
+  },
+  {
+    "uid": "reddit",
+    "name": "Reddit",
+    "description": "reddit",
+    "url": "https://www.reddit.com/",
+    "category": "forum"
+  },
+  {
+    "uid": "worldjournal",
+    "name": "世界日报",
+    "description": "",
+    "url": "http://worldjournal.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "Aircrack-NG",
+    "name": "Aircrack-NG",
+    "description": "Aircrack-NG",
+    "url": "http://www.aircrack-ng.org/",
+    "category": "internet-service"
+  },
+  {
+    "uid": "proxy.org",
+    "name": "Proxy",
+    "description": null,
+    "url": "http://proxy.org",
+    "category": "internet-service"
+  },
+  {
+    "uid": "livedoor",
+    "name": "活力门",
+    "description": "livedoor",
+    "url": "http://www.livedoor.com/",
+    "category": "japan"
+  },
+  {
+    "uid": "DeviantART",
+    "name": "DeviantART",
+    "description": "DeviantART",
+    "url": "https://www.deviantart.com/",
+    "category": "forum"
+  },
+  {
+    "uid": "Ning",
+    "name": "Ning",
+    "description": "Ning",
+    "url": "https://www.ning.com/",
+    "category": "social-network"
+  },
+  {
+    "uid": "wwitv.com",
+    "name": "wwiTV",
+    "description": null,
+    "url": "http://wwitv.com",
+    "category": "video"
+  },
+  {
+    "uid": "hostlogr.com",
+    "name": "Hostlogr",
+    "description": null,
+    "url": "http://hostlogr.com",
+    "category": "internet-service"
+  },
+  {
+    "uid": "yidio.com",
+    "name": "Yidio",
+    "description": null,
+    "url": "http://yidio.com",
+    "category": "video"
+  },
+  {
+    "uid": "trendsmap.com",
+    "name": "Trendsmap",
+    "description": null,
+    "url": "http://trendsmap.com",
+    "category": "location"
+  },
+  {
+    "uid": "creaders.net",
+    "name": "万维读者网",
+    "description": "",
+    "url": "http://creaders.net",
+    "category": "reading"
+  },
+  {
+    "uid": "oursogo.com",
+    "name": "SOGO论坛",
+    "description": "",
+    "url": "http://oursogo.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "mingpao.com",
+    "name": "明报",
+    "description": "",
+    "url": "http://mingpao.com",
+    "category": "hongkong"
+  },
+  {
+    "uid": "ugo.com",
+    "name": "UGO",
+    "description": null,
+    "url": "http://ugo.com",
+    "category": "video"
+  },
+  {
+    "uid": "xiaochuncnjp.com",
+    "name": "小春网",
+    "description": "",
+    "url": "http://www.xiaochuncnjp.com",
+    "category": "japan"
+  },
+  {
+    "uid": "libertytimes.com.tw",
+    "name": "自由时报",
+    "description": "",
+    "url": "http://libertytimes.com.tw",
+    "category": "taiwan"
+  },
+  {
+    "uid": "backchina.com",
+    "name": "倍可亲",
+    "description": "",
+    "url": "http://backchina.com",
+    "category": "reading"
+  },
+  {
+    "uid": "mp3ye.eu",
+    "name": "mp3ye",
+    "description": "",
+    "url": "http://mp3ye.eu",
+    "category": "file-share"
+  },
+  {
+    "uid": "saveyoutube.com",
+    "name": "Saveyoutube",
+    "description": "",
+    "url": "http://saveyoutube.com",
+    "category": "file-share"
+  },
+  {
+    "uid": "wikileaks.org",
+    "name": "维基解密",
+    "description": "",
+    "url": "http://wikileaks.org",
+    "category": "group"
+  },
+  {
+    "uid": "torproject.org",
+    "name": "TorProject",
+    "description": "",
+    "url": "http://torproject.org",
+    "category": "internet-service"
+  },
+  {
+    "uid": "dwnews.com",
+    "name": "多维新闻",
+    "description": "",
+    "url": "http://dwnews.com",
+    "category": "reading"
+  },
+  {
+    "uid": "eventful.com",
+    "name": "Eventful",
+    "description": null,
+    "url": "http://eventful.com",
+    "category": "location"
+  },
+  {
+    "uid": "SourceForge",
+    "name": "SourceForge",
+    "description": "SourceForge",
+    "url": "https://sourceforge.net/",
+    "category": "Technology"
+  },
+  {
+    "uid": "plurk.com",
+    "name": "Plurk",
+    "description": "",
+    "url": "http://plurk.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "avaaz.org",
+    "name": "AVAAZ",
+    "description": "",
+    "url": "http://avaaz.org",
+    "category": "group"
+  },
+  {
+    "uid": "Flipboard",
+    "name": "Flipboard",
+    "description": "Flipboard",
+    "url": "https://flipboard.com/",
+    "category": "reading"
+  },
+  {
+    "uid": "viddler.com",
+    "name": "Viddler",
+    "description": null,
+    "url": "http://viddler.com",
+    "category": "video"
+  },
+  {
+    "uid": "blogcatalog.com",
+    "name": "Blogcatalog",
+    "description": null,
+    "url": "http://blogcatalog.com",
+    "category": "blog"
+  },
+  {
+    "uid": "mail-archive.com",
+    "name": "mail-archive",
+    "description": null,
+    "url": "http://mail-archive.com",
+    "category": "internet-service"
+  },
+  {
+    "uid": "bebo.com",
+    "name": "Bebo",
+    "description": null,
+    "url": "http://bebo.com",
+    "category": "social-network"
+  },
+  {
+    "uid": "flickr.com",
+    "name": "flickr",
+    "description": null,
+    "url": "http://flickr.com",
+    "category": "pictures"
+  },
+  {
+    "uid": "webshots.com",
+    "name": "Webshots",
+    "description": null,
+    "url": "http://webshots.com",
+    "category": "pictures"
+  },
+  {
+    "uid": "blip.tv",
+    "name": "Blip",
+    "description": null,
+    "url": "http://blip.tv",
+    "category": "video"
+  },
+  {
+    "uid": "bloglovin.com",
+    "name": "Bloglovin",
+    "description": null,
+    "url": "http://bloglovin.com",
+    "category": "blog"
+  },
+  {
+    "uid": "comedy-central",
+    "name": "Comedy Central",
+    "description": "comedy-central",
+    "url": "http://www.cc.com/",
+    "category": "video"
+  },
+  {
+    "uid": "aboutus.org",
+    "name": "Aboutus",
+    "description": "",
+    "url": "http://aboutus.org",
+    "category": "internet-service"
+  },
+  {
+    "uid": "mefeedia.com",
+    "name": "Mefeedia",
+    "description": null,
+    "url": "http://mefeedia.com",
+    "category": "video"
+  },
+  {
+    "uid": "pandora.tv",
+    "name": "Pandora",
+    "description": null,
+    "url": "http://pandora.tv",
+    "category": "video"
+  },
+  {
+    "uid": "wenxuecity.com",
+    "name": "文学城",
+    "description": "",
+    "url": "http://wenxuecity.com",
+    "category": "reading"
+  },
+  {
+    "uid": "blinkx.com",
+    "name": "Blinkx",
+    "description": null,
+    "url": "http://blinkx.com",
+    "category": "video"
+  },
+  {
+    "uid": "change.org",
+    "name": "Change",
+    "description": "",
+    "url": "http://change.org",
+    "category": "group"
+  },
+  {
+    "uid": "diigo.com",
+    "name": "Diigo",
+    "description": null,
+    "url": "http://diigo.com",
+    "category": "aggregate"
+  },
+  {
+    "uid": "ck101.com",
+    "name": "卡提诺论坛",
+    "description": "",
+    "url": "http://ck101.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "hkgolden.com",
+    "name": "香港高登",
+    "description": "",
+    "url": "http://hkgolden.com",
+    "category": "hongkong"
+  },
+  {
+    "uid": "causes.com",
+    "name": "Causes",
+    "description": null,
+    "url": "http://causes.com",
+    "category": "group"
+  },
+  {
+    "uid": "6park.com",
+    "name": "留园网",
+    "description": "",
+    "url": "http://6park.com",
+    "category": "reading"
+  },
+  {
+    "uid": "tv.com",
+    "name": "TV.com",
+    "description": null,
+    "url": "http://tv.com",
+    "category": "video"
+  },
+  {
+    "uid": "eyny.com",
+    "name": "伊莉讨论区",
+    "description": "",
+    "url": "http://eyny.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "foursquare.com",
+    "name": "Foursquare",
+    "description": null,
+    "url": "http://foursquare.com",
+    "category": "location"
+  },
+  {
+    "uid": "mashable.com",
+    "name": "Mashable",
+    "description": "",
+    "url": "http://mashable.com",
+    "category": "reading"
+  },
+  {
+    "uid": "mobile01.com",
+    "name": "Mobile01",
+    "description": "",
+    "url": "http://mobile01.com",
+    "category": "taiwan"
+  },
+  {
+    "uid": "greenpeace",
+    "name": "绿色和平",
+    "description": "greenpeace",
+    "url": "http://www.greenpeace.org.cn/",
+    "category": "ngo"
+  },
+  {
+    "uid": "break.com",
+    "name": "Break",
+    "description": "",
+    "url": "http://break.com",
+    "category": "entertainment"
+  },
+  {
+    "uid": "goodreads.com",
+    "name": "goodreads",
+    "description": null,
+    "url": "http://goodreads.com",
+    "category": "reading"
+  },
+  {
+    "uid": "hgtv.com",
+    "name": "HGTV",
+    "description": null,
+    "url": "http://hgtv.com",
+    "category": "video"
+  },
+  {
+    "uid": "zimbio.com",
+    "name": "Zimbio",
+    "description": null,
+    "url": "http://zimbio.com",
+    "category": "blog"
+  },
+  {
+    "uid": "tagged.com",
+    "name": "Tagged",
+    "description": null,
+    "url": "http://tagged.com",
+    "category": "social-network"
+  },
+  {
+    "uid": "xing.com",
+    "name": "Xing",
+    "description": null,
+    "url": "http://xing.com",
+    "category": "social-network"
+  },
+  {
+    "uid": "scribd.com",
+    "name": "Scribd",
+    "description": null,
+    "url": "http://scribd.com",
+    "category": "reading"
+  },
+  {
+    "uid": "ustream.tv",
+    "name": "Ustream",
+    "description": "",
+    "url": "https://video.ibm.com/",
+    "category": "video"
+  },
+  {
+    "uid": "hootsuite.com",
+    "name": "Hootsuite",
+    "description": null,
+    "url": "http://hootsuite.com",
+    "category": "aggregate"
+  },
+  {
+    "uid": "cloud.google.com",
+    "name": "Google Cloud",
+    "description": "",
+    "url": "https://cloud.google.com",
+    "category": "cloud"
+  },
+  {
+    "uid": "badoo.com",
+    "name": "Badoo",
+    "description": "",
+    "url": "http://badoo.com",
+    "category": "social-network"
+  },
+  {
+    "uid": "domaintools.com",
+    "name": "Domaintools",
+    "description": "",
+    "url": "http://domaintools.com",
+    "category": "internet-service"
+  },
+  {
+    "uid": "thepiratebay",
+    "name": "海盗湾",
+    "description": "",
+    "url": "http://thepiratebay.org",
+    "category": "file-share"
+  },
+  {
+    "uid": "pixnet.net",
+    "name": "痞客帮",
+    "description": "",
+    "url": "http://pixnet.net",
+    "category": "taiwan"
+  },
+  {
+    "uid": "wikimapia.org",
+    "name": "Wikimapia",
+    "description": null,
+    "url": "http://wikimapia.org",
+    "category": "location"
+  },
+  {
+    "uid": "vimeo.com",
+    "name": "Vimeo",
+    "description": "",
+    "url": "http://vimeo.com",
+    "category": "video"
+  },
+  {
+    "uid": "dailymotion",
+    "name": "Dailymotion",
+    "description": "",
+    "url": "http://dailymotion.com",
+    "category": "video"
+  },
+  {
+    "uid": "4Shared",
+    "name": "4Shared",
+    "description": "",
+    "url": "http://4shared.com",
+    "category": "fileshare"
+  },
+  {
+    "uid": "pixiv",
+    "name": "pixiv",
+    "description": "pixiv",
+    "url": "https://www.pixiv.net/",
+    "category": "japan"
+  },
+  {
+    "uid": "wordpress",
+    "name": "Wordpress",
+    "description": null,
+    "url": "http://wordpress.org",
+    "category": "blog"
+  },
+  {
+    "uid": "blogspot",
+    "name": "Blogger",
+    "description": null,
+    "url": "http://blogspot.com",
+    "category": "blog"
+  },
+  {
+    "uid": "youtube",
+    "name": "Youtube",
+    "description": "",
+    "url": "http://youtube.com",
+    "category": "video"
+  },
+  {
+    "uid": "facebook",
+    "name": "Facebook",
+    "description": "",
+    "url": "http://facebook.com",
+    "category": "social-network"
+  },
+  {
+    "uid": "twitter",
+    "name": "Twitter",
+    "description": "",
+    "url": "http://twitter.com",
+    "category": "social-network"
+  },
+  {
+    "uid": "imdb",
+    "name": "IMDb",
+    "description": "",
+    "url": "http://imdb.com",
+    "category": "entertainment"
+  }
+]

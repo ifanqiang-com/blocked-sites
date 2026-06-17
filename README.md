@@ -1,24 +1,60 @@
 # blocked-sites
-## 简介：
-这个Repo以JSON的格式维护了被GFW屏蔽或不能正常访问的网址列表。它包含了两个主要文件：
-* 网址列表 `sites.json`
-* 分类方式 `categories.json`
 
-## 背景：
-这个列表最初来源于[ifanqiang.com](https://www.ifanqiang.com), 网站维护者认为将列表放在GitHub上开源，以开源的力量维护并更新这个列表是最好的方式。
+这个仓库维护 [爱翻墙](https://ifanqiang.com) 当前公开收录的网址和 YouTube 中文频道导出数据。
 
-这个列表和[ifanqiang.com](https://www.ifanqiang.com)没有能力帮助您跨越GFW，翻墙的技术手段还需要您自行解决。
+导出时间：2026-06-17T18:36:30.427Z
 
-## 贡献和使用：
-这个列表使用MIT开源协议，欢迎任何个人和组织提交Pull Request和Issues；对个人和组织怎样使用这个列表的内容没有任何限制。
+## 数据概览
 
-`sites.json`和`categories.json`会被[ifanqiang.com](https://www.ifanqiang.com)读取并展示在网站上。
+| 文件 | 数量 | 说明 |
+| --- | ---: | --- |
+| `sites.json` | 994 | 当前网址导航条目，保留在仓库根目录，便于直接读取 |
+| `youtube-channels.json` | 69 | 当前 YouTube 中文频道条目 |
+| `categories.json` | 25 | 网址分类和 YouTube 分类 |
+| `data/all-links.json` | 1063 | 网址和 YouTube 频道合并清单 |
+| `data/sites.csv` | 994 | CSV 格式网址清单 |
+| `data/youtube-channels.csv` | 69 | CSV 格式 YouTube 频道清单 |
+| `data/all-links.csv` | 1063 | CSV 格式合并清单 |
+| `data/ifq-data.json` | 1063 | 带元数据、分类和完整条目的数据包 |
+| `data/urls.txt` | 994 | 纯网址列表 |
+| `data/youtube-channel-urls.txt` | 69 | 纯 YouTube 频道 URL 列表 |
 
-## 这个列表不包含：
-在您提交Pull Request和Issues前，请注意这个列表**不包含**:
-* 成人网站
-* 赌博网站
-* 宗教或与宗教相关网站
-* 暴力和有极端思想网站
-* 非法物品交易类网站
-* 暗网或深网类网站
+## 字段说明
+
+`sites.json` 的每条记录包含：
+
+- `id` / `uid`：稳定条目 ID
+- `type`：固定为 `site`
+- `name`、`description`、`url`
+- `category`：机器可读分类 ID
+- `categoryName`：中文分类名
+- `tags`、`language`、`hasApp`、`status`、`featured`、`priority`、`addedAt`、`sourceUrl`
+
+`youtube-channels.json` 的每条记录包含：
+
+- `id` / `uid`：稳定条目 ID
+- `type`：固定为 `youtube-channel`
+- `name`、`description`、`url`
+- `category`：机器可读分类 ID
+- `categoryName`：中文分类名
+- `tags`、`featured`、`addedAt`、`meta`
+
+## 使用和贡献
+
+这些数据来源于 ifanqiang.com 的公开导航条目。仓库名沿用历史名称，但本导出不声明每个目标在所有网络环境下都一定被阻断或可访问。
+
+欢迎通过 Issues 或 Pull Requests 反馈失效链接、分类问题和新增建议。这个列表不能帮助用户跨越 GFW，网络访问方式需要自行解决。
+
+## 不收录
+
+提交前请注意，这个列表不收录：
+
+- 成人、色情或擦边内容
+- 赌博网站
+- 暴力、极端主义或非法交易内容
+- 暗网或深网类入口
+- 明显欺诈、恶意软件或钓鱼网站
+
+## License
+
+MIT

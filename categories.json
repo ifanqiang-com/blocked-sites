@@ -1,170 +1,202 @@
 [
   {
-    "uid": "best",
-    "name": "精品内容网址",
+    "uid": "sites",
+    "id": "sites",
+    "type": "group",
+    "name": "网址",
     "parent": "",
     "index": 0
   },
   {
-    "uid": "blog",
-    "name": "博客/自媒体",
-    "parent": "best",
-    "index": 6
+    "uid": "chinese-news",
+    "id": "chinese-news",
+    "type": "site-category",
+    "name": "中文新闻",
+    "parent": "sites",
+    "index": 0
   },
   {
-    "uid": "communicate",
-    "name": "即时通讯",
-    "parent": "best",
-    "index": 7
+    "uid": "international-news",
+    "id": "international-news",
+    "type": "site-category",
+    "name": "国际新闻",
+    "parent": "sites",
+    "index": 1
   },
   {
-    "uid": "news-agency",
-    "name": "通讯社",
-    "parent": "best",
-    "index": 4
-  },
-  {
-    "uid": "forum",
-    "name": "社区论坛",
-    "parent": "best",
-    "index": 5
-  },
-  {
-    "uid": "video",
-    "name": "视频/流媒体",
-    "parent": "best",
-    "index": 9
-  },
-  {
-    "uid": "location",
-    "name": "地理信息",
-    "parent": "best",
-    "index": 10
-  },
-  {
-    "uid": "cloud",
-    "name": "云服务",
-    "parent": "best",
-    "index": 11
-  },
-  {
-    "uid": "fileshare",
-    "name": "文件托管",
-    "parent": "best",
-    "index": 12
-  },
-  {
-    "uid": "file-share",
-    "name": "文件分享",
-    "parent": "best",
-    "index": 13
-  },
-  {
-    "uid": "pictures",
-    "name": "图片/影像",
-    "parent": "best",
-    "index": 14
-  },
-  {
-    "uid": "entertainment",
-    "name": "娱乐",
-    "parent": "best",
-    "index": 15
-  },
-  {
-    "uid": "aggregate",
-    "name": "信息聚合",
-    "parent": "best",
-    "index": 16
-  },
-  {
-    "uid": "group",
-    "name": "政治倾向",
-    "parent": "best",
-    "index": 17
-  },
-  {
-    "uid": "social-network",
-    "name": "社交",
-    "parent": "best",
-    "index": 8
-  },
-  {
-    "uid": "internet-service",
-    "name": "网络服务",
-    "parent": "best",
-    "index": 19
-  },
-  {
-    "uid": "Technology",
-    "name": "科技",
-    "parent": "best",
-    "index": 20
-  },
-  {
-    "uid": "regions",
-    "name": "区域类网址",
-    "parent": "",
-    "index": 21
-  },
-  {
-    "uid": "taiwan",
-    "name": "台湾",
-    "parent": "regions",
-    "index": 22
-  },
-  {
-    "uid": "hongkong",
-    "name": "香港",
-    "parent": "regions",
-    "index": 23
-  },
-  {
-    "uid": "eu",
-    "name": "欧洲",
-    "parent": "regions",
-    "index": 24
-  },
-  {
-    "uid": "america",
-    "name": "北美",
-    "parent": "regions",
-    "index": 25
-  },
-  {
-    "uid": "australia",
-    "name": "澳大利亚",
-    "parent": "regions",
-    "index": 26
-  },
-  {
-    "uid": "japan",
-    "name": "日韩",
-    "parent": "regions",
-    "index": 27
-  },
-  {
-    "uid": "southeast-asia",
-    "name": "东南亚",
-    "parent": "regions",
-    "index": 28
-  },
-  {
-    "uid": "ngo",
-    "name": "NGO",
-    "parent": "best",
-    "index": 18
-  },
-  {
-    "uid": "news",
-    "name": "国际媒体",
-    "parent": "best",
+    "uid": "video-streaming",
+    "id": "video-streaming",
+    "type": "site-category",
+    "name": "视频与流媒体",
+    "parent": "sites",
     "index": 2
   },
   {
-    "uid": "reading",
-    "name": "新闻聚合",
-    "parent": "best",
+    "uid": "social-platforms",
+    "id": "social-platforms",
+    "type": "site-category",
+    "name": "社交平台",
+    "parent": "sites",
     "index": 3
+  },
+  {
+    "uid": "forums-communities",
+    "id": "forums-communities",
+    "type": "site-category",
+    "name": "论坛社区",
+    "parent": "sites",
+    "index": 4
+  },
+  {
+    "uid": "blogs-publishing",
+    "id": "blogs-publishing",
+    "type": "site-category",
+    "name": "博客与出版",
+    "parent": "sites",
+    "index": 5
+  },
+  {
+    "uid": "podcasts-audio",
+    "id": "podcasts-audio",
+    "type": "site-category",
+    "name": "播客与音频",
+    "parent": "sites",
+    "index": 6
+  },
+  {
+    "uid": "search-discovery",
+    "id": "search-discovery",
+    "type": "site-category",
+    "name": "搜索与发现",
+    "parent": "sites",
+    "index": 7
+  },
+  {
+    "uid": "encyclopedia-open-data",
+    "id": "encyclopedia-open-data",
+    "type": "site-category",
+    "name": "百科与开放资料",
+    "parent": "sites",
+    "index": 8
+  },
+  {
+    "uid": "academic-research",
+    "id": "academic-research",
+    "type": "site-category",
+    "name": "学术研究",
+    "parent": "sites",
+    "index": 9
+  },
+  {
+    "uid": "finance-data",
+    "id": "finance-data",
+    "type": "site-category",
+    "name": "财经与数据",
+    "parent": "sites",
+    "index": 10
+  },
+  {
+    "uid": "apps-downloads",
+    "id": "apps-downloads",
+    "type": "site-category",
+    "name": "应用与下载",
+    "parent": "sites",
+    "index": 11
+  },
+  {
+    "uid": "developer-resources",
+    "id": "developer-resources",
+    "type": "site-category",
+    "name": "开发者资源",
+    "parent": "sites",
+    "index": 12
+  },
+  {
+    "uid": "life-travel",
+    "id": "life-travel",
+    "type": "site-category",
+    "name": "生活出行",
+    "parent": "sites",
+    "index": 13
+  },
+  {
+    "uid": "privacy-security",
+    "id": "privacy-security",
+    "type": "site-category",
+    "name": "隐私安全",
+    "parent": "sites",
+    "index": 14
+  },
+  {
+    "uid": "youtube",
+    "id": "youtube",
+    "type": "group",
+    "name": "YouTube 中文频道",
+    "parent": "",
+    "index": 1
+  },
+  {
+    "uid": "youtube-news-public-affairs",
+    "id": "youtube-news-public-affairs",
+    "type": "youtube-category",
+    "name": "新闻与公共议题",
+    "parent": "youtube",
+    "index": 0
+  },
+  {
+    "uid": "youtube-business-finance",
+    "id": "youtube-business-finance",
+    "type": "youtube-category",
+    "name": "商业财经",
+    "parent": "youtube",
+    "index": 1
+  },
+  {
+    "uid": "youtube-tech-digital",
+    "id": "youtube-tech-digital",
+    "type": "youtube-category",
+    "name": "科技与数码",
+    "parent": "youtube",
+    "index": 2
+  },
+  {
+    "uid": "youtube-knowledge-education",
+    "id": "youtube-knowledge-education",
+    "type": "youtube-category",
+    "name": "知识教育",
+    "parent": "youtube",
+    "index": 3
+  },
+  {
+    "uid": "youtube-language-learning",
+    "id": "youtube-language-learning",
+    "type": "youtube-category",
+    "name": "语言学习",
+    "parent": "youtube",
+    "index": 4
+  },
+  {
+    "uid": "youtube-food-travel",
+    "id": "youtube-food-travel",
+    "type": "youtube-category",
+    "name": "美食旅行",
+    "parent": "youtube",
+    "index": 5
+  },
+  {
+    "uid": "youtube-film-entertainment",
+    "id": "youtube-film-entertainment",
+    "type": "youtube-category",
+    "name": "影视娱乐",
+    "parent": "youtube",
+    "index": 6
+  },
+  {
+    "uid": "youtube-hong-kong-southeast-asia",
+    "id": "youtube-hong-kong-southeast-asia",
+    "type": "youtube-category",
+    "name": "香港与东南亚",
+    "parent": "youtube",
+    "index": 7
   }
 ]

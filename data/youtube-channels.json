@@ -1,0 +1,1244 @@
+[
+  {
+    "uid": "bbc-news-chinese-youtube",
+    "id": "bbc-news-chinese-youtube",
+    "type": "youtube-channel",
+    "name": "BBC News 中文",
+    "description": "BBC 中文视频入口，提供国际新闻、解释型短片、人物报道和重大事件背景内容。",
+    "url": "https://www.youtube.com/@BBCNewsChinese",
+    "category": "youtube-news-public-affairs",
+    "categoryName": "新闻与公共议题",
+    "tags": [
+      "新闻",
+      "解释",
+      "国际"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "英国 / 中文"
+  },
+  {
+    "uid": "dw-chinese-youtube",
+    "id": "dw-chinese-youtube",
+    "type": "youtube-channel",
+    "name": "DW 中文",
+    "description": "德国之声中文频道，提供欧洲视角的国际新闻、专题报道、现场连线和深度访谈。",
+    "url": "https://www.youtube.com/@dwchinese",
+    "category": "youtube-news-public-affairs",
+    "categoryName": "新闻与公共议题",
+    "tags": [
+      "新闻",
+      "欧洲",
+      "专题"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "德国 / 中文"
+  },
+  {
+    "uid": "tvbs-news-youtube",
+    "id": "tvbs-news-youtube",
+    "type": "youtube-channel",
+    "name": "TVBS NEWS",
+    "description": "台湾 TVBS 新闻频道，提供即时新闻、政经节目、社会现场、国际报道和直播片段。",
+    "url": "https://www.youtube.com/@TVBSNEWS01",
+    "category": "youtube-news-public-affairs",
+    "categoryName": "新闻与公共议题",
+    "tags": [
+      "台湾",
+      "新闻",
+      "直播"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "pts-news-youtube",
+    "id": "pts-news-youtube",
+    "type": "youtube-channel",
+    "name": "公视新闻",
+    "description": "台湾公共电视新闻频道，提供公共议题、调查报道、新闻现场和深度专题节目。",
+    "url": "https://www.youtube.com/@PNNPTS",
+    "category": "youtube-news-public-affairs",
+    "categoryName": "新闻与公共议题",
+    "tags": [
+      "台湾",
+      "公共媒体",
+      "新闻"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "setn-youtube",
+    "id": "setn-youtube",
+    "type": "youtube-channel",
+    "name": "三立新闻",
+    "description": "三立新闻 YouTube 频道，集中台湾即时新闻、政论节目、社会新闻和现场直播。",
+    "url": "https://www.youtube.com/@SETN",
+    "category": "youtube-news-public-affairs",
+    "categoryName": "新闻与公共议题",
+    "tags": [
+      "台湾",
+      "新闻",
+      "政论"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "fan-america-time-youtube",
+    "id": "fan-america-time-youtube",
+    "type": "youtube-channel",
+    "name": "范琪斐的美国时间",
+    "description": "以美国政治、国际关系和台湾公共讨论为主，节目形态包含评论、访谈和议题拆解。",
+    "url": "https://www.youtube.com/@TheStormMedia",
+    "category": "youtube-news-public-affairs",
+    "categoryName": "新闻与公共议题",
+    "tags": [
+      "美国",
+      "访谈",
+      "公共议题"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "wang-zhian-youtube",
+    "id": "wang-zhian-youtube",
+    "type": "youtube-channel",
+    "name": "王志安",
+    "description": "中文时事评论频道，常以长节目形式分析新闻事件、公共政策和社会议题争议。",
+    "url": "https://www.youtube.com/@wangzhian",
+    "category": "youtube-news-public-affairs",
+    "categoryName": "新闻与公共议题",
+    "tags": [
+      "时事",
+      "评论",
+      "公共议题"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "海外 / 简中"
+  },
+  {
+    "uid": "wenzhao-youtube",
+    "id": "wenzhao-youtube",
+    "type": "youtube-channel",
+    "name": "文昭谈古论今",
+    "description": "中文时政和历史评论频道，结合历史背景、国际关系和现实新闻做长线解读。",
+    "url": "https://www.youtube.com/@wenzhaoofficial",
+    "category": "youtube-news-public-affairs",
+    "categoryName": "新闻与公共议题",
+    "tags": [
+      "时政",
+      "历史",
+      "评论"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "海外 / 中文"
+  },
+  {
+    "uid": "shasha77-youtube",
+    "id": "shasha77-youtube",
+    "type": "youtube-channel",
+    "name": "志祺七七",
+    "description": "台湾议题解释型频道，用图文和短片拆解公共政策、社会现象、国际事件和文化议题。",
+    "url": "https://www.youtube.com/@shasha77",
+    "category": "youtube-news-public-affairs",
+    "categoryName": "新闻与公共议题",
+    "tags": [
+      "解释",
+      "台湾",
+      "社会"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "bailingguo-youtube",
+    "id": "bailingguo-youtube",
+    "type": "youtube-channel",
+    "name": "百灵果 News",
+    "description": "中文新闻谈话与播客型频道，以国际新闻、台湾社会、人物访谈和轻松评论为主。",
+    "url": "https://www.youtube.com/@bailingguo",
+    "category": "youtube-news-public-affairs",
+    "categoryName": "新闻与公共议题",
+    "tags": [
+      "播客",
+      "新闻",
+      "访谈"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "xiaolin-youtube",
+    "id": "xiaolin-youtube",
+    "type": "youtube-channel",
+    "name": "小Lin说",
+    "description": "用故事化方式讲解商业公司、金融事件、经济周期、行业变化和消费市场逻辑。",
+    "url": "https://www.youtube.com/channel/UCilwQlk62k1z7aUEZPOB6yw",
+    "category": "youtube-business-finance",
+    "categoryName": "商业财经",
+    "tags": [
+      "财经",
+      "商业",
+      "经济"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "海外 / 简中"
+  },
+  {
+    "uid": "zrbros-youtube",
+    "id": "zrbros-youtube",
+    "type": "youtube-channel",
+    "name": "柴鼠兄弟",
+    "description": "台湾财经教育频道，覆盖投资观念、理财工具、市场基础知识和个人财务规划。",
+    "url": "https://www.youtube.com/@ZRBros",
+    "category": "youtube-business-finance",
+    "categoryName": "商业财经",
+    "tags": [
+      "理财",
+      "投资",
+      "台湾"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "gooaye-youtube",
+    "id": "gooaye-youtube",
+    "type": "youtube-channel",
+    "name": "股癌 Gooaye",
+    "description": "台湾财经评论和播客频道，围绕股市、科技产业、宏观环境和投资情绪做讨论。",
+    "url": "https://www.youtube.com/@Gooaye",
+    "category": "youtube-business-finance",
+    "categoryName": "商业财经",
+    "tags": [
+      "股市",
+      "播客",
+      "财经"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "linvo-youtube",
+    "id": "linvo-youtube",
+    "type": "youtube-channel",
+    "name": "李自然说",
+    "description": "商业科技叙事频道，解析创业公司、互联网产品、技术趋势和商业模式变化。",
+    "url": "https://www.youtube.com/@Linvo",
+    "category": "youtube-business-finance",
+    "categoryName": "商业财经",
+    "tags": [
+      "商业",
+      "科技",
+      "创业"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "海外 / 简中"
+  },
+  {
+    "uid": "joeman-youtube",
+    "id": "joeman-youtube",
+    "type": "youtube-channel",
+    "name": "Joeman",
+    "description": "台湾综合型创作者，代表内容包括开箱评测、商业合作、房产消费和人物企划。",
+    "url": "https://www.youtube.com/@Joeman",
+    "category": "youtube-business-finance",
+    "categoryName": "商业财经",
+    "tags": [
+      "评测",
+      "商业",
+      "生活"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "aottergirls-youtube",
+    "id": "aottergirls-youtube",
+    "type": "youtube-channel",
+    "name": "电獭少女",
+    "description": "台湾数码科技频道，提供手机、电脑、应用、AI 工具和消费电子新品体验。",
+    "url": "https://www.youtube.com/@aottergirls",
+    "category": "youtube-tech-digital",
+    "categoryName": "科技与数码",
+    "tags": [
+      "数码",
+      "手机",
+      "AI"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "3c-tim-youtube",
+    "id": "3c-tim-youtube",
+    "type": "youtube-channel",
+    "name": "3C Tim哥生活日常",
+    "description": "台湾 3C 频道，重点是手机、配件、Apple 生态、消费电子和实用购买建议。",
+    "url": "https://www.youtube.com/@3CTim",
+    "category": "youtube-tech-digital",
+    "categoryName": "科技与数码",
+    "tags": [
+      "3C",
+      "手机",
+      "Apple"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "techdog-youtube",
+    "id": "techdog-youtube",
+    "type": "youtube-channel",
+    "name": "科技狗 3C Dog",
+    "description": "数码评测频道，覆盖智能手机、电脑周边、相机设备、家电和使用体验比较。",
+    "url": "https://www.youtube.com/@TechDog",
+    "category": "youtube-tech-digital",
+    "categoryName": "科技与数码",
+    "tags": [
+      "评测",
+      "数码",
+      "硬件"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "geekerwan-youtube",
+    "id": "geekerwan-youtube",
+    "type": "youtube-channel",
+    "name": "极客湾 Geekerwan",
+    "description": "硬件评测和技术解析频道，擅长手机芯片、电脑硬件、性能测试和工程向解释。",
+    "url": "https://www.youtube.com/@Geekerwan",
+    "category": "youtube-tech-digital",
+    "categoryName": "科技与数码",
+    "tags": [
+      "硬件",
+      "性能",
+      "芯片"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "海外 / 简中"
+  },
+  {
+    "uid": "mediastorm-youtube",
+    "id": "mediastorm-youtube",
+    "type": "youtube-channel",
+    "name": "影视飓风",
+    "description": "影像技术和创作频道，覆盖摄影器材、后期流程、影像制作、创作者设备和实验项目。",
+    "url": "https://www.youtube.com/@mediastormfilm",
+    "category": "youtube-tech-digital",
+    "categoryName": "科技与数码",
+    "tags": [
+      "影像",
+      "摄影",
+      "创作"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "海外 / 简中"
+  },
+  {
+    "uid": "liyongle-youtube",
+    "id": "liyongle-youtube",
+    "type": "youtube-channel",
+    "name": "李永乐老师",
+    "description": "面向大众的数学、物理和科学解释频道，用板书方式讲解概念、新闻背后的科学原理。",
+    "url": "https://www.youtube.com/@TeacherLiYongLe",
+    "category": "youtube-knowledge-education",
+    "categoryName": "知识教育",
+    "tags": [
+      "科学",
+      "数学",
+      "物理"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "海外 / 简中"
+  },
+  {
+    "uid": "luoxiang-youtube",
+    "id": "luoxiang-youtube",
+    "type": "youtube-channel",
+    "name": "罗翔说刑法",
+    "description": "法律知识普及频道，围绕刑法案例、法治观念、社会伦理和公共讨论做解释。",
+    "url": "https://www.youtube.com/@luoxiang",
+    "category": "youtube-knowledge-education",
+    "categoryName": "知识教育",
+    "tags": [
+      "法律",
+      "教育",
+      "案例"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "海外 / 简中"
+  },
+  {
+    "uid": "chuchushoe-youtube",
+    "id": "chuchushoe-youtube",
+    "type": "youtube-channel",
+    "name": "啾啾鞋",
+    "description": "台湾知识型创作者，内容涵盖科学冷知识、心理学、社会现象和书籍概念整理。",
+    "url": "https://www.youtube.com/@chuchushoeTW",
+    "category": "youtube-knowledge-education",
+    "categoryName": "知识教育",
+    "tags": [
+      "知识",
+      "科学",
+      "心理"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "cheap-history-youtube",
+    "id": "cheap-history-youtube",
+    "type": "youtube-channel",
+    "name": "Cheap",
+    "description": "台湾历史和交通议题频道，用大众化叙事讲历史故事、城市规划和公共交通议题。",
+    "url": "https://www.youtube.com/@CheapHistory",
+    "category": "youtube-knowledge-education",
+    "categoryName": "知识教育",
+    "tags": [
+      "历史",
+      "交通",
+      "台湾"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "x-investigations-youtube",
+    "id": "x-investigations-youtube",
+    "type": "youtube-channel",
+    "name": "X 调查",
+    "description": "案件和社会事件叙事频道，整理真实事件、人物背景、时间线和相关公开资料。",
+    "url": "https://www.youtube.com/@XInvestigations",
+    "category": "youtube-knowledge-education",
+    "categoryName": "知识教育",
+    "tags": [
+      "案件",
+      "叙事",
+      "资料"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "中文 / 叙事"
+  },
+  {
+    "uid": "funscience-youtube",
+    "id": "funscience-youtube",
+    "type": "youtube-channel",
+    "name": "芳斯塔芙",
+    "description": "科普内容频道，使用动画和实验解释科学概念、自然现象、人体知识和生活问题。",
+    "url": "https://www.youtube.com/@FunScience",
+    "category": "youtube-knowledge-education",
+    "categoryName": "知识教育",
+    "tags": [
+      "科普",
+      "动画",
+      "自然"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "中文 / 科普"
+  },
+  {
+    "uid": "vincentbook-youtube",
+    "id": "vincentbook-youtube",
+    "type": "youtube-channel",
+    "name": "文森说书",
+    "description": "读书和知识整理频道，围绕商业、心理、社会科学和个人成长类书籍做结构化讲解。",
+    "url": "https://www.youtube.com/@vincentbook",
+    "category": "youtube-knowledge-education",
+    "categoryName": "知识教育",
+    "tags": [
+      "读书",
+      "知识",
+      "心理"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "中文 / 读书"
+  },
+  {
+    "uid": "rayduenglish-youtube",
+    "id": "rayduenglish-youtube",
+    "type": "youtube-channel",
+    "name": "阿滴英文",
+    "description": "台湾英语学习频道，提供英文表达、学习方法、发音、考试准备和跨文化主题内容。",
+    "url": "https://www.youtube.com/@rayduenglish",
+    "category": "youtube-language-learning",
+    "categoryName": "语言学习",
+    "tags": [
+      "英语",
+      "学习",
+      "台湾"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "mandarin-corner-youtube",
+    "id": "mandarin-corner-youtube",
+    "type": "youtube-channel",
+    "name": "Mandarin Corner",
+    "description": "面向中文学习者的频道，提供真实语速访谈、词汇讲解、听力练习和普通话输入材料。",
+    "url": "https://www.youtube.com/@MandarinCorner2",
+    "category": "youtube-language-learning",
+    "categoryName": "语言学习",
+    "tags": [
+      "普通话",
+      "听力",
+      "学习"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "全球 / 中英"
+  },
+  {
+    "uid": "yoyo-chinese-youtube",
+    "id": "yoyo-chinese-youtube",
+    "type": "youtube-channel",
+    "name": "Yoyo Chinese",
+    "description": "系统中文学习频道，包含拼音、语法、口语、听力训练和面向英语母语者的课程内容。",
+    "url": "https://www.youtube.com/@YoyoChinese",
+    "category": "youtube-language-learning",
+    "categoryName": "语言学习",
+    "tags": [
+      "中文学习",
+      "课程",
+      "口语"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "全球 / 中英"
+  },
+  {
+    "uid": "grace-mandarin-youtube",
+    "id": "grace-mandarin-youtube",
+    "type": "youtube-channel",
+    "name": "Grace Mandarin Chinese",
+    "description": "普通话教学频道，重点讲解自然表达、语法差异、台湾用语和中文学习常见难点。",
+    "url": "https://www.youtube.com/@GraceMandarinChinese",
+    "category": "youtube-language-learning",
+    "categoryName": "语言学习",
+    "tags": [
+      "普通话",
+      "台湾",
+      "教学"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 中英"
+  },
+  {
+    "uid": "chinesepod-youtube",
+    "id": "chinesepod-youtube",
+    "type": "youtube-channel",
+    "name": "ChinesePod",
+    "description": "老牌中文学习品牌的 YouTube 入口，提供分级课程、日常对话、词汇和文化内容。",
+    "url": "https://www.youtube.com/@ChinesePodTV",
+    "category": "youtube-language-learning",
+    "categoryName": "语言学习",
+    "tags": [
+      "中文学习",
+      "课程",
+      "词汇"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "全球 / 中英"
+  },
+  {
+    "uid": "dashu-mandarin-youtube",
+    "id": "dashu-mandarin-youtube",
+    "type": "youtube-channel",
+    "name": "Dashu Mandarin",
+    "description": "普通话学习频道，提供慢速对话、真实聊天、学习者访谈和多口音中文听力材料。",
+    "url": "https://www.youtube.com/@DashuMandarin",
+    "category": "youtube-language-learning",
+    "categoryName": "语言学习",
+    "tags": [
+      "普通话",
+      "听力",
+      "对话"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "全球 / 中英"
+  },
+  {
+    "uid": "mandarin-blueprint-youtube",
+    "id": "mandarin-blueprint-youtube",
+    "type": "youtube-channel",
+    "name": "Mandarin Blueprint",
+    "description": "中文学习方法频道，围绕汉字记忆、发音训练、学习路径和课程片段提供内容。",
+    "url": "https://www.youtube.com/@MandarinBlueprint",
+    "category": "youtube-language-learning",
+    "categoryName": "语言学习",
+    "tags": [
+      "汉字",
+      "发音",
+      "方法"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "全球 / 中英"
+  },
+  {
+    "uid": "chienseating-youtube",
+    "id": "chienseating-youtube",
+    "type": "youtube-channel",
+    "name": "千千进食中",
+    "description": "台湾美食频道，内容覆盖餐厅探店、吃到饱、地方小吃、旅行餐桌和饮食体验。",
+    "url": "https://www.youtube.com/@chienseating",
+    "category": "youtube-food-travel",
+    "categoryName": "美食旅行",
+    "tags": [
+      "美食",
+      "台湾",
+      "探店"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "ladyflavor-youtube",
+    "id": "ladyflavor-youtube",
+    "type": "youtube-channel",
+    "name": "好味小姐",
+    "description": "台湾生活与料理频道，核心内容包含家庭料理、日常记录、品牌企划和生活感内容。",
+    "url": "https://www.youtube.com/@LadyFlavor",
+    "category": "youtube-food-travel",
+    "categoryName": "美食旅行",
+    "tags": [
+      "生活",
+      "料理",
+      "台湾"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "kusdream-youtube",
+    "id": "kusdream-youtube",
+    "type": "youtube-channel",
+    "name": "Ku's dream 酷的梦",
+    "description": "法国创作者在台湾的旅行和文化频道，覆盖台湾生活、地方体验和跨文化观察。",
+    "url": "https://www.youtube.com/@Kusdream",
+    "category": "youtube-food-travel",
+    "categoryName": "美食旅行",
+    "tags": [
+      "旅行",
+      "台湾",
+      "文化"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 多语"
+  },
+  {
+    "uid": "dodomen-youtube",
+    "id": "dodomen-youtube",
+    "type": "youtube-channel",
+    "name": "The DoDo Men",
+    "description": "旅行和挑战型频道，常用企划形式记录世界旅行、户外体验、文化探索和人生主题。",
+    "url": "https://www.youtube.com/@TheDoDoMen",
+    "category": "youtube-food-travel",
+    "categoryName": "美食旅行",
+    "tags": [
+      "旅行",
+      "挑战",
+      "生活"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "liziqi-youtube",
+    "id": "liziqi-youtube",
+    "type": "youtube-channel",
+    "name": "李子柒",
+    "description": "传统生活美学频道，以乡村生活、手作料理、节气文化和东方审美影像获得全球关注。",
+    "url": "https://www.youtube.com/@cnliziqi",
+    "category": "youtube-food-travel",
+    "categoryName": "美食旅行",
+    "tags": [
+      "生活美学",
+      "料理",
+      "文化"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "中文 / 生活"
+  },
+  {
+    "uid": "dianxi-xiaoge-youtube",
+    "id": "dianxi-xiaoge-youtube",
+    "type": "youtube-channel",
+    "name": "滇西小哥",
+    "description": "云南乡村美食和生活频道，展示地方食材、传统料理、家庭生活和地域文化。",
+    "url": "https://www.youtube.com/@dianxixiaoge",
+    "category": "youtube-food-travel",
+    "categoryName": "美食旅行",
+    "tags": [
+      "美食",
+      "乡村",
+      "文化"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "中文 / 生活"
+  },
+  {
+    "uid": "magic-ingredients-youtube",
+    "id": "magic-ingredients-youtube",
+    "type": "youtube-channel",
+    "name": "小高姐的 Magic Ingredients",
+    "description": "家庭烹饪教学频道，清晰讲解面食、家常菜、烘焙和中式料理的原理与步骤。",
+    "url": "https://www.youtube.com/@MagicIngredients",
+    "category": "youtube-food-travel",
+    "categoryName": "美食旅行",
+    "tags": [
+      "料理",
+      "教学",
+      "家常菜"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "海外 / 中文"
+  },
+  {
+    "uid": "chef-wang-youtube",
+    "id": "chef-wang-youtube",
+    "type": "youtube-channel",
+    "name": "美食作家王刚",
+    "description": "中餐烹饪教学频道，重点展示川菜、家常菜、刀工火候和厨房实操技法。",
+    "url": "https://www.youtube.com/@chefwang",
+    "category": "youtube-food-travel",
+    "categoryName": "美食旅行",
+    "tags": [
+      "中餐",
+      "川菜",
+      "教学"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "中文 / 料理"
+  },
+  {
+    "uid": "amanda-tastes-youtube",
+    "id": "amanda-tastes-youtube",
+    "type": "youtube-channel",
+    "name": "曼食慢语",
+    "description": "料理和生活方式频道，提供中西料理、节日菜、甜点、厨房技巧和餐桌审美内容。",
+    "url": "https://www.youtube.com/@AmandaTastes",
+    "category": "youtube-food-travel",
+    "categoryName": "美食旅行",
+    "tags": [
+      "料理",
+      "生活",
+      "甜点"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "中文 / 料理"
+  },
+  {
+    "uid": "stopkiddinstudio-youtube",
+    "id": "stopkiddinstudio-youtube",
+    "type": "youtube-channel",
+    "name": "不要闹工作室",
+    "description": "以在台外国人和台湾文化为核心，记录语言、城市、饮食、旅行和跨文化互动。",
+    "url": "https://www.youtube.com/@stopkiddinstudio",
+    "category": "youtube-food-travel",
+    "categoryName": "美食旅行",
+    "tags": [
+      "台湾",
+      "文化",
+      "旅行"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 多语"
+  },
+  {
+    "uid": "laogao-youtube",
+    "id": "laogao-youtube",
+    "type": "youtube-channel",
+    "name": "老高与小茉",
+    "description": "中文长视频头部频道之一，内容以都市传说、历史谜题、科学想象和故事型讲述为主。",
+    "url": "https://www.youtube.com/@laogao",
+    "category": "youtube-film-entertainment",
+    "categoryName": "影视娱乐",
+    "tags": [
+      "故事",
+      "悬疑",
+      "长视频"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "中文 / 故事"
+  },
+  {
+    "uid": "howhow-youtube",
+    "id": "howhow-youtube",
+    "type": "youtube-channel",
+    "name": "HowHow",
+    "description": "台湾喜剧创作者，代表内容是短剧、广告梗、角色表演和网络流行文化创作。",
+    "url": "https://www.youtube.com/@HowFunOfficial",
+    "category": "youtube-film-entertainment",
+    "categoryName": "影视娱乐",
+    "tags": [
+      "喜剧",
+      "短剧",
+      "台湾"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "tsaigray-youtube",
+    "id": "tsaigray-youtube",
+    "type": "youtube-channel",
+    "name": "蔡阿嘎",
+    "description": "台湾早期代表性 YouTuber，内容覆盖生活企划、家庭记录、台湾文化和娱乐短片。",
+    "url": "https://www.youtube.com/@tsaigray2018",
+    "category": "youtube-film-entertainment",
+    "categoryName": "影视娱乐",
+    "tags": [
+      "生活",
+      "娱乐",
+      "台湾"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "tgop-youtube",
+    "id": "tgop-youtube",
+    "type": "youtube-channel",
+    "name": "这群人 TGOP",
+    "description": "台湾喜剧团体频道，以经典语录、情境短剧、翻唱企划和团队型娱乐内容闻名。",
+    "url": "https://www.youtube.com/user/e84768131",
+    "category": "youtube-film-entertainment",
+    "categoryName": "影视娱乐",
+    "tags": [
+      "喜剧",
+      "短剧",
+      "团队"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "asenstudio-youtube",
+    "id": "asenstudio-youtube",
+    "type": "youtube-channel",
+    "name": "阿神",
+    "description": "中文游戏和实况频道，长期制作游戏流程、实况片段、合作企划和粉丝向内容。",
+    "url": "https://www.youtube.com/@AsenStudio",
+    "category": "youtube-film-entertainment",
+    "categoryName": "影视娱乐",
+    "tags": [
+      "游戏",
+      "实况",
+      "娱乐"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "muyao4-youtube",
+    "id": "muyao4-youtube",
+    "type": "youtube-channel",
+    "name": "木曜 4 超玩",
+    "description": "台湾综艺型 YouTube 频道，代表内容包括一日系列、艺人企划、职业体验和外景节目。",
+    "url": "https://www.youtube.com/@Muyao4",
+    "category": "youtube-film-entertainment",
+    "categoryName": "影视娱乐",
+    "tags": [
+      "综艺",
+      "台湾",
+      "外景"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "nsfw-youtube",
+    "id": "nsfw-youtube",
+    "type": "youtube-channel",
+    "name": "上班不要看",
+    "description": "台湾网络娱乐团队，制作实测企划、短剧、人物挑战、直播片段和品牌合作内容。",
+    "url": "https://www.youtube.com/@nsfwofficial",
+    "category": "youtube-film-entertainment",
+    "categoryName": "影视娱乐",
+    "tags": [
+      "娱乐",
+      "企划",
+      "台湾"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "str-network-youtube",
+    "id": "str-network-youtube",
+    "type": "youtube-channel",
+    "name": "STR Network",
+    "description": "博恩和团队相关的喜剧内容入口，包含脱口秀、访谈、讽刺短片和舞台节目片段。",
+    "url": "https://www.youtube.com/@STRNetworkasia",
+    "category": "youtube-film-entertainment",
+    "categoryName": "影视娱乐",
+    "tags": [
+      "脱口秀",
+      "喜剧",
+      "访谈"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "gudamovie-youtube",
+    "id": "gudamovie-youtube",
+    "type": "youtube-channel",
+    "name": "谷阿莫",
+    "description": "影视解说代表频道之一，以快速叙事、电影剧情梳理和流行影视内容总结见长。",
+    "url": "https://www.youtube.com/channel/UC6IMF6xi_MZ3jA1wRlPQDLA",
+    "category": "youtube-film-entertainment",
+    "categoryName": "影视娱乐",
+    "tags": [
+      "影视",
+      "解说",
+      "电影"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "atien-dai-youtube",
+    "id": "atien-dai-youtube",
+    "type": "youtube-channel",
+    "name": "白痴公主",
+    "description": "台湾娱乐创作者，内容包含配音、角色扮演、生活企划、短剧和个人品牌节目。",
+    "url": "https://www.youtube.com/user/ATienDai",
+    "category": "youtube-film-entertainment",
+    "categoryName": "影视娱乐",
+    "tags": [
+      "娱乐",
+      "配音",
+      "短剧"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "台湾 / 繁中"
+  },
+  {
+    "uid": "namewee-youtube",
+    "id": "namewee-youtube",
+    "type": "youtube-channel",
+    "name": "Namewee 黄明志",
+    "description": "马来西亚华语音乐与影像创作者，发布音乐作品、MV、社会观察和跨语种娱乐内容。",
+    "url": "https://www.youtube.com/@namewee",
+    "category": "youtube-film-entertainment",
+    "categoryName": "影视娱乐",
+    "tags": [
+      "音乐",
+      "马来西亚",
+      "创作"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "马来西亚 / 华语"
+  },
+  {
+    "uid": "pomato-youtube",
+    "id": "pomato-youtube",
+    "type": "youtube-channel",
+    "name": "Pomato 小薯茄",
+    "description": "香港粤语娱乐团队，制作短剧、综艺企划、人物角色和本地流行文化内容。",
+    "url": "https://www.youtube.com/@PomatoHK",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "香港",
+      "粤语",
+      "短剧"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "香港 / 粤语"
+  },
+  {
+    "uid": "trial-and-error-youtube",
+    "id": "trial-and-error-youtube",
+    "type": "youtube-channel",
+    "name": "Trial & Error",
+    "description": "香港粤语创作团队，内容包含生活挑战、都市观察、实验企划和娱乐访谈。",
+    "url": "https://www.youtube.com/@TrialAndError924",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "香港",
+      "粤语",
+      "企划"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "香港 / 粤语"
+  },
+  {
+    "uid": "fhproductionhk-youtube",
+    "id": "fhproductionhk-youtube",
+    "type": "youtube-channel",
+    "name": "FHProductionHK",
+    "description": "香港网络短片团队，以校园、职场、感情和城市生活题材的粤语短剧见长。",
+    "url": "https://www.youtube.com/@FHProductionHK",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "香港",
+      "短剧",
+      "粤语"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "香港 / 粤语"
+  },
+  {
+    "uid": "mill-milk-youtube",
+    "id": "mill-milk-youtube",
+    "type": "youtube-channel",
+    "name": "米纸",
+    "description": "香港人物和社区故事频道，关注本地饮食、街区文化、人物专访和城市记忆。",
+    "url": "https://www.youtube.com/@MillMilk",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "香港",
+      "人物",
+      "社区"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-09",
+    "meta": "香港 / 粤语"
+  },
+  {
+    "uid": "100most-youtube",
+    "id": "100most-youtube",
+    "type": "youtube-channel",
+    "name": "毛记电视",
+    "description": "香港网络媒体和娱乐品牌，内容包含讽刺短片、节目片段、本地娱乐和流行文化。",
+    "url": "https://www.youtube.com/user/100mosthk",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "香港",
+      "娱乐",
+      "媒体"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "香港 / 粤语"
+  },
+  {
+    "uid": "dimcookguide-youtube",
+    "id": "dimcookguide-youtube",
+    "type": "youtube-channel",
+    "name": "点 Cook Guide",
+    "description": "香港粤语料理频道，提供家常菜、港式美食、厨房技巧和易跟做的食谱影片。",
+    "url": "https://www.youtube.com/@dimcookguide",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "香港",
+      "料理",
+      "粤语"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "香港 / 粤语"
+  },
+  {
+    "uid": "singsing-kitchen-youtube",
+    "id": "singsing-kitchen-youtube",
+    "type": "youtube-channel",
+    "name": "职人吹水",
+    "description": "香港粤语厨艺频道，以餐饮从业经验讲解港式料理、厨房流程和实用烹饪技巧。",
+    "url": "https://www.youtube.com/@singSingKitchen",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "香港",
+      "厨艺",
+      "粤语"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "香港 / 粤语"
+  },
+  {
+    "uid": "jinnyboytv-youtube",
+    "id": "jinnyboytv-youtube",
+    "type": "youtube-channel",
+    "name": "JinnyboyTV",
+    "description": "马来西亚网络创作团队，制作英文和华语受众都熟悉的短片、人物故事和喜剧内容。",
+    "url": "https://www.youtube.com/user/JinnyboyTV",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "马来西亚",
+      "短片",
+      "喜剧"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "马来西亚 / 多语"
+  },
+  {
+    "uid": "the-ming-thing-youtube",
+    "id": "the-ming-thing-youtube",
+    "type": "youtube-channel",
+    "name": "The Ming Thing",
+    "description": "马来西亚创作团队，内容涵盖都市青年生活、情感短剧、喜剧企划和品牌故事。",
+    "url": "https://www.youtube.com/@TheMingThing",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "马来西亚",
+      "短剧",
+      "生活"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "马来西亚 / 多语"
+  },
+  {
+    "uid": "wahbanana-youtube",
+    "id": "wahbanana-youtube",
+    "type": "youtube-channel",
+    "name": "Wah!Banana",
+    "description": "新加坡网络娱乐团队，制作英语和华语文化圈都容易理解的短剧、喜剧和生活观察。",
+    "url": "https://www.youtube.com/@WahBanana",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "新加坡",
+      "喜剧",
+      "短剧"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "新加坡 / 多语"
+  },
+  {
+    "uid": "smileboyhk-youtube",
+    "id": "smileboyhk-youtube",
+    "type": "youtube-channel",
+    "name": "笑波子",
+    "description": "香港游戏和娱乐频道，提供游戏实况、挑战、角色内容和面向年轻用户的轻娱乐。",
+    "url": "https://www.youtube.com/@smileboyhk",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "香港",
+      "游戏",
+      "娱乐"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "香港 / 粤语"
+  },
+  {
+    "uid": "dajj-youtube",
+    "id": "dajj-youtube",
+    "type": "youtube-channel",
+    "name": "大J",
+    "description": "香港游戏与生活创作者，内容包含游戏评论、实况、个人生活和社会话题观察。",
+    "url": "https://www.youtube.com/@dajj",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "香港",
+      "游戏",
+      "生活"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "香港 / 粤语"
+  },
+  {
+    "uid": "emiwong-youtube",
+    "id": "emiwong-youtube",
+    "type": "youtube-channel",
+    "name": "Emi Wong",
+    "description": "香港健身和生活方式频道，提供居家训练、身材管理、健康习惯和日常记录内容。",
+    "url": "https://www.youtube.com/@emiwong",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "香港",
+      "健身",
+      "生活"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "香港 / 英粤"
+  },
+  {
+    "uid": "coffeelam-youtube",
+    "id": "coffeelam-youtube",
+    "type": "youtube-channel",
+    "name": "Coffee 林芊妤",
+    "description": "香港瑜伽、健身和生活方式频道，提供训练课程、饮食记录和健康生活内容。",
+    "url": "https://www.youtube.com/@CoffeeLam",
+    "category": "youtube-hong-kong-southeast-asia",
+    "categoryName": "香港与东南亚",
+    "tags": [
+      "香港",
+      "瑜伽",
+      "生活"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-09",
+    "meta": "香港 / 粤语"
+  }
+]

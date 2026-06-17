@@ -590,6 +590,15 @@ https://cardano.stackexchange.com
 https://substrate.stackexchange.com
 https://solana.stackexchange.com
 https://crypto.stackexchange.com
+https://latin.stackexchange.com
+https://crafts.stackexchange.com
+https://esperanto.stackexchange.com
+https://literature.stackexchange.com
+https://vegetarianism.stackexchange.com
+https://interpersonal.stackexchange.com
+https://conlang.stackexchange.com
+https://drones.stackexchange.com
+https://bioacoustics.stackexchange.com
 https://medium.com
 https://substack.com
 https://wordpress.com

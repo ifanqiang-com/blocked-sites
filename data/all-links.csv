@@ -591,6 +591,15 @@ cardano-stackexchange-com,site,Cardano,https://cardano.stackexchange.com,forums-
 substrate-stackexchange-com,site,Substrate and Polkadot,https://substrate.stackexchange.com,forums-communities,论坛社区,Substrate and Polkadot 是 Stack Exchange 网络中的加密资产和区块链开发问答社区，集中 Substrate、Polkadot 和生态开发问题讨论。,加密资产 | Polkadot | 问答,false,2026-06-17
 solana-stackexchange-com,site,Solana,https://solana.stackexchange.com,forums-communities,论坛社区,Solana 是 Stack Exchange 网络中的加密资产问答社区，集中 Solana 协议、钱包、节点和链上开发问题讨论。,加密资产 | Solana | 问答,false,2026-06-17
 crypto-stackexchange-com,site,Cryptography,https://crypto.stackexchange.com,forums-communities,论坛社区,Cryptography 是 Stack Exchange 网络中的密码学问答社区，集中密码算法、安全协议和理论问题讨论。,密码学 | 安全 | 问答,false,2026-06-17
+latin-stackexchange-com,site,Latin Language,https://latin.stackexchange.com,forums-communities,论坛社区,Latin Language 是 Stack Exchange 网络中的拉丁语问答社区，集中拉丁语学习、翻译、语法和文本理解讨论。,语言 | 拉丁语 | 问答,false,2026-06-17
+crafts-stackexchange-com,site,Arts & Crafts,https://crafts.stackexchange.com,forums-communities,论坛社区,Arts & Crafts 是 Stack Exchange 网络中的手工艺问答社区，集中材料、制作技巧和创作经验讨论。,手工 | 创作 | 问答,false,2026-06-17
+esperanto-stackexchange-com,site,Esperanto Language,https://esperanto.stackexchange.com,forums-communities,论坛社区,Esperanto Language 是 Stack Exchange 网络中的世界语问答社区，集中世界语学习、语法和使用经验讨论。,语言 | 世界语 | 问答,false,2026-06-17
+literature-stackexchange-com,site,Literature,https://literature.stackexchange.com,forums-communities,论坛社区,Literature 是 Stack Exchange 网络中的文学问答社区，集中作品解读、文学史和阅读经验讨论。,文学 | 阅读 | 问答,false,2026-06-17
+vegetarianism-stackexchange-com,site,Veganism & Vegetarianism,https://vegetarianism.stackexchange.com,forums-communities,论坛社区,Veganism & Vegetarianism 是 Stack Exchange 网络中的素食和纯素生活问答社区，集中饮食选择、营养和生活方式讨论。,饮食 | 生活方式 | 问答,false,2026-06-17
+interpersonal-stackexchange-com,site,Interpersonal Skills,https://interpersonal.stackexchange.com,forums-communities,论坛社区,Interpersonal Skills 是 Stack Exchange 网络中的人际沟通问答社区，集中社交场景、沟通方式和日常互动经验讨论。,沟通 | 社交 | 问答,false,2026-06-17
+conlang-stackexchange-com,site,Constructed Languages,https://conlang.stackexchange.com,forums-communities,论坛社区,Constructed Languages 是 Stack Exchange 网络中的构造语言问答社区，集中语言设计、语法系统和创作经验讨论。,语言 | 构造语言 | 问答,false,2026-06-17
+drones-stackexchange-com,site,Drones and Model Aircraft,https://drones.stackexchange.com,forums-communities,论坛社区,Drones and Model Aircraft 是 Stack Exchange 网络中的无人机和模型飞行器问答社区，集中设备、飞行、维护和法规经验讨论。,无人机 | 模型飞机 | 问答,false,2026-06-17
+bioacoustics-stackexchange-com,site,Bioacoustics,https://bioacoustics.stackexchange.com,forums-communities,论坛社区,Bioacoustics 是 Stack Exchange 网络中的生物声学问答社区，集中声音采集、分析方法和生态研究讨论。,生物声学 | 研究 | 问答,false,2026-06-17
 medium-com,site,Medium,https://medium.com,blogs-publishing,博客与出版,英文为主的写作和博客平台。核心提供文章发布、作者主页、订阅和内容发现。,博客 | 写作 | 英文,true,2026-06-08
 substack-com,site,Substack,https://substack.com,blogs-publishing,博客与出版,Newsletter 与长文发布平台。核心提供文章发布、作者主页、订阅和内容发现。,Newsletter | 博客 | 写作,true,2026-06-08
 wordpress-com,site,WordPress.com,https://wordpress.com,blogs-publishing,博客与出版,托管博客和网站发布平台。核心提供文章发布、作者主页、订阅和内容发现。,博客 | 建站 | CMS,false,2026-06-08

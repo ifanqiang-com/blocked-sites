@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T19:36:28.039Z",
+  "generatedAt": "2026-06-17T21:40:24.725Z",
   "source": {
     "name": "爱翻墙",
     "title": "爱翻墙 - 墙外中文入口导航",
@@ -7,10 +7,10 @@
     "email": "admin@ifanqiang.com"
   },
   "counts": {
-    "sites": 1500,
+    "sites": 1509,
     "youtubeChannels": 69,
     "categories": 25,
-    "allLinks": 1569
+    "allLinks": 1578
   },
   "categories": [
     {
@@ -13224,6 +13224,204 @@
       "priority": 271,
       "addedAt": "2026-06-17",
       "sourceUrl": "https://crypto.stackexchange.com"
+    },
+    {
+      "uid": "latin-stackexchange-com",
+      "id": "latin-stackexchange-com",
+      "type": "site",
+      "name": "Latin Language",
+      "description": "Latin Language 是 Stack Exchange 网络中的拉丁语问答社区，集中拉丁语学习、翻译、语法和文本理解讨论。",
+      "url": "https://latin.stackexchange.com",
+      "category": "forums-communities",
+      "categoryName": "论坛社区",
+      "tags": [
+        "语言",
+        "拉丁语",
+        "问答"
+      ],
+      "language": "en",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 272,
+      "addedAt": "2026-06-17",
+      "sourceUrl": "https://latin.stackexchange.com"
+    },
+    {
+      "uid": "crafts-stackexchange-com",
+      "id": "crafts-stackexchange-com",
+      "type": "site",
+      "name": "Arts & Crafts",
+      "description": "Arts & Crafts 是 Stack Exchange 网络中的手工艺问答社区，集中材料、制作技巧和创作经验讨论。",
+      "url": "https://crafts.stackexchange.com",
+      "category": "forums-communities",
+      "categoryName": "论坛社区",
+      "tags": [
+        "手工",
+        "创作",
+        "问答"
+      ],
+      "language": "en",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 273,
+      "addedAt": "2026-06-17",
+      "sourceUrl": "https://crafts.stackexchange.com"
+    },
+    {
+      "uid": "esperanto-stackexchange-com",
+      "id": "esperanto-stackexchange-com",
+      "type": "site",
+      "name": "Esperanto Language",
+      "description": "Esperanto Language 是 Stack Exchange 网络中的世界语问答社区，集中世界语学习、语法和使用经验讨论。",
+      "url": "https://esperanto.stackexchange.com",
+      "category": "forums-communities",
+      "categoryName": "论坛社区",
+      "tags": [
+        "语言",
+        "世界语",
+        "问答"
+      ],
+      "language": "en",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 274,
+      "addedAt": "2026-06-17",
+      "sourceUrl": "https://esperanto.stackexchange.com"
+    },
+    {
+      "uid": "literature-stackexchange-com",
+      "id": "literature-stackexchange-com",
+      "type": "site",
+      "name": "Literature",
+      "description": "Literature 是 Stack Exchange 网络中的文学问答社区，集中作品解读、文学史和阅读经验讨论。",
+      "url": "https://literature.stackexchange.com",
+      "category": "forums-communities",
+      "categoryName": "论坛社区",
+      "tags": [
+        "文学",
+        "阅读",
+        "问答"
+      ],
+      "language": "en",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 275,
+      "addedAt": "2026-06-17",
+      "sourceUrl": "https://literature.stackexchange.com"
+    },
+    {
+      "uid": "vegetarianism-stackexchange-com",
+      "id": "vegetarianism-stackexchange-com",
+      "type": "site",
+      "name": "Veganism & Vegetarianism",
+      "description": "Veganism & Vegetarianism 是 Stack Exchange 网络中的素食和纯素生活问答社区，集中饮食选择、营养和生活方式讨论。",
+      "url": "https://vegetarianism.stackexchange.com",
+      "category": "forums-communities",
+      "categoryName": "论坛社区",
+      "tags": [
+        "饮食",
+        "生活方式",
+        "问答"
+      ],
+      "language": "en",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 276,
+      "addedAt": "2026-06-17",
+      "sourceUrl": "https://vegetarianism.stackexchange.com"
+    },
+    {
+      "uid": "interpersonal-stackexchange-com",
+      "id": "interpersonal-stackexchange-com",
+      "type": "site",
+      "name": "Interpersonal Skills",
+      "description": "Interpersonal Skills 是 Stack Exchange 网络中的人际沟通问答社区，集中社交场景、沟通方式和日常互动经验讨论。",
+      "url": "https://interpersonal.stackexchange.com",
+      "category": "forums-communities",
+      "categoryName": "论坛社区",
+      "tags": [
+        "沟通",
+        "社交",
+        "问答"
+      ],
+      "language": "en",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 277,
+      "addedAt": "2026-06-17",
+      "sourceUrl": "https://interpersonal.stackexchange.com"
+    },
+    {
+      "uid": "conlang-stackexchange-com",
+      "id": "conlang-stackexchange-com",
+      "type": "site",
+      "name": "Constructed Languages",
+      "description": "Constructed Languages 是 Stack Exchange 网络中的构造语言问答社区，集中语言设计、语法系统和创作经验讨论。",
+      "url": "https://conlang.stackexchange.com",
+      "category": "forums-communities",
+      "categoryName": "论坛社区",
+      "tags": [
+        "语言",
+        "构造语言",
+        "问答"
+      ],
+      "language": "en",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 278,
+      "addedAt": "2026-06-17",
+      "sourceUrl": "https://conlang.stackexchange.com"
+    },
+    {
+      "uid": "drones-stackexchange-com",
+      "id": "drones-stackexchange-com",
+      "type": "site",
+      "name": "Drones and Model Aircraft",
+      "description": "Drones and Model Aircraft 是 Stack Exchange 网络中的无人机和模型飞行器问答社区，集中设备、飞行、维护和法规经验讨论。",
+      "url": "https://drones.stackexchange.com",
+      "category": "forums-communities",
+      "categoryName": "论坛社区",
+      "tags": [
+        "无人机",
+        "模型飞机",
+        "问答"
+      ],
+      "language": "en",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 279,
+      "addedAt": "2026-06-17",
+      "sourceUrl": "https://drones.stackexchange.com"
+    },
+    {
+      "uid": "bioacoustics-stackexchange-com",
+      "id": "bioacoustics-stackexchange-com",
+      "type": "site",
+      "name": "Bioacoustics",
+      "description": "Bioacoustics 是 Stack Exchange 网络中的生物声学问答社区，集中声音采集、分析方法和生态研究讨论。",
+      "url": "https://bioacoustics.stackexchange.com",
+      "category": "forums-communities",
+      "categoryName": "论坛社区",
+      "tags": [
+        "生物声学",
+        "研究",
+        "问答"
+      ],
+      "language": "en",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 280,
+      "addedAt": "2026-06-17",
+      "sourceUrl": "https://bioacoustics.stackexchange.com"
     },
     {
       "uid": "medium-com",

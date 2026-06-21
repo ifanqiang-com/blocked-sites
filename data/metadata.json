@@ -1,15 +1,32 @@
 {
-  "generatedAt": "2026-06-17T21:40:24.725Z",
-  "source": {
-    "name": "爱翻墙",
-    "title": "爱翻墙 - 墙外中文入口导航",
-    "url": "https://ifanqiang.com",
-    "email": "admin@ifanqiang.com"
+  "generatedAt": "2026-06-21T23:56:17.348Z",
+  "source": "production-database",
+  "siteUrl": "https://ifanqiang.com",
+  "production": {
+    "sitesTotal": 1509,
+    "sitesPublic": 1509,
+    "youtubeTotal": 69,
+    "youtubePublic": 69,
+    "profileTableAvailable": false
+  },
+  "publicOverrides": {
+    "excludedSiteIds": [
+      "kktv-me",
+      "xkb-com-au"
+    ],
+    "siteUrlOverrideIds": [
+      "peoplemedia-tw",
+      "justpodmedia-com"
+    ]
   },
   "counts": {
-    "sites": 1509,
+    "sites": 1507,
     "youtubeChannels": 69,
     "categories": 25,
-    "allLinks": 1578
+    "allLinks": 1576,
+    "topics": 30,
+    "topicResolvedItems": 1702,
+    "sitesWithProfile": 0,
+    "markdownFiles": 1634
   }
 }

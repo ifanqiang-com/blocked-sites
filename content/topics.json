@@ -1,0 +1,3299 @@
+[
+  {
+    "slug": "stack-exchange-qa-communities",
+    "title": "Stack Exchange 与问答社区入口",
+    "seoTitle": "Stack Exchange 与问答社区入口：技术、学术和专业问答站整理 - 爱翻墙",
+    "description": "整理 Stack Exchange 系列、技术问答、专业社区和知识讨论入口，适合按问题查找公开经验。",
+    "intro": "这个专题整理问答社区、Stack Exchange 系列、技术问答和专业讨论入口，适合围绕具体问题查找公开经验、参考答案和社区资料。爱翻墙只做入口导航，不代表对用户生成内容背书。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "Stack Exchange 系列",
+        "description": "覆盖 Stack Exchange 系列下的专业问答社区，适合按领域检索长期积累的公开问答。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "论坛社区"
+          ],
+          "tagsAny": [
+            "Stack Exchange"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "开发者问答社区",
+        "description": "适合查找编程、运维、开源项目和软件开发问题的公开讨论。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "论坛社区",
+            "开发者资源"
+          ],
+          "textAny": [
+            "Stack Overflow",
+            "开发",
+            "编程",
+            "程序员",
+            "代码",
+            "问答"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "学术与专业问答",
+        "description": "适合查找数学、科学、语言、法律、医学和专业领域的公开问答资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "论坛社区",
+            "学术研究",
+            "百科与开放资料"
+          ],
+          "textAny": [
+            "数学",
+            "科学",
+            "学术",
+            "医学",
+            "法律",
+            "语言",
+            "专业",
+            "问答"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "综合论坛和社区",
+        "description": "适合浏览更宽泛的论坛、社区、经验分享和公开讨论平台。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "论坛社区"
+          ],
+          "tagsAny": [
+            "社区",
+            "论坛",
+            "问答"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "overseas-chinese-communities",
+      "developer-resources",
+      "research-open-knowledge",
+      "search-ai-tools"
+    ]
+  },
+  {
+    "slug": "developer-documentation-hub",
+    "title": "开发者官方文档入口",
+    "seoTitle": "开发者官方文档入口：语言、框架、云服务和 API 文档导航 - 爱翻墙",
+    "description": "整理编程语言、前端框架、后端框架、云服务、API 和工具链官方文档入口。",
+    "intro": "这个专题整理开发者常用官方文档入口，包括编程语言、前端框架、后端框架、云服务、API、测试和构建工具。适合需要快速进入原始文档的开发者和学习者。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "编程语言文档",
+        "description": "适合查找语言标准库、语法、工具链和官方学习资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "textAny": [
+            "文档",
+            "documentation",
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "Go",
+            "Rust",
+            "PHP",
+            "Ruby",
+            "Kotlin",
+            "Swift"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "前端与应用框架",
+        "description": "适合进入前端框架、应用框架、构建工具和 UI 相关官方资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "textAny": [
+            "React",
+            "Vue",
+            "Angular",
+            "Svelte",
+            "Next",
+            "Astro",
+            "Vite",
+            "Tailwind",
+            "前端",
+            "框架"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "后端、数据库与 API",
+        "description": "适合查找后端框架、数据库 ORM、GraphQL、REST API 和服务端开发文档。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "textAny": [
+            "API",
+            "后端",
+            "数据库",
+            "GraphQL",
+            "ORM",
+            "Django",
+            "FastAPI",
+            "Spring",
+            "Express",
+            "文档"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "测试、构建和工程工具",
+        "description": "适合进入测试框架、构建工具、包管理和工程效率工具资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "textAny": [
+            "测试",
+            "构建",
+            "包管理",
+            "Webpack",
+            "Rollup",
+            "Jest",
+            "Vitest",
+            "Playwright",
+            "ESLint",
+            "Prettier"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "developer-resources",
+      "frontend-web-development-resources",
+      "python-data-science-resources",
+      "open-source-code-resources"
+    ]
+  },
+  {
+    "slug": "open-source-code-resources",
+    "title": "开源与代码托管资源",
+    "seoTitle": "开源与代码托管资源：Git、代码搜索、软件发布和协作平台入口 - 爱翻墙",
+    "description": "整理开源项目、代码托管、代码搜索、软件发布、协作开发和开源社区入口。",
+    "intro": "这个专题整理开源与代码托管相关入口，覆盖代码托管、版本控制、代码搜索、软件发布和开源协作平台。适合查找项目源码、开发资料和社区维护信息。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "代码托管与协作",
+        "description": "适合查找代码托管、版本控制、开源协作和项目管理入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "textAny": [
+            "GitHub",
+            "GitLab",
+            "代码托管",
+            "版本控制",
+            "协作",
+            "开源"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "代码搜索与开发检索",
+        "description": "适合跨项目查找代码片段、函数、依赖、包和技术实现。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "搜索与发现",
+            "开发者资源"
+          ],
+          "textAny": [
+            "代码搜索",
+            "SearchCode",
+            "检索",
+            "package",
+            "依赖",
+            "代码"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "开源软件发布",
+        "description": "适合查找开源软件、版本发布、包管理和软件下载入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "应用与下载",
+            "开发者资源"
+          ],
+          "textAny": [
+            "开源",
+            "release",
+            "发布",
+            "包管理",
+            "下载",
+            "软件"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "开源社区和基金会",
+        "description": "适合关注开源生态、基金会、标准组织和长期维护社区。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源",
+            "论坛社区",
+            "隐私安全"
+          ],
+          "textAny": [
+            "开源",
+            "基金会",
+            "社区",
+            "CNCF",
+            "OpenSSF",
+            "标准"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "developer-resources",
+      "developer-documentation-hub",
+      "linux-server-admin-resources",
+      "apps-download-resources"
+    ]
+  },
+  {
+    "slug": "linux-server-admin-resources",
+    "title": "Linux 与服务器管理资源",
+    "seoTitle": "Linux 与服务器管理资源：系统文档、容器、监控和运维工具入口 - 爱翻墙",
+    "description": "整理 Linux、服务器、Shell、容器、监控、数据库和系统管理相关公开资料入口。",
+    "intro": "这个专题整理 Linux 与服务器管理相关资源，覆盖系统文档、Shell、容器、监控、日志、数据库和运维工具。适合系统管理员、后端开发者和自托管用户收藏。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "Linux 与系统文档",
+        "description": "适合查找 Linux、Shell、命令行、系统手册和发行版相关资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源",
+            "百科与开放资料"
+          ],
+          "textAny": [
+            "Linux",
+            "Shell",
+            "Bash",
+            "命令行",
+            "系统",
+            "手册",
+            "Arch"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "容器和云原生",
+        "description": "适合查找容器、编排、云原生、服务部署和基础设施资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "textAny": [
+            "Docker",
+            "Podman",
+            "Kubernetes",
+            "CNCF",
+            "容器",
+            "云原生"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "监控、日志和消息系统",
+        "description": "适合进入监控、日志、可观测性、消息队列和数据管道相关文档。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "textAny": [
+            "监控",
+            "日志",
+            "Prometheus",
+            "Grafana",
+            "OpenTelemetry",
+            "Kafka",
+            "RabbitMQ"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "安全加固和检测",
+        "description": "适合查找服务器安全、配置检测、TLS、HTTP Header 和安全基线资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全",
+            "开发者资源"
+          ],
+          "textAny": [
+            "安全基线",
+            "加固",
+            "TLS",
+            "HTTPS",
+            "Header",
+            "服务器",
+            "检测"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "developer-documentation-hub",
+      "cybersecurity-vulnerability-resources",
+      "open-source-code-resources",
+      "privacy-security-tools"
+    ]
+  },
+  {
+    "slug": "python-data-science-resources",
+    "title": "Python 与数据科学资源",
+    "seoTitle": "Python 与数据科学资源：数据分析、机器学习和科研计算文档入口 - 爱翻墙",
+    "description": "整理 Python、数据分析、科研计算、机器学习、Jupyter 和相关文档入口。",
+    "intro": "这个专题整理 Python 与数据科学相关入口，覆盖数据分析、科研计算、机器学习、Jupyter、可视化和 AI 开发文档。适合学习、研究和工程开发使用。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "Python 官方与生态文档",
+        "description": "适合查找 Python 语言、标准库、包管理和常用生态文档。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "textAny": [
+            "Python",
+            "pip",
+            "包管理",
+            "文档",
+            "pypi"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "数据分析和可视化",
+        "description": "适合进入 Pandas、NumPy、SciPy、Matplotlib 和数据处理相关资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源",
+            "财经与数据"
+          ],
+          "textAny": [
+            "Pandas",
+            "NumPy",
+            "SciPy",
+            "Matplotlib",
+            "数据分析",
+            "可视化",
+            "图表"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "机器学习和 AI 开发",
+        "description": "适合查找机器学习、深度学习、模型文档和 AI 开发生态资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源",
+            "搜索与发现"
+          ],
+          "textAny": [
+            "TensorFlow",
+            "PyTorch",
+            "Hugging Face",
+            "LangChain",
+            "LlamaIndex",
+            "机器学习",
+            "AI"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "Notebook 与研究工具",
+        "description": "适合查找 Jupyter、科研计算、交互式分析和学习实验相关入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源",
+            "学术研究"
+          ],
+          "textAny": [
+            "Jupyter",
+            "Notebook",
+            "科研",
+            "计算",
+            "学习",
+            "实验"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "developer-documentation-hub",
+      "public-data-statistics-resources",
+      "academic-journal-open-access",
+      "search-ai-tools"
+    ]
+  },
+  {
+    "slug": "frontend-web-development-resources",
+    "title": "前端与 Web 开发资源",
+    "seoTitle": "前端与 Web 开发资源：框架、构建、测试和浏览器文档入口 - 爱翻墙",
+    "description": "整理前端框架、Web 平台、构建工具、测试工具、CSS 和浏览器开发资料入口。",
+    "intro": "这个专题整理前端与 Web 开发资源，覆盖框架、路由、构建、测试、CSS、浏览器文档和应用开发工具。适合前端开发者快速进入官方资料。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "前端框架与应用开发",
+        "description": "适合查找 React、Vue、Angular、Svelte、Next、Nuxt、Astro 等框架资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "textAny": [
+            "React",
+            "Vue",
+            "Angular",
+            "Svelte",
+            "Next",
+            "Nuxt",
+            "Astro",
+            "前端",
+            "框架"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "构建、样式和工程化",
+        "description": "适合进入 Vite、Webpack、Rollup、Tailwind、ESLint、Prettier 等工具文档。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "textAny": [
+            "Vite",
+            "Webpack",
+            "Rollup",
+            "Tailwind",
+            "CSS",
+            "ESLint",
+            "Prettier",
+            "构建"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "测试和组件文档",
+        "description": "适合查找测试框架、端到端测试、组件文档和前端质量工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "textAny": [
+            "Jest",
+            "Vitest",
+            "Playwright",
+            "Cypress",
+            "Storybook",
+            "测试",
+            "组件"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "浏览器与 Web 平台",
+        "description": "适合查找浏览器、Web API、兼容性、性能和平台规范资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源",
+            "隐私安全",
+            "百科与开放资料"
+          ],
+          "textAny": [
+            "浏览器",
+            "Web",
+            "MDN",
+            "API",
+            "兼容",
+            "性能",
+            "标准"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "developer-documentation-hub",
+      "open-source-code-resources",
+      "apps-download-resources",
+      "privacy-email-password-tools"
+    ]
+  },
+  {
+    "slug": "cybersecurity-vulnerability-resources",
+    "title": "网络安全新闻与漏洞资料",
+    "seoTitle": "网络安全新闻与漏洞资料：CVE、威胁情报、安全检测和官方公告入口 - 爱翻墙",
+    "description": "整理安全新闻、CVE 漏洞、威胁情报、检测工具、官方公告和安全基线资料入口。",
+    "intro": "这个专题整理网络安全新闻与漏洞资料入口，覆盖 CVE、NVD、威胁情报、安全检测、官方公告和防护基线。专题只做公开资料导航，不提供攻击、入侵或绕过平台规则的服务。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "漏洞库与标准资料",
+        "description": "适合查找 CVE、NVD、CVSS、漏洞评分、攻击技术知识库和安全标准。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全"
+          ],
+          "textAny": [
+            "CVE",
+            "NVD",
+            "CVSS",
+            "漏洞",
+            "MITRE",
+            "标准",
+            "知识库"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "安全新闻和研究",
+        "description": "适合关注安全新闻、威胁趋势、漏洞分析和研究者评论。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全",
+            "国际新闻"
+          ],
+          "textAny": [
+            "安全新闻",
+            "威胁",
+            "漏洞",
+            "网络犯罪",
+            "研究",
+            "调查"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "检测、扫描和信誉查询",
+        "description": "适合查找 URL、IP、TLS、Header、恶意软件和公开信誉查询工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全"
+          ],
+          "textAny": [
+            "检测",
+            "扫描",
+            "信誉",
+            "URL",
+            "IP",
+            "TLS",
+            "恶意软件",
+            "钓鱼"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "官方公告与防护指南",
+        "description": "适合查找官方安全公告、基线、加固建议和基础防护指南。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全"
+          ],
+          "textAny": [
+            "官方",
+            "公告",
+            "安全基线",
+            "加固",
+            "指南",
+            "CERT",
+            "NIST",
+            "CISA"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "privacy-security-tools",
+      "linux-server-admin-resources",
+      "privacy-email-password-tools",
+      "developer-resources"
+    ]
+  },
+  {
+    "slug": "privacy-email-password-tools",
+    "title": "隐私邮箱与密码管理工具",
+    "seoTitle": "隐私邮箱与密码管理工具：加密邮箱、密码管理、2FA 和账号安全入口 - 爱翻墙",
+    "description": "整理隐私邮箱、邮箱别名、密码管理、双因素认证、硬件密钥和账号安全工具入口。",
+    "intro": "这个专题整理隐私邮箱与账号安全工具入口，包括加密邮箱、邮箱别名、密码管理、双因素认证、硬件密钥和泄露查询。爱翻墙只做公开入口导航，不提供账号托管或代操作服务。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "隐私邮箱和邮箱别名",
+        "description": "适合查找加密邮箱、隐私邮箱、邮箱别名和账号隔离工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全"
+          ],
+          "textAny": [
+            "邮箱",
+            "加密邮箱",
+            "邮箱别名",
+            "隐私邮箱",
+            "mail"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "密码管理工具",
+        "description": "适合查找密码管理、通行密钥、密码库和跨设备账号保护工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全",
+            "应用与下载"
+          ],
+          "textAny": [
+            "密码管理",
+            "密码",
+            "Passkey",
+            "通行密钥",
+            "账号"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "双因素认证和硬件密钥",
+        "description": "适合查找 2FA、MFA、认证器、硬件密钥和账号增强验证入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全",
+            "应用与下载"
+          ],
+          "textAny": [
+            "2FA",
+            "MFA",
+            "双因素",
+            "双重验证",
+            "认证",
+            "硬件密钥",
+            "YubiKey"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "泄露查询和账号检查",
+        "description": "适合查找邮箱泄露、账号风险、身份盗用和安全提醒相关入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全"
+          ],
+          "textAny": [
+            "泄露查询",
+            "身份盗用",
+            "账号",
+            "安全提醒",
+            "breach"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "privacy-security-tools",
+      "cybersecurity-vulnerability-resources",
+      "apps-download-resources",
+      "frontend-web-development-resources"
+    ]
+  },
+  {
+    "slug": "academic-journal-open-access",
+    "title": "论文、期刊与开放获取资源",
+    "seoTitle": "论文、期刊与开放获取资源：学术搜索、预印本、开放期刊和研究资料入口 - 爱翻墙",
+    "description": "整理论文搜索、期刊平台、预印本、开放获取、学术数据库和研究资料入口。",
+    "intro": "这个专题整理论文、期刊与开放获取资源，覆盖学术搜索、预印本、开放期刊、研究数据库和引用检索。爱翻墙只整理公开入口，不提供盗版论文、账号共享或付费绕过服务。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "论文搜索与学术索引",
+        "description": "适合查找论文、作者、引用、研究主题和跨学科资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "学术研究",
+            "搜索与发现"
+          ],
+          "textAny": [
+            "论文",
+            "学术",
+            "引用",
+            "索引",
+            "Scholar",
+            "研究"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "预印本和开放获取",
+        "description": "适合查找预印本、开放获取期刊、开放论文和研究成果平台。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "学术研究"
+          ],
+          "textAny": [
+            "预印本",
+            "开放获取",
+            "Open Access",
+            "期刊",
+            "论文"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "学科资料库",
+        "description": "适合按医学、法律、科学、社会科学等领域查找专业资料入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "学术研究",
+            "百科与开放资料"
+          ],
+          "textAny": [
+            "医学",
+            "法律",
+            "科学",
+            "社会科学",
+            "数据库",
+            "研究"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "课程、教材和学习资料",
+        "description": "适合查找开放课程、教材、讲义、教育平台和长期学习资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "学术研究",
+            "百科与开放资料",
+            "视频与流媒体"
+          ],
+          "textAny": [
+            "课程",
+            "教材",
+            "学习",
+            "教育",
+            "讲义",
+            "开放"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "research-open-knowledge",
+      "public-data-statistics-resources",
+      "python-data-science-resources",
+      "health-medical-reference-sites"
+    ]
+  },
+  {
+    "slug": "public-data-statistics-resources",
+    "title": "公开数据与统计资料入口",
+    "seoTitle": "公开数据与统计资料入口：政府数据、宏观指标、开放数据和可视化工具 - 爱翻墙",
+    "description": "整理政府公开数据、宏观统计、开放数据集、研究数据和数据可视化工具入口。",
+    "intro": "这个专题整理公开数据与统计资料入口，覆盖政府数据、宏观指标、开放数据集、研究资料和可视化工具。适合资料检索、商业研究、学术研究和日常数据核对。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "政府和公共数据",
+        "description": "适合查找政府公开数据、统计机构、国际组织和公共资料库。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "财经与数据",
+            "学术研究",
+            "百科与开放资料"
+          ],
+          "textAny": [
+            "公共数据",
+            "政府",
+            "统计",
+            "开放数据",
+            "国际组织"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "宏观经济和市场数据",
+        "description": "适合查找宏观指标、市场数据、公司数据和跨国家地区数据。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "财经与数据"
+          ],
+          "textAny": [
+            "宏观",
+            "经济",
+            "市场",
+            "公司",
+            "指标",
+            "数据"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "研究数据和知识库",
+        "description": "适合查找研究数据、学术资料库、开放知识和事实背景资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "学术研究",
+            "百科与开放资料"
+          ],
+          "textAny": [
+            "数据",
+            "研究",
+            "资料库",
+            "知识库",
+            "开放"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "数据分析和可视化工具",
+        "description": "适合查找数据分析、图表、地图、可视化和开发者数据工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "财经与数据",
+            "开发者资源",
+            "搜索与发现"
+          ],
+          "textAny": [
+            "数据分析",
+            "可视化",
+            "图表",
+            "地图",
+            "API",
+            "工具"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "finance-data-resources",
+      "academic-journal-open-access",
+      "python-data-science-resources",
+      "market-stock-investing-data"
+    ]
+  },
+  {
+    "slug": "taiwan-hongkong-media",
+    "title": "台湾与香港媒体入口",
+    "seoTitle": "台湾与香港媒体入口：新闻、评论、财经、文化和公共议题网站整理 - 爱翻墙",
+    "description": "整理台湾、香港及相关华文媒体入口，覆盖新闻、评论、财经、科技、文化和公共议题。",
+    "intro": "这个专题整理台湾与香港相关华文媒体入口，按新闻、评论、财经、科技、文化和公共议题分组，适合中文读者收藏和交叉查看资讯来源。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "台湾新闻和公共议题",
+        "description": "适合查找台湾新闻、公共媒体、社会议题和综合资讯入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "中文新闻"
+          ],
+          "textAny": [
+            "台湾",
+            "台灣",
+            "公共",
+            "新闻",
+            "社會",
+            "媒体"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "香港新闻和评论",
+        "description": "适合查找香港新闻、评论、财经、文化和城市资讯入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "中文新闻"
+          ],
+          "textAny": [
+            "香港",
+            "HK",
+            "粤语",
+            "評論",
+            "评论",
+            "城市"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "财经、科技和商业媒体",
+        "description": "适合查找台湾、香港和华文财经商业、科技产业和公司报道。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "中文新闻",
+            "财经与数据"
+          ],
+          "textAny": [
+            "财经",
+            "商业",
+            "科技",
+            "产业",
+            "香港",
+            "台湾"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "文化、生活和出版",
+        "description": "适合查找文化、生活、艺术、出版、设计和长文内容入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "中文新闻",
+            "博客与出版"
+          ],
+          "textAny": [
+            "文化",
+            "生活",
+            "艺术",
+            "出版",
+            "设计",
+            "台湾",
+            "香港"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "chinese-news-sites",
+      "chinese-blogs-publishing",
+      "design-art-culture-sites",
+      "chinese-youtube-channels"
+    ]
+  },
+  {
+    "slug": "us-europe-news-sources",
+    "title": "美国与欧洲新闻来源",
+    "seoTitle": "美国与欧洲新闻来源：英文新闻、公共媒体、财经和区域媒体入口 - 爱翻墙",
+    "description": "整理美国、英国、欧洲和国际英文新闻来源，覆盖综合新闻、公共媒体、财经、科技和区域资讯。",
+    "intro": "这个专题整理美国与欧洲常用英文新闻来源，覆盖综合新闻、公共媒体、财经商业、科技产业和区域媒体。适合中文读者做国际资讯交叉检索。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "美国新闻和公共媒体",
+        "description": "适合查找美国综合新闻、公共媒体、区域媒体和公共议题来源。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "国际新闻"
+          ],
+          "textAny": [
+            "美国",
+            "US",
+            "USA",
+            "public",
+            "news",
+            "公共",
+            "Washington",
+            "New York"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "英国和欧洲新闻",
+        "description": "适合查找英国、欧洲、欧盟和跨欧洲新闻来源。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "国际新闻"
+          ],
+          "textAny": [
+            "英国",
+            "欧洲",
+            "EU",
+            "Europe",
+            "London",
+            "France",
+            "Germany",
+            "news"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "财经商业和公司报道",
+        "description": "适合查找英文财经、商业、公司、市场和产业趋势来源。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "国际新闻",
+            "财经与数据"
+          ],
+          "textAny": [
+            "财经",
+            "商业",
+            "business",
+            "market",
+            "company",
+            "finance",
+            "经济"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "科技、文化和深度报道",
+        "description": "适合查找科技媒体、文化评论、深度报道和解释性内容。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "国际新闻",
+            "博客与出版"
+          ],
+          "textAny": [
+            "科技",
+            "technology",
+            "culture",
+            "深度",
+            "评论",
+            "analysis"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "chinese-news-sites",
+      "finance-data-resources",
+      "taiwan-hongkong-media",
+      "market-stock-investing-data"
+    ]
+  },
+  {
+    "slug": "market-stock-investing-data",
+    "title": "股票、市场与投资数据入口",
+    "seoTitle": "股票、市场与投资数据入口：行情、公司资料、财报和财经工具整理 - 爱翻墙",
+    "description": "整理股票行情、市场数据、公司资料、财报、投资研究、宏观指标和财经工具入口。",
+    "intro": "这个专题整理股票、市场与投资数据入口，覆盖行情、公司资料、财报、投资研究、宏观指标和财经工具。爱翻墙只做公开入口导航，不提供投资建议、荐股或金融交易服务。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "行情和市场数据",
+        "description": "适合查找股票、指数、市场行情、图表和跨市场数据入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "财经与数据"
+          ],
+          "textAny": [
+            "股票",
+            "市场",
+            "行情",
+            "指数",
+            "图表",
+            "market"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "公司资料和财报",
+        "description": "适合查找公司信息、财报、公告、商业资料和基本面数据。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "财经与数据"
+          ],
+          "textAny": [
+            "公司",
+            "财报",
+            "公告",
+            "商业",
+            "企业",
+            "资料"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "宏观经济和公共指标",
+        "description": "适合查找宏观经济、统计指标、公共数据和国家地区资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "财经与数据",
+            "学术研究"
+          ],
+          "textAny": [
+            "宏观",
+            "经济",
+            "统计",
+            "指标",
+            "公共数据",
+            "国家"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "财经新闻和研究",
+        "description": "适合查找财经新闻、商业报道、投资研究和产业趋势入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "财经与数据",
+            "中文新闻",
+            "国际新闻"
+          ],
+          "textAny": [
+            "财经",
+            "投资",
+            "商业",
+            "产业",
+            "研究",
+            "市场"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "finance-data-resources",
+      "public-data-statistics-resources",
+      "us-europe-news-sources",
+      "chinese-news-sites"
+    ]
+  },
+  {
+    "slug": "maps-flights-transport-tools",
+    "title": "地图、航班与交通工具",
+    "seoTitle": "地图、航班与交通工具：地图导航、机票、火车、公交和旅行路线入口 - 爱翻墙",
+    "description": "整理地图导航、航班状态、机票搜索、火车巴士、本地交通和旅行路线工具入口。",
+    "intro": "这个专题整理地图、航班与交通工具入口，覆盖地图导航、航班状态、机票搜索、火车巴士、本地交通和旅行路线规划。适合出行前做路线和工具收藏。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "地图、导航和路线",
+        "description": "适合查找地图、离线地图、公交路线、本地导航和户外路线工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行"
+          ],
+          "textAny": [
+            "地图",
+            "导航",
+            "路线",
+            "公交",
+            "离线",
+            "户外"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "航班和机场信息",
+        "description": "适合查找航班状态、机场资料、航线地图、座位图和机票搜索。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行"
+          ],
+          "textAny": [
+            "航班",
+            "机场",
+            "机票",
+            "航线",
+            "座位图",
+            "flight"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "火车、巴士和跨城交通",
+        "description": "适合查找火车、巴士、跨城交通、欧洲铁路和旅行票务入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行"
+          ],
+          "textAny": [
+            "火车",
+            "巴士",
+            "铁路",
+            "交通",
+            "票务",
+            "欧洲"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "旅行计划和本地体验",
+        "description": "适合查找旅行计划、景点、活动、体验预订和本地生活工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行"
+          ],
+          "textAny": [
+            "旅行",
+            "行程",
+            "景点",
+            "体验",
+            "本地",
+            "活动"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "life-travel-tools",
+      "public-data-statistics-resources",
+      "health-medical-reference-sites",
+      "search-ai-tools"
+    ]
+  },
+  {
+    "slug": "chinese-blogs-publishing",
+    "title": "中文博客与出版平台",
+    "seoTitle": "中文博客与出版平台：博客、长文、独立写作和出版入口 - 爱翻墙",
+    "description": "整理中文博客、长文平台、独立写作、出版、文化评论和创作者内容入口。",
+    "intro": "这个专题整理中文博客与出版平台入口，覆盖长文、独立写作、出版、文化评论、设计艺术和创作者内容。适合寻找比新闻更长期、更个人化的中文资料来源。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "中文博客和长文平台",
+        "description": "适合阅读中文博客、专栏、长文、独立写作和个人出版内容。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "博客与出版"
+          ],
+          "textAny": [
+            "博客",
+            "长文",
+            "写作",
+            "专栏",
+            "出版",
+            "中文"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "文化评论和公共议题",
+        "description": "适合查找文化、社会、公共议题、评论文章和解释性内容。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "博客与出版",
+            "中文新闻"
+          ],
+          "textAny": [
+            "文化",
+            "评论",
+            "公共议题",
+            "社会",
+            "专题",
+            "解释"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "设计、艺术和生活方式",
+        "description": "适合查找设计、艺术、生活方式、书影音和创意内容平台。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "博客与出版"
+          ],
+          "textAny": [
+            "设计",
+            "艺术",
+            "生活",
+            "书",
+            "电影",
+            "创作"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "创作者和出版工具",
+        "description": "适合查找创作者平台、出版工具、订阅平台和内容发布入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "博客与出版",
+            "应用与下载",
+            "社交平台"
+          ],
+          "textAny": [
+            "创作者",
+            "发布",
+            "出版",
+            "订阅",
+            "写作",
+            "工具"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "taiwan-hongkong-media",
+      "design-art-culture-sites",
+      "chinese-news-sites",
+      "overseas-chinese-communities"
+    ]
+  },
+  {
+    "slug": "design-art-culture-sites",
+    "title": "设计、艺术与文化网站",
+    "seoTitle": "设计、艺术与文化网站：设计媒体、艺术资料、创意社区和文化内容入口 - 爱翻墙",
+    "description": "整理设计、艺术、文化、摄影、创意社区、书影音和生活美学相关公开入口。",
+    "intro": "这个专题整理设计、艺术与文化相关网站，覆盖设计媒体、艺术资料、创意社区、摄影、书影音和生活美学内容。适合寻找文化内容、作品参考和创作灵感。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "设计和创意媒体",
+        "description": "适合查找设计、创意、品牌、产品、视觉和生活美学内容。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "博客与出版",
+            "中文新闻",
+            "视频与流媒体"
+          ],
+          "textAny": [
+            "设计",
+            "创意",
+            "品牌",
+            "视觉",
+            "生活美学",
+            "产品"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "艺术和文化资料",
+        "description": "适合查找艺术、博物馆、文化评论、展览和公共文化资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "博客与出版",
+            "百科与开放资料",
+            "中文新闻"
+          ],
+          "textAny": [
+            "艺术",
+            "文化",
+            "博物馆",
+            "展览",
+            "评论",
+            "资料"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "摄影、影像和电影",
+        "description": "适合查找摄影、影像、电影、影视评论和创作者内容入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "视频与流媒体",
+            "博客与出版",
+            "中文新闻"
+          ],
+          "textAny": [
+            "摄影",
+            "影像",
+            "电影",
+            "影视",
+            "创作",
+            "视频"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "创作者社区和作品平台",
+        "description": "适合发现创作者社区、作品展示、设计资源和内容发布平台。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "论坛社区",
+            "社交平台",
+            "博客与出版"
+          ],
+          "textAny": [
+            "创作者",
+            "作品",
+            "设计",
+            "艺术",
+            "社区",
+            "发布"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "chinese-blogs-publishing",
+      "video-podcast-platforms",
+      "taiwan-hongkong-media",
+      "overseas-chinese-communities"
+    ]
+  },
+  {
+    "slug": "health-medical-reference-sites",
+    "title": "健康与医学资料入口",
+    "seoTitle": "健康与医学资料入口：医学参考、公共健康、药品信息和海外医疗工具 - 爱翻墙",
+    "description": "整理医学参考、公共健康、药品信息、医生评价、医疗预约和健康资讯入口。",
+    "intro": "这个专题整理健康与医学资料入口，覆盖医学参考、公共健康、药品信息、医生评价、医疗预约和海外生活中的健康工具。内容只适合信息检索，不替代专业医疗建议。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "医学参考和健康资讯",
+        "description": "适合查找医学知识、健康资讯、疾病说明和公共健康资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行",
+            "学术研究",
+            "百科与开放资料"
+          ],
+          "textAny": [
+            "医学",
+            "健康",
+            "医疗",
+            "公共健康",
+            "疾病",
+            "WebMD"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "药品、价格和医疗服务",
+        "description": "适合查找药价、医生评价、医疗预约和海外生活中的医疗服务入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行"
+          ],
+          "textAny": [
+            "药价",
+            "医生",
+            "医疗预约",
+            "健康",
+            "医院",
+            "评价"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "旅行健康和安全",
+        "description": "适合查找旅行健康、疫苗、目的地安全和出行前健康资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行"
+          ],
+          "textAny": [
+            "旅行健康",
+            "疫苗",
+            "健康",
+            "安全",
+            "CDC",
+            "旅行"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "医学研究和资料库",
+        "description": "适合查找医学论文、研究数据库、期刊和专业资料入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "学术研究"
+          ],
+          "textAny": [
+            "医学",
+            "论文",
+            "期刊",
+            "研究",
+            "数据库",
+            "PubMed"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些资料可以替代医生建议吗？",
+        "answer": "不能。专题只提供公开资料入口，健康、诊断、治疗和用药问题应咨询合格医疗专业人士。"
+      },
+      {
+        "question": "海外医疗工具的信息是否准确？",
+        "answer": "请以原网站和当地官方机构为准。预约、保险、价格和服务范围会变化，使用前应再次核对。"
+      },
+      {
+        "question": "为什么包含旅行健康资料？",
+        "answer": "健康资料在海外生活和出行场景中经常被一起查询，因此专题同时整理公共健康、旅行健康和医疗服务入口。"
+      }
+    ],
+    "relatedTopics": [
+      "life-travel-tools",
+      "academic-journal-open-access",
+      "public-data-statistics-resources",
+      "maps-flights-transport-tools"
+    ]
+  },
+  {
+    "slug": "podcast-audio-discovery",
+    "title": "播客与音频节目发现",
+    "seoTitle": "播客与音频节目发现：播客平台、音频内容、访谈和中文节目入口 - 爱翻墙",
+    "description": "整理播客平台、音频节目、访谈内容、中文播客和长期订阅入口。",
+    "intro": "这个专题整理播客与音频节目发现入口，覆盖播客平台、音频内容、访谈节目、中文频道和长期订阅工具。适合寻找可持续收听的信息源。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "播客平台和音频入口",
+        "description": "适合查找播客平台、音频节目、音乐服务和订阅工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "播客与音频"
+          ],
+          "textAny": [
+            "播客",
+            "Podcast",
+            "音频",
+            "音乐",
+            "订阅"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "中文播客和访谈",
+        "description": "适合查找中文播客、访谈、评论、新闻和知识类音频内容。",
+        "source": {
+          "type": "channels",
+          "platforms": [
+            "telegram",
+            "x"
+          ],
+          "textAny": [
+            "播客",
+            "音频",
+            "访谈",
+            "中文"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "视频平台里的长节目",
+        "description": "适合从中文 YouTube 频道中发现访谈、评论、知识和播客形态节目。",
+        "source": {
+          "type": "youtube",
+          "textAny": [
+            "播客",
+            "访谈",
+            "评论",
+            "知识",
+            "长视频"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "新闻、财经和知识音频",
+        "description": "适合查找新闻、财经、知识、科技和文化相关音频入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "播客与音频",
+            "中文新闻",
+            "财经与数据"
+          ],
+          "textAny": [
+            "播客",
+            "音频",
+            "新闻",
+            "财经",
+            "知识",
+            "科技"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口都是人工新增的吗？",
+        "answer": "不是。专题页基于爱翻墙现有收录数据自动筛选和分组，不会为了页面数量新增未经审查的网站。"
+      },
+      {
+        "question": "为什么同一个入口会出现在多个专题？",
+        "answer": "很多网站同时满足多个用途，例如文档、开源、学习和社区。专题按搜索场景组织，重复出现是为了方便不同需求进入。"
+      },
+      {
+        "question": "访问前需要注意什么？",
+        "answer": "建议先查看站内详情页的分类、标签和简介，再进入原网站。涉及账号、付费、下载或专业判断时，应以原站说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "video-podcast-platforms",
+      "chinese-youtube-channels",
+      "chinese-news-sites",
+      "chinese-blogs-publishing"
+    ]
+  },
+  {
+    "slug": "chinese-news-sites",
+    "title": "中文新闻网站导航",
+    "seoTitle": "中文新闻网站导航：海外中文资讯入口整理 - 爱翻墙",
+    "description": "整理适合中文读者收藏的中文新闻、国际资讯、财经商业和深度报道入口，方便按主题发现公开信息源。",
+    "intro": "这个专题整理适合中文读者收藏的公开中文新闻和资讯入口，按综合新闻、国际资讯、财经商业和深度报道分组展示。爱翻墙只做入口导航，不提供代理、账号、下载或绕过平台规则的服务。建议结合多个来源交叉查看信息。",
+    "updatedAt": "2026-06-17",
+    "featured": true,
+    "sections": [
+      {
+        "title": "中文综合新闻",
+        "description": "适合日常浏览中文新闻、国际动态、社会议题和公共事件的综合资讯入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "中文新闻"
+          ],
+          "tagsAny": [
+            "新闻",
+            "中文",
+            "国际",
+            "华语"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "国际与公共机构资讯",
+        "description": "偏国际新闻、公共机构信息、区域观察和全球议题的公开资讯入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "国际新闻"
+          ],
+          "tagsAny": [
+            "国际",
+            "公共",
+            "联合国",
+            "欧洲",
+            "日本",
+            "澳大利亚"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "财经商业中文媒体",
+        "description": "偏商业、财经、公司、产业、投资和经济趋势的中文或多语资讯入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "中文新闻",
+            "财经与数据"
+          ],
+          "tagsAny": [
+            "财经",
+            "商业",
+            "经济",
+            "投资",
+            "公司"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "深度报道与评论",
+        "description": "适合阅读专题报道、解释性内容、评论文章和长期公共议题资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "中文新闻",
+            "博客与出版"
+          ],
+          "tagsAny": [
+            "深度",
+            "评论",
+            "专题",
+            "调查报道",
+            "公共议题"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些网站都是免费的吗？",
+        "answer": "不一定。不同媒体的访问方式不同，有些内容可以直接阅读，有些需要注册、订阅或登录原平台。爱翻墙只整理公开入口，不提供账号或付费绕过服务。"
+      },
+      {
+        "question": "如何判断新闻来源是否可信？",
+        "answer": "建议结合多个来源交叉查看，注意区分新闻报道、评论观点、用户投稿和商业推广内容。专题页只提供入口整理，不代表对每篇内容背书。"
+      },
+      {
+        "question": "页面多久更新一次？",
+        "answer": "专题页会根据站点维护情况不定期更新。如果发现链接失效、名称错误或描述不准确，可以通过提交收录页面联系站长。"
+      }
+    ],
+    "relatedTopics": [
+      "finance-data-resources",
+      "chinese-youtube-channels",
+      "overseas-chinese-communities"
+    ]
+  },
+  {
+    "slug": "chinese-youtube-channels",
+    "title": "中文 YouTube 频道推荐",
+    "seoTitle": "中文 YouTube 频道推荐：新闻、财经、访谈与知识频道整理 - 爱翻墙",
+    "description": "按新闻、财经、访谈、知识和科技等方向整理中文 YouTube 频道入口，方便中文读者发现长期可订阅内容。",
+    "intro": "这个专题整理适合中文读者长期订阅的公开 YouTube 频道入口，按新闻时事、财经商业、访谈评论、科技知识等方向分组展示。爱翻墙只做入口导航，不提供账号、下载或绕过平台规则的服务。",
+    "updatedAt": "2026-06-17",
+    "featured": true,
+    "sections": [
+      {
+        "title": "新闻与时事",
+        "description": "适合通过视频了解国际新闻、台湾新闻、公共议题和时事解释的中文频道。",
+        "source": {
+          "type": "youtube",
+          "tagsAny": [
+            "新闻",
+            "时事",
+            "国际",
+            "台湾",
+            "公共议题",
+            "解释"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "财经与商业",
+        "description": "覆盖商业公司、金融市场、投资理财、产业趋势和经济事件解读。",
+        "source": {
+          "type": "youtube",
+          "tagsAny": [
+            "财经",
+            "商业",
+            "经济",
+            "投资",
+            "理财",
+            "创业"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "访谈与评论",
+        "description": "以长节目、播客、人物访谈和观点评论为主，适合深度观看。",
+        "source": {
+          "type": "youtube",
+          "tagsAny": [
+            "访谈",
+            "评论",
+            "播客",
+            "观点",
+            "公共议题"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "科技与知识",
+        "description": "适合关注科技、科普、教育、数码、硬件和知识解释类内容。",
+        "source": {
+          "type": "youtube",
+          "tagsAny": [
+            "科技",
+            "知识",
+            "科普",
+            "数码",
+            "教育",
+            "硬件",
+            "AI"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些频道都适合长期订阅吗？",
+        "answer": "专题会优先展示内容相对稳定、主题清晰、适合中文读者识别的公开频道。是否订阅仍建议根据个人兴趣、更新频率和内容质量判断。"
+      },
+      {
+        "question": "频道内容是否都代表爱翻墙立场？",
+        "answer": "不代表。爱翻墙只做公开入口整理，不代表认同或背书频道中的每一期节目、观点或商业合作内容。"
+      },
+      {
+        "question": "为什么有些频道没有单独详情页？",
+        "answer": "第一版会优先复用现有数据。如果频道类数据暂时没有详情页，可以先链接到站内聚合页，后续再逐步补充独立详情页。"
+      }
+    ],
+    "relatedTopics": [
+      "chinese-news-sites",
+      "finance-data-resources",
+      "research-open-knowledge"
+    ]
+  },
+  {
+    "slug": "telegram-chinese-channels",
+    "title": "Telegram 中文资讯频道整理",
+    "seoTitle": "Telegram 中文资讯频道整理：资讯、社区与工具频道入口 - 爱翻墙",
+    "description": "整理公开 Telegram 中文频道和信息入口，按资讯、社区、工具和更新提醒等场景分类，方便收藏和查找。",
+    "intro": "这个专题整理公开 Telegram 中文频道和信息入口，按资讯、社区、工具和更新提醒等场景分组展示。爱翻墙只做入口导航，不提供账号、代理、下载或绕过平台规则的服务。请自行判断频道内容质量和互动风险。",
+    "updatedAt": "2026-06-17",
+    "featured": false,
+    "sections": [
+      {
+        "title": "中文资讯频道",
+        "description": "适合接收公开资讯更新、新闻摘要、站点更新或主题内容提醒的频道。",
+        "source": {
+          "type": "channels",
+          "platforms": [
+            "telegram"
+          ],
+          "tagsAny": [
+            "资讯",
+            "新闻",
+            "更新",
+            "中文"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "社区与讨论",
+        "description": "偏社区互动、主题讨论和公开交流入口，加入前建议先查看频道规则。",
+        "source": {
+          "type": "channels",
+          "platforms": [
+            "telegram"
+          ],
+          "tagsAny": [
+            "社区",
+            "讨论",
+            "交流",
+            "中文"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "工具与更新提醒",
+        "description": "适合关注工具、产品、服务状态、内容更新和订阅提醒的公开频道。",
+        "source": {
+          "type": "channels",
+          "platforms": [
+            "telegram"
+          ],
+          "tagsAny": [
+            "工具",
+            "提醒",
+            "更新",
+            "订阅"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "加入 Telegram 频道需要注意什么？",
+        "answer": "不同频道的规则、内容质量和互动风险不同。建议先查看频道简介、历史内容和管理规则，不要随意提供个人信息或账号信息。"
+      },
+      {
+        "question": "爱翻墙会保存我的 Telegram 信息吗？",
+        "answer": "不会。爱翻墙是静态导航站，不提供登录系统，也不会通过专题页保存你的 Telegram 账号信息。"
+      },
+      {
+        "question": "为什么这个专题条目可能比较少？",
+        "answer": "第一版优先使用现有已整理的数据，不为了数量随意新增高风险频道。后续会根据收录边界逐步补充。"
+      }
+    ],
+    "relatedTopics": [
+      "chinese-news-sites",
+      "overseas-chinese-communities",
+      "privacy-security-tools"
+    ]
+  },
+  {
+    "slug": "overseas-chinese-communities",
+    "title": "海外中文论坛和社区入口",
+    "seoTitle": "海外中文论坛和社区入口：论坛、社区与讨论平台整理 - 爱翻墙",
+    "description": "整理海外中文论坛、社区、问答和讨论平台入口，适合查找中文讨论、经验分享和公共话题。",
+    "intro": "这个专题整理海外中文论坛、社区、问答和讨论平台入口，适合查找中文讨论、经验分享和公共话题。爱翻墙只做入口导航，不保存用户账号，也不代表对社区内容背书。",
+    "updatedAt": "2026-06-17",
+    "featured": true,
+    "sections": [
+      {
+        "title": "综合中文社区",
+        "description": "适合浏览综合话题、海外生活、公共讨论、经验分享和中文用户交流。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "论坛社区"
+          ],
+          "tagsAny": [
+            "社区",
+            "论坛",
+            "海外中文",
+            "讨论",
+            "华人"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "技术与开发者社区",
+        "description": "适合程序员、开发者和技术用户查看问答、经验帖、工具讨论和技术文章。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源",
+            "论坛社区"
+          ],
+          "tagsAny": [
+            "开发者",
+            "技术",
+            "问答",
+            "程序员",
+            "开源"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "博客与出版平台",
+        "description": "适合阅读个人文章、专栏、长文、出版平台内容和独立写作者作品。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "博客与出版"
+          ],
+          "tagsAny": [
+            "博客",
+            "出版",
+            "写作",
+            "专栏",
+            "长文"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "社交讨论入口",
+        "description": "适合发现社交平台、公共讨论入口和多语社区，需要自行判断信息质量。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "社交平台"
+          ],
+          "tagsAny": [
+            "社交",
+            "讨论",
+            "社区",
+            "平台"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些社区内容都经过审核吗？",
+        "answer": "不一定。很多社区包含用户生成内容，质量和立场可能差异很大。爱翻墙只整理入口，不代表对社区内全部内容背书。"
+      },
+      {
+        "question": "使用论坛和社区需要注册吗？",
+        "answer": "不同平台规则不同。有些可以直接浏览，有些发帖、评论或查看完整内容需要注册原平台账号。"
+      },
+      {
+        "question": "如何避免社区使用风险？",
+        "answer": "建议不要公开个人敏感信息，不轻信陌生人私信，不点击可疑链接，并优先查看平台规则和历史讨论质量。"
+      }
+    ],
+    "relatedTopics": [
+      "chinese-news-sites",
+      "developer-resources",
+      "telegram-chinese-channels"
+    ]
+  },
+  {
+    "slug": "privacy-security-tools",
+    "title": "隐私安全工具清单",
+    "seoTitle": "隐私安全工具清单：邮箱、浏览器、密码与加密工具入口 - 爱翻墙",
+    "description": "整理隐私安全相关的公开工具入口，包括邮箱、浏览器、密码管理、加密通信和安全检查资源。",
+    "intro": "这个专题整理隐私安全相关的公开工具入口，包括隐私浏览、搜索、邮箱、密码管理、双重验证、加密通信和安全检查资源。爱翻墙只做入口导航，不提供攻击工具、恶意软件或绕过平台规则的服务。",
+    "updatedAt": "2026-06-17",
+    "featured": true,
+    "sections": [
+      {
+        "title": "隐私浏览与搜索",
+        "description": "适合关注隐私浏览、搜索替代、追踪防护和更少数据收集的公开工具入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全",
+            "搜索与发现"
+          ],
+          "tagsAny": [
+            "隐私",
+            "搜索",
+            "浏览器",
+            "追踪防护",
+            "安全"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "邮箱与账号安全",
+        "description": "适合查找邮箱、账号保护、安全提醒和身份验证相关工具入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全",
+            "应用与下载"
+          ],
+          "tagsAny": [
+            "邮箱",
+            "账号",
+            "安全",
+            "身份验证",
+            "2FA"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "密码管理与双重验证",
+        "description": "适合管理密码、启用双重验证、降低账号复用和泄露风险的工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全",
+            "应用与下载"
+          ],
+          "tagsAny": [
+            "密码",
+            "双重验证",
+            "2FA",
+            "安全",
+            "账号"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "加密通信与安全检查",
+        "description": "适合查找加密通信、安全检查、公开安全资料和基础防护工具入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "隐私安全"
+          ],
+          "tagsAny": [
+            "加密",
+            "通信",
+            "安全检查",
+            "安全",
+            "隐私"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些工具能保证绝对安全吗？",
+        "answer": "不能。任何工具都不能保证绝对安全。建议结合官方文档、更新记录、开源情况、社区评价和个人风险场景综合判断。"
+      },
+      {
+        "question": "爱翻墙提供安全咨询或账号服务吗？",
+        "answer": "不提供。爱翻墙只整理公开入口，不提供账号托管、安全代操作、攻击测试或绕过平台规则的服务。"
+      },
+      {
+        "question": "为什么不收录某些热门工具？",
+        "answer": "如果工具涉及灰产、恶意软件、攻击、盗版、破解或规避平台规则，即使热门也不应放入主站。"
+      }
+    ],
+    "relatedTopics": [
+      "developer-resources",
+      "research-open-knowledge",
+      "telegram-chinese-channels"
+    ]
+  },
+  {
+    "slug": "developer-resources",
+    "title": "开发者资源导航",
+    "seoTitle": "开发者资源导航：文档、代码托管、API 与学习资料入口 - 爱翻墙",
+    "description": "整理开发者常用的文档、代码托管、API、技术社区、学习资料和开源项目入口，方便快速查找。",
+    "intro": "这个专题整理开发者常用的公开资源入口，包括文档、代码托管、API、技术社区、学习资料和开源项目。爱翻墙只做入口导航，不提供破解软件、盗版资源或攻击工具。",
+    "updatedAt": "2026-06-17",
+    "featured": true,
+    "sections": [
+      {
+        "title": "代码托管与开源协作",
+        "description": "适合查找代码托管、开源项目、版本控制、协作开发和项目管理相关入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源"
+          ],
+          "tagsAny": [
+            "代码",
+            "开源",
+            "Git",
+            "协作",
+            "开发者"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "官方文档与技术资料",
+        "description": "适合快速进入官方文档、技术手册、框架资料和开发参考。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源",
+            "百科与开放资料"
+          ],
+          "tagsAny": [
+            "文档",
+            "技术",
+            "框架",
+            "资料",
+            "参考"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "API 与开发工具",
+        "description": "适合查找 API、调试工具、云服务、构建工具和开发效率资源。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源",
+            "搜索与发现"
+          ],
+          "tagsAny": [
+            "API",
+            "工具",
+            "云服务",
+            "调试",
+            "开发"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "技术社区与问答",
+        "description": "适合查看技术问答、程序员社区、经验分享和问题排查资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "开发者资源",
+            "论坛社区"
+          ],
+          "tagsAny": [
+            "问答",
+            "社区",
+            "程序员",
+            "技术",
+            "经验"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这个专题适合哪些开发者？",
+        "answer": "适合需要查找文档、代码托管、API、技术社区、学习资料和开源项目的开发者、学生和技术爱好者。"
+      },
+      {
+        "question": "是否会收录破解软件或盗版资源？",
+        "answer": "不会。开发者专题只整理公开、稳定、低风险的合法入口，不收录破解、盗版、恶意软件或攻击工具。"
+      },
+      {
+        "question": "为什么优先链接站内详情页？",
+        "answer": "站内详情页可以提供分类、标签、简介和相关入口，方便用户继续发现同类资源，也有利于网站长期维护。"
+      }
+    ],
+    "relatedTopics": [
+      "privacy-security-tools",
+      "research-open-knowledge",
+      "overseas-chinese-communities"
+    ]
+  },
+  {
+    "slug": "research-open-knowledge",
+    "title": "学术研究与开放资料入口",
+    "seoTitle": "学术研究与开放资料入口：论文、开放课程与资料库整理 - 爱翻墙",
+    "description": "整理论文搜索、学术资料、开放课程、百科知识和公共数据库入口，适合学习、研究和资料检索。",
+    "intro": "这个专题整理论文搜索、学术资料、开放课程、百科知识和公共数据库入口，适合学习、研究和资料检索。爱翻墙只做公开入口导航，不提供盗版论文、付费绕过或账号共享服务。",
+    "updatedAt": "2026-06-17",
+    "featured": true,
+    "sections": [
+      {
+        "title": "论文搜索与学术数据库",
+        "description": "适合查找论文、学术索引、研究资料、预印本和公开数据库入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "学术研究"
+          ],
+          "tagsAny": [
+            "论文",
+            "学术",
+            "研究",
+            "数据库",
+            "预印本"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "开放课程与学习资料",
+        "description": "适合查找开放课程、教材、学习平台、教学视频和自学资料。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "学术研究",
+            "百科与开放资料"
+          ],
+          "tagsAny": [
+            "课程",
+            "学习",
+            "教育",
+            "教材",
+            "开放"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "百科与知识库",
+        "description": "适合快速检索百科知识、开放资料、事实背景和多语参考信息。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "百科与开放资料"
+          ],
+          "tagsAny": [
+            "百科",
+            "知识库",
+            "开放资料",
+            "参考",
+            "资料"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "公共数据与资料检索",
+        "description": "适合查找公共数据、统计资料、开放数据集和跨领域资料检索入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "学术研究",
+            "财经与数据",
+            "搜索与发现"
+          ],
+          "tagsAny": [
+            "数据",
+            "统计",
+            "开放数据",
+            "检索",
+            "资料"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这个专题会提供盗版论文下载吗？",
+        "answer": "不会。爱翻墙只整理公开、合法、低风险的资料入口，不提供盗版论文、账号共享或付费绕过服务。"
+      },
+      {
+        "question": "这些资料都可以直接引用吗？",
+        "answer": "不一定。不同资料来源有不同的授权和引用要求。正式写作或研究时，应查看原站的版权、引用和使用说明。"
+      },
+      {
+        "question": "适合非专业用户使用吗？",
+        "answer": "适合。专题中既包括学术研究入口，也包括百科、开放课程和通用资料检索入口。"
+      }
+    ],
+    "relatedTopics": [
+      "developer-resources",
+      "finance-data-resources",
+      "privacy-security-tools"
+    ]
+  },
+  {
+    "slug": "finance-data-resources",
+    "title": "财经与数据资源导航",
+    "seoTitle": "财经与数据资源导航：市场、公司、宏观与数据工具入口 - 爱翻墙",
+    "description": "整理财经新闻、市场数据、公司信息、宏观指标和数据分析工具入口，适合商业研究和日常信息检索。",
+    "intro": "这个专题整理财经新闻、市场数据、公司信息、宏观指标和数据分析工具入口，适合商业研究和日常信息检索。爱翻墙只做公开入口导航，不提供投资建议、荐股服务或金融交易服务。",
+    "updatedAt": "2026-06-17",
+    "featured": false,
+    "sections": [
+      {
+        "title": "财经新闻与商业媒体",
+        "description": "适合阅读财经新闻、商业报道、产业趋势、公司观察和经济评论。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "财经与数据",
+            "中文新闻",
+            "国际新闻"
+          ],
+          "tagsAny": [
+            "财经",
+            "商业",
+            "经济",
+            "公司",
+            "产业"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "市场行情与公司数据",
+        "description": "适合查找市场行情、公司资料、证券信息、财报和投资研究数据入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "财经与数据"
+          ],
+          "tagsAny": [
+            "市场",
+            "行情",
+            "公司",
+            "股票",
+            "财报",
+            "投资"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "宏观经济与公共数据",
+        "description": "适合查找宏观指标、统计资料、公共数据库和跨国家地区数据。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "财经与数据",
+            "学术研究"
+          ],
+          "tagsAny": [
+            "宏观",
+            "经济",
+            "统计",
+            "公共数据",
+            "数据"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "数据分析与可视化工具",
+        "description": "适合查找数据分析、图表、可视化、开放数据和研究辅助工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "财经与数据",
+            "开发者资源",
+            "搜索与发现"
+          ],
+          "tagsAny": [
+            "数据分析",
+            "可视化",
+            "图表",
+            "数据",
+            "工具"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这个专题提供投资建议吗？",
+        "answer": "不提供。专题只整理公开财经与数据入口，不构成投资建议、荐股服务或任何金融交易建议。"
+      },
+      {
+        "question": "市场数据是否实时准确？",
+        "answer": "请以原始数据源和官方平台为准。爱翻墙只提供入口整理，不保证第三方平台数据的实时性、完整性或准确性。"
+      },
+      {
+        "question": "是否适合商业研究使用？",
+        "answer": "适合做初步资料检索和入口收藏。正式研究或决策时，应回到原始数据源核对。"
+      }
+    ],
+    "relatedTopics": [
+      "chinese-news-sites",
+      "research-open-knowledge",
+      "developer-resources"
+    ]
+  },
+  {
+    "slug": "search-ai-tools",
+    "title": "搜索与 AI 工具入口",
+    "seoTitle": "搜索与 AI 工具入口：搜索引擎、问答工具与资料检索导航 - 爱翻墙",
+    "description": "整理搜索引擎、AI 问答、资料检索、趋势发现和语言辅助工具入口，适合快速查找公开信息。",
+    "intro": "这个专题整理搜索引擎、AI 问答、资料检索、趋势发现和语言辅助工具入口，适合需要快速查找公开资料、发现新信息源和做初步研究的用户。爱翻墙只做公开入口导航，不提供账号、自动化抓取或绕过平台规则的服务。",
+    "updatedAt": "2026-06-17",
+    "featured": true,
+    "sections": [
+      {
+        "title": "搜索引擎与发现工具",
+        "description": "适合进行网页搜索、垂直搜索、趋势发现和公开资料入口查找。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "搜索与发现"
+          ],
+          "tagsAny": [
+            "搜索",
+            "发现",
+            "搜索引擎",
+            "检索",
+            "趋势"
+          ],
+          "textAny": [
+            "搜索",
+            "search",
+            "发现",
+            "检索",
+            "趋势"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "AI 搜索与问答",
+        "description": "适合用 AI 工具做初步问答、资料梳理、搜索辅助和多来源信息比对。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "搜索与发现",
+            "开发者资源"
+          ],
+          "tagsAny": [
+            "AI",
+            "问答",
+            "搜索",
+            "工具"
+          ],
+          "textAny": [
+            "AI",
+            "人工智能",
+            "问答",
+            "搜索",
+            "ChatGPT",
+            "Perplexity"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "资料检索与开放搜索",
+        "description": "适合查找开放资料、代码、学术索引、公共数据和长期可引用的信息入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "搜索与发现",
+            "百科与开放资料",
+            "学术研究"
+          ],
+          "tagsAny": [
+            "资料",
+            "检索",
+            "开放资料",
+            "数据",
+            "代码搜索"
+          ],
+          "textAny": [
+            "检索",
+            "搜索",
+            "开放",
+            "资料",
+            "代码"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "语言与翻译辅助",
+        "description": "适合查找翻译、词典、多语言查询和跨语种资料理解相关工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行",
+            "搜索与发现",
+            "开发者资源"
+          ],
+          "tagsAny": [
+            "翻译",
+            "语言",
+            "词典",
+            "工具"
+          ],
+          "textAny": [
+            "翻译",
+            "语言",
+            "词典",
+            "translate"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "AI 搜索结果可以直接引用吗？",
+        "answer": "不建议直接引用。AI 工具适合做初步整理和线索发现，正式使用时应回到原始来源核对事实、时间和出处。"
+      },
+      {
+        "question": "为什么同一工具可能出现在多个小节？",
+        "answer": "一些工具同时具备搜索、问答、资料整理或翻译能力。专题按使用场景分组，方便从不同需求进入。"
+      },
+      {
+        "question": "这个专题会推荐账号或自动化服务吗？",
+        "answer": "不会。专题只整理公开入口，不提供账号、批量抓取、自动化注册或绕过平台规则的服务。"
+      }
+    ],
+    "relatedTopics": [
+      "research-open-knowledge",
+      "developer-resources",
+      "privacy-security-tools",
+      "finance-data-resources"
+    ]
+  },
+  {
+    "slug": "life-travel-tools",
+    "title": "海外生活与出行工具",
+    "seoTitle": "海外生活与出行工具：地图、航班、天气、翻译和本地信息入口 - 爱翻墙",
+    "description": "整理地图、本地搜索、航班住宿、天气时间、翻译和海外生活信息入口，适合旅行和日常查询。",
+    "intro": "这个专题整理海外生活和出行常用入口，包括地图、本地搜索、航班住宿、天气时间、翻译和城市生活信息。爱翻墙只做公开入口导航，不提供代订、交易、账号或绕过平台规则的服务。",
+    "updatedAt": "2026-06-17",
+    "featured": true,
+    "sections": [
+      {
+        "title": "地图与本地搜索",
+        "description": "适合查找地图、路线、地点评价、本地服务和城市导航相关入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行"
+          ],
+          "tagsAny": [
+            "地图",
+            "本地",
+            "导航",
+            "路线"
+          ],
+          "textAny": [
+            "地图",
+            "路线",
+            "本地",
+            "导航"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "航班、住宿与旅行计划",
+        "description": "适合查询航班、机场、住宿、路线和旅行计划相关公开工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行"
+          ],
+          "tagsAny": [
+            "旅行",
+            "航班",
+            "酒店",
+            "住宿",
+            "机场"
+          ],
+          "textAny": [
+            "航班",
+            "机场",
+            "酒店",
+            "住宿",
+            "旅行",
+            "航线"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "天气、时间与实用查询",
+        "description": "适合查询天气、时区、时间、汇率、单位换算和日常实用信息。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行",
+            "财经与数据",
+            "搜索与发现"
+          ],
+          "tagsAny": [
+            "天气",
+            "时间",
+            "查询",
+            "工具"
+          ],
+          "textAny": [
+            "天气",
+            "时区",
+            "时间",
+            "查询",
+            "汇率"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "海外生活信息入口",
+        "description": "适合查找城市生活、本地经验、华人社区、租房、消费和公共服务信息。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "生活出行",
+            "论坛社区"
+          ],
+          "tagsAny": [
+            "生活",
+            "本地",
+            "华人",
+            "社区",
+            "租房"
+          ],
+          "textAny": [
+            "生活",
+            "华人",
+            "本地",
+            "出行",
+            "城市"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这些入口能直接完成订票或预订吗？",
+        "answer": "专题只提供公开入口。实际订票、住宿、退款和售后应以原平台规则为准，注意核对价格、条款和服务地区。"
+      },
+      {
+        "question": "地图和旅行信息是否实时准确？",
+        "answer": "请以原网站和当地官方信息为准。天气、航班、交通和营业时间都会变化，出行前应再次核对。"
+      },
+      {
+        "question": "海外生活社区的信息可靠吗？",
+        "answer": "社区内容多为用户经验，适合做线索参考。涉及合同、医疗、法律、签证或财务问题时，应回到官方或专业来源核对。"
+      }
+    ],
+    "relatedTopics": [
+      "overseas-chinese-communities",
+      "search-ai-tools",
+      "finance-data-resources",
+      "chinese-news-sites"
+    ]
+  },
+  {
+    "slug": "video-podcast-platforms",
+    "title": "视频、播客与流媒体入口",
+    "seoTitle": "视频、播客与流媒体入口：视频平台、音频节目和知识内容导航 - 爱翻墙",
+    "description": "整理视频平台、流媒体、学习视频、播客音频和创作者频道入口，适合发现公开影音内容。",
+    "intro": "这个专题整理视频、播客与流媒体相关入口，包括视频平台、学习内容、播客音频和创作者频道。爱翻墙只做公开入口导航，不提供下载、破解、账号共享或绕过平台规则的服务。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "视频与流媒体平台",
+        "description": "适合查找公开视频平台、流媒体服务、直播入口和影音内容发现工具。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "视频与流媒体"
+          ],
+          "tagsAny": [
+            "视频",
+            "流媒体",
+            "电影",
+            "电视",
+            "直播"
+          ],
+          "textAny": [
+            "视频",
+            "stream",
+            "流媒体",
+            "直播"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "学习与知识视频",
+        "description": "适合查找公开课程、知识视频、教育频道和长期学习资料入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "视频与流媒体",
+            "学术研究"
+          ],
+          "tagsAny": [
+            "课程",
+            "教育",
+            "知识",
+            "学习"
+          ],
+          "textAny": [
+            "课程",
+            "教育",
+            "学习",
+            "知识",
+            "lecture"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "播客与音频平台",
+        "description": "适合发现播客平台、音频节目、访谈内容和长期订阅入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "播客与音频"
+          ],
+          "tagsAny": [
+            "播客",
+            "音频",
+            "Podcast",
+            "音乐"
+          ],
+          "textAny": [
+            "播客",
+            "podcast",
+            "音频",
+            "音乐"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "创作者与中文频道",
+        "description": "适合从中文 YouTube 频道中发现新闻、财经、知识、访谈和科技内容。",
+        "source": {
+          "type": "youtube",
+          "tagsAny": [
+            "新闻",
+            "财经",
+            "知识",
+            "访谈",
+            "科技",
+            "教育"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这个专题提供视频下载吗？",
+        "answer": "不提供。专题只整理公开视频和音频入口，不提供下载、破解、账号共享或绕过平台规则的服务。"
+      },
+      {
+        "question": "为什么同时包含网站和频道？",
+        "answer": "视频和播客的入口形态不同，有些是平台，有些是单个频道。专题按使用场景统一整理，方便发现同类内容。"
+      },
+      {
+        "question": "影音平台是否都免费？",
+        "answer": "不一定。不同平台有不同的免费、登录、订阅或地区规则，具体以原平台说明为准。"
+      }
+    ],
+    "relatedTopics": [
+      "chinese-youtube-channels",
+      "chinese-news-sites",
+      "research-open-knowledge",
+      "overseas-chinese-communities"
+    ]
+  },
+  {
+    "slug": "apps-download-resources",
+    "title": "应用下载与软件资源",
+    "seoTitle": "应用下载与软件资源：应用商店、开源软件和扩展工具入口 - 爱翻墙",
+    "description": "整理应用商店、软件下载、开源软件、浏览器扩展和移动端常用工具入口，方便查找公开软件资源。",
+    "intro": "这个专题整理应用下载与软件资源入口，包括应用商店、开源软件、浏览器扩展、效率工具和移动端常用入口。爱翻墙只做公开入口导航，不提供破解软件、盗版资源、账号共享或绕过平台规则的服务。",
+    "updatedAt": "2026-06-17",
+    "sections": [
+      {
+        "title": "应用商店与软件下载",
+        "description": "适合查找应用商店、软件下载站、软件信息页和官方安装入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "应用与下载"
+          ],
+          "tagsAny": [
+            "应用",
+            "下载",
+            "软件",
+            "商店",
+            "App"
+          ],
+          "textAny": [
+            "应用",
+            "下载",
+            "软件",
+            "app",
+            "store"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "开源软件与代码发布",
+        "description": "适合查找开源软件、代码发布、版本更新和开发者维护的公开项目。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "应用与下载",
+            "开发者资源"
+          ],
+          "tagsAny": [
+            "开源",
+            "软件",
+            "代码",
+            "发布",
+            "Git"
+          ],
+          "textAny": [
+            "开源",
+            "下载",
+            "release",
+            "软件"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "浏览器扩展与效率工具",
+        "description": "适合查找浏览器扩展、效率工具、插件和日常辅助软件入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "应用与下载",
+            "开发者资源",
+            "隐私安全"
+          ],
+          "tagsAny": [
+            "扩展",
+            "浏览器",
+            "工具",
+            "效率"
+          ],
+          "textAny": [
+            "扩展",
+            "浏览器",
+            "插件",
+            "工具"
+          ],
+          "limit": 16
+        }
+      },
+      {
+        "title": "移动端常用入口",
+        "description": "适合查找移动端应用、手机工具、社交平台和生活出行应用入口。",
+        "source": {
+          "type": "sites",
+          "categories": [
+            "应用与下载",
+            "社交平台",
+            "生活出行"
+          ],
+          "tagsAny": [
+            "移动",
+            "App",
+            "应用",
+            "手机"
+          ],
+          "textAny": [
+            "App",
+            "移动",
+            "手机",
+            "iOS",
+            "Android"
+          ],
+          "limit": 16
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "question": "这个专题会收录破解软件吗？",
+        "answer": "不会。专题只整理公开、稳定、低风险的入口，不收录破解、盗版、恶意软件或规避平台规则的资源。"
+      },
+      {
+        "question": "下载软件前应该注意什么？",
+        "answer": "建议优先使用官方网站、官方应用商店或可信的开源发布页，核对开发者、版本、权限、更新记录和平台说明。"
+      },
+      {
+        "question": "为什么有些软件入口链接到站内详情页？",
+        "answer": "站内详情页会展示分类、标签、简介和相关入口，方便先判断用途，再决定是否访问原网站。"
+      }
+    ],
+    "relatedTopics": [
+      "developer-resources",
+      "privacy-security-tools",
+      "search-ai-tools",
+      "life-travel-tools"
+    ]
+  }
+]

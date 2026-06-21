@@ -1,0 +1,14 @@
+# Royal Society Publishing
+
+- 官网：[https://royalsocietypublishing.org/](https://royalsocietypublishing.org/)
+- 爱翻墙详情：[https://ifanqiang.com/sites/royalsocietypublishing-org](https://ifanqiang.com/sites/royalsocietypublishing-org)
+- 分类：学术研究
+- 标签：科学、期刊、英国
+- 语言：英文
+- 移动端：未标注 App
+- 收录日期：2026-06-09
+- 原始链接：[https://royalsocietypublishing.org/](https://royalsocietypublishing.org/)
+
+## 简介
+
+英国皇家学会出版平台，提供科学期刊、会议论文和开放研究内容。核心提供论文、作者、数据集、实验记录或学术出版信息检索。

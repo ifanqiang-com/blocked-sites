@@ -1,0 +1,137 @@
+[
+  {
+    "id": "bbc-youtube",
+    "name": "BBC News 中文",
+    "url": "https://www.youtube.com/@BBCNewsChinese",
+    "platform": "youtube",
+    "category": "YouTube 中文频道",
+    "description": "BBC 中文视频频道，覆盖国际新闻、解释类内容和短视频。",
+    "tags": [
+      "新闻",
+      "视频",
+      "国际"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-07"
+  },
+  {
+    "id": "dw-youtube",
+    "name": "DW 中文",
+    "url": "https://www.youtube.com/@dwchinese",
+    "platform": "youtube",
+    "category": "YouTube 中文频道",
+    "description": "德国之声中文视频内容，包含国际议题、访谈与专题。",
+    "tags": [
+      "新闻",
+      "欧洲",
+      "视频"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-07"
+  },
+  {
+    "id": "bbc-telegram",
+    "name": "BBC 中文 Telegram",
+    "url": "https://t.me/bbcchinese",
+    "platform": "telegram",
+    "category": "Telegram 中文频道",
+    "description": "BBC 中文 Telegram 频道入口，用于跟进公开更新。",
+    "tags": [
+      "新闻",
+      "Telegram",
+      "中文"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-07"
+  },
+  {
+    "id": "dw-telegram",
+    "name": "DW 中文 Telegram",
+    "url": "https://t.me/dw_chinese",
+    "platform": "telegram",
+    "category": "Telegram 中文频道",
+    "description": "德国之声中文 Telegram 入口，适合订阅公开资讯。",
+    "tags": [
+      "新闻",
+      "Telegram",
+      "欧洲"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-07"
+  },
+  {
+    "id": "telegram-zh",
+    "name": "Telegram 简体中文",
+    "url": "https://t.me/telegram_zh_cn",
+    "platform": "telegram",
+    "category": "Telegram 中文频道",
+    "description": "Telegram 简体中文相关公开频道入口。",
+    "tags": [
+      "Telegram",
+      "中文",
+      "工具"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-07"
+  },
+  {
+    "id": "bbc-x",
+    "name": "BBC 中文 X",
+    "url": "https://x.com/bbcchinese",
+    "platform": "x",
+    "category": "X 中文账号",
+    "description": "BBC 中文在 X 上的公开账号。",
+    "tags": [
+      "新闻",
+      "X",
+      "中文"
+    ],
+    "featured": true,
+    "addedAt": "2026-06-07"
+  },
+  {
+    "id": "dw-x",
+    "name": "DW 中文 X",
+    "url": "https://x.com/dw_chinese",
+    "platform": "x",
+    "category": "X 中文账号",
+    "description": "德国之声中文在 X 上的公开账号。",
+    "tags": [
+      "新闻",
+      "X",
+      "欧洲"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-07"
+  },
+  {
+    "id": "rfi-x",
+    "name": "RFI 华语 X",
+    "url": "https://x.com/RFI_Cn",
+    "platform": "x",
+    "category": "X 中文账号",
+    "description": "法国国际广播电台华语服务在 X 上的公开账号。",
+    "tags": [
+      "新闻",
+      "X",
+      "广播"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-07"
+  },
+  {
+    "id": "podcast-entry",
+    "name": "中文播客搜索",
+    "url": "https://podcasts.apple.com/search?term=%E4%B8%AD%E6%96%87",
+    "platform": "podcast",
+    "category": "播客",
+    "description": "通过播客平台搜索中文节目，适合补充音频信息源。",
+    "tags": [
+      "播客",
+      "音频",
+      "中文"
+    ],
+    "featured": false,
+    "addedAt": "2026-06-07"
+  }
+]

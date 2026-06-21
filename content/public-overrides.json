@@ -1,0 +1,24 @@
+{
+  "excludedSiteIds": {
+    "kktv-me": {
+      "reason": "KKTV official notices state service ended on 2026-01-01.",
+      "sourceUrl": "https://events.kktv.me/tw/announcement-165"
+    },
+    "xkb-com-au": {
+      "reason": "Australian New Express Daily website is unavailable and public sources indicate the website stopped updating from 2021-04-01.",
+      "sourceUrl": "https://www.sbs.com.au/language/chinese/zh-hans/article/australian-new-express-daily-ceased-publication/5zf6mdtrs"
+    }
+  },
+  "siteUrlOverrides": {
+    "peoplemedia-tw": {
+      "url": "https://www.peoplenews.tw/",
+      "sourceUrl": "https://www.peoplenews.tw/",
+      "reason": "Old peoplemedia.tw URL returns an invalid SSL page; current 民報 site is peoplenews.tw."
+    },
+    "justpodmedia-com": {
+      "url": "https://www.justpod.com/",
+      "sourceUrl": "https://www.justpod.com/",
+      "reason": "Old justpodmedia.com URL has an expired TLS certificate; current JustPod official site is justpod.com."
+    }
+  }
+}

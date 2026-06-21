@@ -1,0 +1,14 @@
+# pnpm Docs
+
+- 官网：[https://pnpm.io/](https://pnpm.io/)
+- 爱翻墙详情：[https://ifanqiang.com/sites/pnpm-io](https://ifanqiang.com/sites/pnpm-io)
+- 分类：开发者资源
+- 标签：JavaScript、包管理、文档
+- 语言：英文
+- 移动端：未标注 App
+- 收录日期：2026-06-09
+- 原始链接：[https://pnpm.io/](https://pnpm.io/)
+
+## 简介
+
+pnpm 官方文档，提供快速包管理、工作区、锁文件和 monorepo 用法资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Chinese Open Web Directory"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - name: "ifanqiang.com"
+url: "https://github.com/ifanqiang-com/chinese-open-web-directory"
+repository-code: "https://github.com/ifanqiang-com/chinese-open-web-directory"
+date-released: "2026-06-24"
+license: "MIT"
+keywords:
+  - chinese
+  - directory
+  - awesome-list
+  - open-data
+  - web-resources
+  - developer-tools
+  - ai-tools
+  - academic-resources
+  - news-sources
+  - public-resources
+abstract: "Chinese-friendly open web resources directory data for news, academic research, developer tools, AI tools, open data, communities, media, podcasts, and everyday utilities."

@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ifanqiang-com/chinese-open-web-directory/schema/youtube-channel.schema.json",
+  "title": "Chinese Open Web Directory YouTube channel record",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "uid",
+    "id",
+    "type",
+    "name",
+    "description",
+    "url",
+    "category",
+    "categoryName",
+    "tags",
+    "featured",
+    "priority",
+    "addedAt",
+    "status",
+    "visible"
+  ],
+  "properties": {
+    "uid": {
+      "type": "string",
+      "minLength": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*[a-z0-9]$"
+    },
+    "type": {
+      "const": "youtube-channel"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "categoryName": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "addedAt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "meta": {
+      "type": "string"
+    },
+    "status": {
+      "const": "active"
+    },
+    "visible": {
+      "const": true
+    }
+  }
+}

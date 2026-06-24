@@ -1,0 +1,74 @@
+name: Recommend a public resource
+description: Suggest a public website, tool, dataset, community, media source, or channel.
+title: "[Resource]: "
+labels: ["data: suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      description: Official public name of the resource.
+      placeholder: "Example: arXiv"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official URL
+      description: Use the canonical public URL.
+      placeholder: "https://example.com"
+    validations:
+      required: true
+  - type: dropdown
+    id: resource_type
+    attributes:
+      label: Resource type
+      options:
+        - Website
+        - YouTube channel
+        - Topic idea
+        - Other public resource
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Suggested category
+      placeholder: "academic-research, developer-resources, open data, news, etc."
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: What can users do here?
+      description: Be concrete. Explain the resource's practical use, reputation, and why it belongs here.
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: Suggested tags
+      placeholder: "AI, research, Chinese, documentation"
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Primary language
+      options:
+        - zh
+        - en
+        - multi
+    validations:
+      required: true
+  - type: checkboxes
+    id: policy
+    attributes:
+      label: Submission policy
+      options:
+        - label: This is not VPN/proxy/airport sales.
+          required: true
+        - label: This is not adult, gambling, piracy, malware, phishing, gray-market, political mobilization, or religious propaganda content.
+          required: true
+        - label: The link is public and reasonably stable.
+          required: true

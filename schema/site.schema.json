@@ -1,0 +1,111 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ifanqiang-com/chinese-open-web-directory/schema/site.schema.json",
+  "title": "Chinese Open Web Directory site record",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "uid",
+    "id",
+    "type",
+    "name",
+    "description",
+    "url",
+    "category",
+    "categoryName",
+    "tags",
+    "language",
+    "hasApp",
+    "status",
+    "featured",
+    "priority",
+    "addedAt",
+    "sourceUrl"
+  ],
+  "properties": {
+    "uid": {
+      "type": "string",
+      "minLength": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*[a-z0-9]$"
+    },
+    "type": {
+      "const": "site"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "categoryName": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "language": {
+      "type": "string",
+      "enum": ["zh", "en", "multi"]
+    },
+    "hasApp": {
+      "type": "boolean"
+    },
+    "status": {
+      "const": "active"
+    },
+    "visible": {
+      "type": "boolean"
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "addedAt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sourceUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "profilePublishedAt": {
+      "type": ["string", "null"]
+    },
+    "profile": {
+      "type": "string"
+    },
+    "profileCanDo": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "profileAngle": {
+      "type": "string"
+    }
+  }
+}

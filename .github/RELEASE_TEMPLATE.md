@@ -1,21 +1,21 @@
-# YYYY-WNN Public Web Resources Dataset
+# YYYY-WNN 公开网站资源数据集
 
-Added:
+新增：
 
-- X news/source-verification resources
-- X academic/open-data resources
-- X developer/AI resources
+- X 个新闻 / 信源核验资源
+- X 个学术 / 开放数据资源
+- X 个开发者 / AI 工具资源
 
-Changed:
+变更：
 
-- Updated categories
-- Updated descriptions or profile text
-- Refreshed production export metadata
+- 更新分类
+- 更新简介或 profile 文案
+- 刷新生产数据导出元信息
 
-Removed:
+移除：
 
-- X unsafe, stale, archived, hidden, or duplicate entries
+- X 个不安全、失效、归档、隐藏或重复条目
 
-Validation:
+校验：
 
 - `npm run validate`

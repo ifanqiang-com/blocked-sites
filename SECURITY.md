@@ -1,20 +1,20 @@
-# Security Policy
+# 安全说明
 
-## Reporting Unsafe Links
+## 反馈不安全链接
 
-If a listed resource appears to be malicious, compromised, deceptive, or unsafe, please report it with the "Report a broken or unsafe link" issue template.
+如果收录资源疑似恶意、被劫持、钓鱼、误导下载、跳转异常或已经不适合公开收录，请使用“反馈失效或不安全链接”模板提交 issue。
 
-Include:
+请尽量提供：
 
-- The listed URL.
-- What looks unsafe or misleading.
-- Browser or security-tool evidence when available.
-- Whether the issue is temporary, persistent, or domain-wide.
+- 被收录的 URL。
+- 问题现象：失效、跳转、浏览器警告、恶意下载、仿冒页面等。
+- HTTP 状态、跳转目标、浏览器提示或安全工具结果。
+- 问题是偶发、持续，还是整个域名都受影响。
 
-Do not include exploit instructions, credentials, private tokens, or sensitive personal information in a public issue.
+请不要在公开 issue 里发布漏洞利用步骤、账号密码、私有 token 或个人敏感信息。
 
-## Scope
+## 范围
 
-This repository publishes a public web resources dataset. It does not provide authentication systems, hosted user accounts, VPN/proxy services, or executable client software.
+这个仓库发布的是公开网站资源数据集，不提供账号系统、托管用户数据、VPN/代理服务或可执行客户端软件。
 
-Security reports for [ifanqiang.com](https://ifanqiang.com) itself should avoid public disclosure of sensitive technical details until the issue has been triaged.
+如果是 [ifanqiang.com](https://ifanqiang.com) 主站自身的安全问题，请避免在公开 issue 里披露敏感技术细节，先用最小必要信息说明问题。

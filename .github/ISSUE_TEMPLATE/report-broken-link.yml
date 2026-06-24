@@ -1,46 +1,46 @@
-name: Report a broken or unsafe link
-description: Report a dead, redirected, compromised, misleading, or unsafe resource.
-title: "[Link report]: "
+name: 反馈失效或不安全链接
+description: 反馈无法访问、异常跳转、疑似被劫持、误导、恶意或不适合继续收录的资源。
+title: "[链接反馈]: "
 labels: ["data: link-report"]
 body:
   - type: input
     id: listed_url
     attributes:
-      label: Listed URL
+      label: 被收录的 URL
       placeholder: "https://example.com"
     validations:
       required: true
   - type: input
     id: record
     attributes:
-      label: Record ID or Markdown page
-      placeholder: "bbc-com-zhongwen-simp or sites/items/bbc-com-zhongwen-simp.md"
+      label: 记录 ID 或 Markdown 页面
+      placeholder: "bbc-com-zhongwen-simp 或 sites/items/bbc-com-zhongwen-simp.md"
     validations:
       required: false
   - type: dropdown
     id: issue_type
     attributes:
-      label: What happened?
+      label: 问题类型
       options:
-        - Broken or timeout
-        - Redirected to a different site
-        - Unsafe or malicious
-        - Misleading or spammy
-        - Wrong category or description
-        - Duplicate
+        - 无法访问或超时
+        - 跳转到无关网站
+        - 疑似不安全或恶意
+        - 内容误导或垃圾站
+        - 分类或描述错误
+        - 重复收录
     validations:
       required: true
   - type: textarea
     id: evidence
     attributes:
-      label: Evidence
-      description: Include HTTP status, redirect target, screenshot description, browser warning, or security-tool result when available.
+      label: 证据或现象
+      description: 可以填写 HTTP 状态、跳转目标、浏览器警告、安全工具结果，或你看到的问题。
     validations:
       required: true
   - type: checkboxes
     id: disclosure
     attributes:
-      label: Safety
+      label: 安全确认
       options:
-        - label: I did not include private credentials, tokens, or exploit instructions.
+        - label: 我没有在 issue 中包含账号密码、私有 token、个人敏感信息或漏洞利用步骤。
           required: true

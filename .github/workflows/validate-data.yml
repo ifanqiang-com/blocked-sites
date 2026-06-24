@@ -1,4 +1,4 @@
-name: Validate data
+name: 校验数据
 
 on:
   push:
@@ -12,17 +12,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: 检出代码
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: 设置 Node
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
 
-      - name: Install dependencies
+      - name: 安装依赖
         run: npm ci
 
-      - name: Validate exports and schemas
+      - name: 校验导出数据和 schema
         run: npm run validate

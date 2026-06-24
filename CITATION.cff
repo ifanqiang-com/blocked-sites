@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-title: "Chinese Open Web Directory"
-message: "If you use this dataset, please cite it as below."
+title: "中文开放网站资源目录"
+message: "如果你使用这个数据集，请按以下信息引用。"
 type: dataset
 authors:
   - name: "ifanqiang.com"
@@ -19,4 +19,4 @@ keywords:
   - academic-resources
   - news-sources
   - public-resources
-abstract: "Chinese-friendly open web resources directory data for news, academic research, developer tools, AI tools, open data, communities, media, podcasts, and everyday utilities."
+abstract: "面向中文读者的公开网站资源目录数据集，覆盖新闻、学术研究、开发者工具、AI 工具、开放数据、社区、媒体、播客和日常工具。"

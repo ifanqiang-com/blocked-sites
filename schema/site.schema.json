@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/ifanqiang-com/chinese-open-web-directory/schema/site.schema.json",
-  "title": "Chinese Open Web Directory site record",
+  "title": "中文开放网站资源目录：网站记录",
   "type": "object",
   "additionalProperties": true,
   "required": [

@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/ifanqiang-com/chinese-open-web-directory/schema/youtube-channel.schema.json",
-  "title": "Chinese Open Web Directory YouTube channel record",
+  "title": "中文开放网站资源目录：YouTube 频道记录",
   "type": "object",
   "additionalProperties": true,
   "required": [

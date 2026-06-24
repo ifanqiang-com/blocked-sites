@@ -1,20 +1,20 @@
-# Changelog
+# 更新日志
 
-## 2026-W26 Public Web Resources Dataset
+## 2026-W26 公开网站资源数据集
 
-### Added
+### 新增
 
-- Markdown-first website directory for 1507 public website resources.
-- Markdown-first YouTube channel directory for 69 Chinese-friendly channels.
-- 30 topic pages for direct browsing on GitHub.
-- Contribution guide, security policy, issue templates, JSON schema, and GitHub Actions validation.
+- 1507 个公开网站资源的 Markdown 目录。
+- 69 个中文友好 YouTube 频道的 Markdown 目录。
+- 30 个可以直接在 GitHub 阅读的专题页。
+- 贡献指南、安全说明、issue 模板、JSON Schema 和 GitHub Actions 校验。
 
-### Changed
+### 变更
 
-- Repositioned the repository from a historical blocked-sites data package to a Chinese-friendly open web resources directory.
-- Kept JSON, CSV, and TXT exports as machine-readable compatibility data under `data/`.
-- Root README now explains that the project is not a VPN/proxy/bypass tutorial and not a gray-market link collection.
+- 仓库定位从历史上的 blocked-sites 数据包调整为“面向中文读者的公开网站资源目录”。
+- JSON、CSV 和 TXT 继续保留在 `data/` 下，作为机器读取兼容数据。
+- README 改为中文优先，并明确说明本项目不是 VPN/代理/绕过教程，也不是灰产链接集合。
 
-### Removed
+### 移除
 
-- No public active resources were removed in this documentation-only repositioning pass.
+- 本轮是文档定位调整，没有移除公开 active 资源。

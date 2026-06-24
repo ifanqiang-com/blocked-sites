@@ -1,39 +1,39 @@
-name: Suggest a category improvement
-description: Propose a new category, merge, split, rename, or tagging rule.
-title: "[Category]: "
+name: 建议调整分类
+description: 建议新增、重命名、拆分、合并分类，或改进标签和专题组织。
+title: "[分类建议]: "
 labels: ["data: category"]
 body:
   - type: dropdown
     id: change_type
     attributes:
-      label: Change type
+      label: 调整类型
       options:
-        - New category
-        - Rename category
-        - Split category
-        - Merge categories
-        - Tagging rule
-        - Topic page improvement
+        - 新增分类
+        - 重命名分类
+        - 拆分分类
+        - 合并分类
+        - 标签规则
+        - 专题页改进
     validations:
       required: true
   - type: input
     id: category
     attributes:
-      label: Category or topic name
-      placeholder: "developer-resources, academic-research, AI tools, etc."
+      label: 分类或专题名称
+      placeholder: "例如：开发者资源、学术研究、AI 工具"
     validations:
       required: true
   - type: textarea
     id: reason
     attributes:
-      label: Why is this useful?
-      description: Explain what becomes easier to find or maintain after this change.
+      label: 为什么这样改更好？
+      description: 请说明这个调整会让哪些资源更容易查找、理解或维护。
     validations:
       required: true
   - type: textarea
     id: examples
     attributes:
-      label: Example resources
-      description: List several records that should belong to the proposed category or rule.
+      label: 示例资源
+      description: 可以列出几个应该归入这个分类、标签或专题的条目。
     validations:
       required: false

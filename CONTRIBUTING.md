@@ -1,62 +1,62 @@
-# Contributing
+# 贡献指南
 
-Thanks for helping improve Chinese Open Web Directory. The goal is a useful, public, long-lived directory of open web resources for Chinese-speaking users.
+感谢你帮助改进中文开放网站资源目录。这个项目的目标是维护一个面向中文读者、公开、长期可用、可以直接阅读和机器读取的网站资源目录。
 
-## What We Accept
+## 收录什么
 
-Good additions are usually:
+适合提交的资源通常是：
 
-- Official websites, public documentation, public databases, media sources, research portals, developer tools, AI tools, software resources, communities, podcasts, or everyday utilities.
-- Useful to Chinese-speaking readers, either because the resource is in Chinese or because it is broadly useful and reasonably accessible to Chinese readers.
-- Publicly reachable from a normal browser.
-- Stable enough to be worth bookmarking.
-- Clear about what the user can actually do there.
+- 官方网站、公共文档、公开数据库、媒体来源、研究资料入口、开发者工具、AI 工具、软件资源、社区、播客或日常工具。
+- 对中文读者有价值：可以是中文资源，也可以是虽然不是中文但对中文读者很常用、很值得收藏的资源。
+- 能通过普通浏览器公开访问。
+- 足够稳定，值得长期收藏。
+- 能清楚说明用户进去之后到底能做什么。
 
-Each submission should include:
+每个提交建议包含：
 
-- Resource name.
-- Official URL.
-- Suggested category.
-- Short description of what the resource helps users do.
-- Tags.
-- Language.
-- Reason it belongs in this directory.
+- 资源名称。
+- 官方 URL。
+- 建议分类。
+- 简短说明：这个资源能帮用户做什么。
+- 标签。
+- 主要语言。
+- 为什么它应该被收录。
 
-## What We Do Not Accept
+## 不收录什么
 
-Do not submit:
+请不要提交：
 
-- VPN, airport, proxy, traffic resale, or bypass-service sales pages.
-- Adult, pornographic, gambling, piracy, warez, cracked-software, or gray-market services.
-- Malware, phishing, scam, fake login, deceptive download, or unsafe links.
-- Dark-web or deep-web gateway pages.
-- Obvious political mobilization sites.
-- Religious propaganda sites.
-- SEO spam, affiliate-only pages, link farms, or low-effort scraped directories.
-- Short-lived campaign pages that are unlikely to remain useful.
+- VPN、机场、代理、流量转售或绕过服务销售页。
+- 成人、色情、赌博、盗版、破解软件、灰产服务。
+- 恶意软件、钓鱼、诈骗、假登录、误导下载或其他不安全链接。
+- 暗网、深网入口。
+- 明显政治动员站点。
+- 宗教宣传站点。
+- SEO 垃圾站、联盟营销空壳页、链接农场、低质量采集目录。
+- 很短期的活动页，或者明显不适合长期收藏的页面。
 
-## Issue Types
+## Issue 类型
 
-Use the issue templates when possible:
+请优先使用仓库里的 issue 模板：
 
-- Recommend a public resource.
-- Report a broken or unsafe link.
-- Suggest a category improvement.
+- 推荐公开资源。
+- 反馈失效或不安全链接。
+- 建议调整分类。
 
-## Pull Requests
+## Pull Request
 
-For data changes:
+提交数据改动时：
 
-1. Keep the change focused.
-2. Explain what the site does in plain language.
-3. Use an existing category unless a new category is clearly needed.
-4. Run validation before opening the pull request.
+1. 保持改动聚焦。
+2. 用直白语言说明这个网站能做什么。
+3. 优先使用已有分类，确实需要时再建议新分类。
+4. 提交前运行校验。
 
 ```bash
 npm ci
 npm run validate
 ```
 
-## Data Source
+## 数据来源
 
-The published dataset is generated from the production database behind [ifanqiang.com](https://ifanqiang.com). Public exports include active and visible resources only. Archived, hidden, unsafe, or manually excluded records should not appear in Markdown pages or machine data.
+公开数据从 [ifanqiang.com](https://ifanqiang.com) 背后的生产数据库导出，只包含 active 且 visible 的资源。已归档、隐藏、不安全或人工排除的记录不应该出现在公开 Markdown 或机器数据里。

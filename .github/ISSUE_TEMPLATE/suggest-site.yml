@@ -1,60 +1,60 @@
-name: Recommend a public resource
-description: Suggest a public website, tool, dataset, community, media source, or channel.
-title: "[Resource]: "
+name: 推荐公开资源
+description: 推荐一个公开网站、工具、数据集、社区、媒体来源或频道。
+title: "[资源推荐]: "
 labels: ["data: suggestion"]
 body:
   - type: input
     id: name
     attributes:
-      label: Resource name
-      description: Official public name of the resource.
-      placeholder: "Example: arXiv"
+      label: 资源名称
+      description: 请填写官方名称或最常用名称。
+      placeholder: "例如：arXiv"
     validations:
       required: true
   - type: input
     id: url
     attributes:
-      label: Official URL
-      description: Use the canonical public URL.
+      label: 官方 URL
+      description: 请尽量填写 canonical URL，不要填跳转短链。
       placeholder: "https://example.com"
     validations:
       required: true
   - type: dropdown
     id: resource_type
     attributes:
-      label: Resource type
+      label: 资源类型
       options:
-        - Website
-        - YouTube channel
-        - Topic idea
-        - Other public resource
+        - 网站
+        - YouTube 频道
+        - 专题建议
+        - 其他公开资源
     validations:
       required: true
   - type: input
     id: category
     attributes:
-      label: Suggested category
-      placeholder: "academic-research, developer-resources, open data, news, etc."
+      label: 建议分类
+      placeholder: "例如：学术研究、开发者资源、开放数据、中文新闻"
     validations:
       required: true
   - type: textarea
     id: purpose
     attributes:
-      label: What can users do here?
-      description: Be concrete. Explain the resource's practical use, reputation, and why it belongs here.
+      label: 这个资源能做什么？
+      description: 请写具体一点：它解决什么问题，有什么口碑，为什么值得中文读者收藏。
     validations:
       required: true
   - type: input
     id: tags
     attributes:
-      label: Suggested tags
-      placeholder: "AI, research, Chinese, documentation"
+      label: 建议标签
+      placeholder: "例如：AI、研究、中文、文档"
     validations:
       required: true
   - type: dropdown
     id: language
     attributes:
-      label: Primary language
+      label: 主要语言
       options:
         - zh
         - en
@@ -64,11 +64,11 @@ body:
   - type: checkboxes
     id: policy
     attributes:
-      label: Submission policy
+      label: 收录规则确认
       options:
-        - label: This is not VPN/proxy/airport sales.
+        - label: 这不是 VPN、代理、机场或绕过服务销售页。
           required: true
-        - label: This is not adult, gambling, piracy, malware, phishing, gray-market, political mobilization, or religious propaganda content.
+        - label: 这不是成人、赌博、盗版、恶意软件、钓鱼、灰产、政治动员或宗教宣传内容。
           required: true
-        - label: The link is public and reasonably stable.
+        - label: 这个链接是公开、稳定、适合长期收藏的资源。
           required: true

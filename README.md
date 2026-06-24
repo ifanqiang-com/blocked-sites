@@ -1,62 +1,64 @@
-# Chinese Open Web Directory
+# 中文开放网站资源目录
 
-![Sites](https://img.shields.io/badge/sites-1507-2ea44f)
-![YouTube channels](https://img.shields.io/badge/youtube%20channels-69-red)
-![Topics](https://img.shields.io/badge/topics-30-blue)
+Chinese Open Web Directory
+
+![网站](https://img.shields.io/badge/%E7%BD%91%E7%AB%99-1507-2ea44f)
+![YouTube 频道](https://img.shields.io/badge/YouTube%20%E9%A2%91%E9%81%93-69-red)
+![专题](https://img.shields.io/badge/%E4%B8%93%E9%A2%98-30-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Chinese-friendly open web resources directory data for news, academic research, developer tools, AI tools, open data, communities, media, podcasts, and everyday utilities.
+这是一个面向中文读者的公开网站资源目录数据集，覆盖新闻、学术研究、开发者工具、AI 工具、开放数据、社区、媒体、播客和日常工具。
 
-This dataset powers [ifanqiang.com](https://ifanqiang.com), a Chinese-language navigation directory for public web resources.
+这个数据集驱动 [ifanqiang.com](https://ifanqiang.com)：一个给中文读者使用的公开网站导航目录。
 
-This project is:
+这个项目是：
 
-- A public website resources dataset for Chinese readers.
-- A direct Markdown directory you can browse on GitHub without downloading CSV files.
-- A structured source for news, academic research, AI tools, developer resources, open data, communities, media, podcasts, and practical utilities.
+- 给中文读者使用的公开网站资源数据集。
+- 可以直接在 GitHub 上阅读和点击的 Markdown 目录，不需要先下载 CSV。
+- 按新闻、学术、AI、开发者资源、开放数据、社区、媒体、播客、生活工具等场景组织的结构化数据。
 
-This project is not:
+这个项目不是：
 
-- A VPN, proxy, airport, or bypass tutorial.
-- A collection of gray-market links.
-- A claim that every listed website is blocked, unblocked, endorsed, or reachable from every network.
+- VPN、代理、机场或绕过访问限制的教程。
+- 灰产、成人、赌博、盗版或不安全链接集合。
+- 对任何网站在任何网络环境下都能访问、不能访问、被阻断或未被阻断的声明。
 
-Last generated from production data: `2026-06-21T23:56:17.348Z`
+最近一次生产数据导出时间：`2026-06-21T23:56:17.348Z`
 
-## Project Intro
+## 项目简介
 
-Chinese Open Web Directory keeps a public, readable, and machine-friendly directory of useful web resources for Chinese-speaking users. The repository focuses on durable, public, legitimate entry points: official websites, media sources, research databases, developer documentation, open data portals, communities, software resources, and YouTube channels.
+中文开放网站资源目录收录的是适合中文读者发现、收藏和长期使用的公开网站入口。这里优先收录官方站点、媒体来源、研究数据库、开发文档、开放数据入口、社区、软件资源、播客和 YouTube 频道。
 
-The GitHub repository is designed to be readable first. The Markdown pages under [sites/](sites/), [youtube/](youtube/), and [topics/](topics/) are the primary interface. JSON, CSV, and plain URL exports remain available under [data/](data/) for developers and automation.
+这个仓库的首要目标是“直接可读”。人类读者优先看 [sites/](sites/)、[youtube/](youtube/) 和 [topics/](topics/) 里的 Markdown 页面；程序和自动化脚本可以读取 [data/](data/) 里的 JSON、CSV 和纯 URL 列表。
 
-## What This Is / Is Not
+## 是什么 / 不是什么
 
-| This is | This is not |
+| 是什么 | 不是什么 |
 | --- | --- |
-| A Chinese-friendly open web resources directory | A proxy, VPN, or circumvention guide |
-| A public dataset for discovery, research, and navigation | A sales list for VPNs, airports, or traffic resale |
-| A Markdown-first GitHub directory with clickable links | A CSV-only data dump |
-| A structured dataset with categories, tags, and schemas | A gray-market, adult, gambling, piracy, or unsafe-link collection |
-| A source dataset for [ifanqiang.com](https://ifanqiang.com) | A political mobilization or religious promotion directory |
+| 面向中文读者的公开网站资源目录 | 代理、VPN、机场或访问绕过教程 |
+| 用于发现、研究、导航和引用的公开数据集 | 代理销售、流量转售或灰产入口 |
+| GitHub 上可以直接点击阅读的 Markdown 目录 | 只能下载后使用的 CSV 数据包 |
+| 带分类、标签和 schema 的结构化数据 | 成人、赌博、盗版、恶意软件或钓鱼链接集合 |
+| [ifanqiang.com](https://ifanqiang.com) 的公开数据源 | 政治动员或宗教宣传目录 |
 
-## Dataset Overview
+## 数据概览
 
-| Dataset | Count | Entry point |
+| 数据 | 数量 | 入口 |
 | --- | ---: | --- |
-| Websites | 1507 | [sites/README.md](sites/README.md) |
-| YouTube channels | 69 | [youtube/README.md](youtube/README.md) |
-| Topics | 30 | [topics/README.md](topics/README.md) |
-| Website categories | 15 | [sites/README.md](sites/README.md) |
-| YouTube categories | 8 | [youtube/README.md](youtube/README.md) |
-| Total exported links | 1576 | [data/all-links.json](data/all-links.json) |
+| 网站 | 1507 | [sites/README.md](sites/README.md) |
+| YouTube 频道 | 69 | [youtube/README.md](youtube/README.md) |
+| 专题 | 30 | [topics/README.md](topics/README.md) |
+| 网站分类 | 15 | [sites/README.md](sites/README.md) |
+| YouTube 分类 | 8 | [youtube/README.md](youtube/README.md) |
+| 全部导出链接 | 1576 | [data/all-links.json](data/all-links.json) |
 
-Production export rules:
+公开导出规则：
 
-- Websites: `status = 'active'` and `visible = true`.
-- YouTube channels: `status = 'active'` and `visible = true`.
-- Archived, hidden, unsafe, or manually excluded entries are not exported to public Markdown.
+- 网站：只导出 `status = 'active'` 且 `visible = true` 的条目。
+- YouTube 频道：只导出 `status = 'active'` 且 `visible = true` 的条目。
+- 已归档、隐藏、不安全或人工排除的条目不会进入公开 Markdown。
 
-Machine-readable files:
+机器数据保留在：
 
 - [data/sites.json](data/sites.json)
 - [data/sites.csv](data/sites.csv)
@@ -66,18 +68,19 @@ Machine-readable files:
 - [data/all-links.csv](data/all-links.csv)
 - [data/urls.txt](data/urls.txt)
 - [schema/site.schema.json](schema/site.schema.json)
+- [schema/youtube-channel.schema.json](schema/youtube-channel.schema.json)
 
-Compatibility files remain at the repository root for now:
+根目录兼容文件暂时保留：
 
 - [sites.json](sites.json)
 - [youtube-channels.json](youtube-channels.json)
 - [categories.json](categories.json)
 
-## Categories
+## 分类入口
 
-### Websites
+### 网站
 
-| Category | Count |
+| 分类 | 数量 |
 | --- | ---: |
 | [中文新闻](sites/chinese-news.md) | 116 |
 | [国际新闻](sites/international-news.md) | 100 |
@@ -95,9 +98,9 @@ Compatibility files remain at the repository root for now:
 | [生活出行](sites/life-travel.md) | 108 |
 | [隐私安全](sites/privacy-security.md) | 100 |
 
-### YouTube Channels
+### YouTube 频道
 
-| Category | Count |
+| 分类 | 数量 |
 | --- | ---: |
 | [新闻与公共议题](youtube/youtube-news-public-affairs.md) | 10 |
 | [商业财经](youtube/youtube-business-finance.md) | 5 |
@@ -108,15 +111,15 @@ Compatibility files remain at the repository root for now:
 | [影视娱乐](youtube/youtube-film-entertainment.md) | 11 |
 | [香港与东南亚](youtube/youtube-hong-kong-southeast-asia.md) | 14 |
 
-### Topic Pages
+### 专题
 
-The topic pages group resources around concrete use cases, such as academic research, developer documentation, cybersecurity references, public data, Chinese news, podcasts, YouTube channels, finance data, and travel tools.
+专题页按具体用途组织资源，例如学术研究、开发者文档、安全资料、公共数据、中文新闻、播客、中文 YouTube 频道、财经数据和出行工具。
 
-Start from [topics/README.md](topics/README.md).
+从 [topics/README.md](topics/README.md) 开始浏览。
 
-## Example Records
+## 数据示例
 
-### Website JSON
+### 网站 JSON
 
 ```json
 {
@@ -133,7 +136,7 @@ Start from [topics/README.md](topics/README.md).
 }
 ```
 
-### YouTube Channel JSON
+### YouTube 频道 JSON
 
 ```json
 {
@@ -149,15 +152,15 @@ Start from [topics/README.md](topics/README.md).
 }
 ```
 
-## How To Use The Data
+## 如何使用
 
-Browse directly on GitHub:
+直接在 GitHub 上浏览：
 
-- [All website categories](sites/README.md)
-- [All YouTube categories](youtube/README.md)
-- [All topic pages](topics/README.md)
+- [网站分类目录](sites/README.md)
+- [YouTube 频道目录](youtube/README.md)
+- [专题目录](topics/README.md)
 
-Use the JSON export:
+读取 JSON：
 
 ```js
 import sites from "./data/sites.json" assert { type: "json" };
@@ -165,53 +168,53 @@ import sites from "./data/sites.json" assert { type: "json" };
 const academicResources = sites.filter((site) => site.category === "academic-research");
 ```
 
-Validate the repository:
+本地校验：
 
 ```bash
 npm ci
 npm run validate
 ```
 
-Regenerate from production data:
+从生产数据库重新导出：
 
 ```bash
 DATABASE_URL="postgres://..." DATABASE_SSL=true npm run export:prod
 npm run validate
 ```
 
-Production credentials are never committed to this repository.
+生产数据库连接不会提交到仓库。
 
-Release naming convention:
+发布命名建议：
 
 ```text
-2026-W26 Public Web Resources Dataset
+2026-W26 公开网站资源数据集
 ```
 
-Use [.github/RELEASE_TEMPLATE.md](.github/RELEASE_TEMPLATE.md) for release notes.
+发布说明模板见 [.github/RELEASE_TEMPLATE.md](.github/RELEASE_TEMPLATE.md)。
 
-## Contributing
+## 贡献
 
-Contributions are welcome when they improve the public value, accuracy, safety, or structure of the directory.
+欢迎提交能提升目录公共价值、准确性、安全性和可维护性的建议。
 
-Good submissions usually include:
+好的资源推荐通常包括：
 
-- A public, official, or long-lived resource link.
-- A clear explanation of what the resource helps users do.
-- A suggested category and useful tags.
-- Evidence that the link is not unsafe, spammy, or misleading.
+- 公开、官方或长期稳定的资源链接。
+- 这个资源到底能帮用户做什么。
+- 建议分类和标签。
+- 为什么它不是垃圾站、误导链接或不安全链接。
 
-This repository does not accept VPN sales, proxy sales, adult content, gambling, piracy, malware, phishing, gray-market services, obvious political mobilization sites, or religious propaganda sites.
+本仓库不收录 VPN 销售、代理销售、成人内容、赌博、盗版、恶意软件、钓鱼、灰产服务、明显政治动员站点或宗教宣传站点。
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution rules.
+完整规则见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
-## License
+## 许可证
 
-MIT. See [LICENSE](LICENSE).
+MIT。见 [LICENSE](LICENSE)。
 
-## Related Links
+## 相关链接
 
-- Main website: [ifanqiang.com](https://ifanqiang.com)
-- Markdown website directory: [sites/README.md](sites/README.md)
-- Markdown YouTube directory: [youtube/README.md](youtube/README.md)
-- Markdown topic directory: [topics/README.md](topics/README.md)
-- Machine data: [data/](data/)
+- 主站：[ifanqiang.com](https://ifanqiang.com)
+- 网站 Markdown 目录：[sites/README.md](sites/README.md)
+- YouTube Markdown 目录：[youtube/README.md](youtube/README.md)
+- 专题 Markdown 目录：[topics/README.md](topics/README.md)
+- 机器数据：[data/](data/)
